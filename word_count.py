@@ -5,7 +5,8 @@ def main():
 	input_file = sc.textFile('/Akamai_scratch/arxiv/outdir3') 
 	counts = input_file.flatMap(lambda line: line.split()) \
 		.map(lambda word: (word, 1)) \
-		.reduceByKey(lambda a, b: a + b) counts.saveAsTextFile('/Akamai_scratch/team_fan')
+		.reduceByKey(lambda a, b: a + b) 
+	counts.saveAsTextFile('/Akamai_scratch/team_fan/word_count.csv')
 	sc.stop()
 
 if __name__ == '__main__':
