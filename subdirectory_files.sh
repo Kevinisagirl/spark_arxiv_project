@@ -1,0 +1,1 @@
+for folders in $(ls -d */); do for file in $(ls $PWD/$folders); do dir=$(echo $folders | cut -d'/' -f 1); newpath=$(echo $dir)_$(echo $file); cp $folders/$file $PWD/$newpath; done; rm -r $folders; done
