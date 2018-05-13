@@ -1,0 +1,7126 @@
+,Code,article,Name
+0,cn,1.0,China
+1,cn,1.0,China
+2,cn,5.0,China
+3,cn,139.0,China
+4,cn,139.0,China
+5,cn,152.0,China
+6,cn,212.0,China
+7,cn,212.0,China
+8,cn,270.0,China
+9,cn,272.0,China
+10,cn,272.0,China
+11,cn,276.0,China
+12,cn,278.0,China
+13,cn,281.0,China
+14,cn,326.0,China
+15,cn,326.0,China
+16,cn,327.0,China
+17,cn,335.0,China
+18,cn,335.0,China
+19,cn,335.0,China
+20,cn,520.0,China
+21,cn,524.0,China
+22,cn,590.0,China
+23,cn,590.0,China
+24,cn,680.0,China
+25,cn,686.0,China
+26,cn,691.0,China
+27,cn,693.0,China
+28,cn,698.0,China
+29,cn,708.0,China
+30,cn,732.0,China
+31,cn,733.0,China
+32,cn,734.0,China
+33,cn,734.0,China
+34,cn,734.0,China
+35,cn,734.0,China
+36,cn,734.0,China
+37,cn,809.0,China
+38,cn,809.0,China
+39,cn,809.0,China
+40,cn,825.0,China
+41,cn,879.0,China
+42,cn,879.0,China
+43,cn,879.0,China
+44,cn,894.0,China
+45,cn,894.0,China
+46,cn,900.0,China
+47,cn,900.0,China
+48,cn,901.0,China
+49,cn,901.0,China
+50,cn,901.0,China
+51,cn,949.0,China
+52,cn,949.0,China
+53,cn,949.0,China
+54,cn,953.0,China
+55,cn,997.0,China
+56,cn,997.0,China
+57,cn,1127.0,China
+58,cn,1137.0,China
+59,cn,1151.0,China
+60,cn,1152.0,China
+61,cn,1157.0,China
+62,cn,1193.0,China
+63,cn,1193.0,China
+64,cn,1261.0,China
+65,cn,1264.0,China
+66,cn,1264.0,China
+67,cn,1296.0,China
+68,cn,1296.0,China
+69,cn,1315.0,China
+70,cn,1315.0,China
+71,cn,1317.0,China
+72,cn,1388.0,China
+73,cn,1512.0,China
+74,cn,1661.0,China
+75,cn,1661.0,China
+76,cn,1661.0,China
+77,cn,1663.0,China
+78,cn,1688.0,China
+79,cn,1721.0,China
+80,cn,1721.0,China
+81,cn,1721.0,China
+82,cn,1721.0,China
+83,cn,1760.0,China
+84,cn,1778.0,China
+85,cn,1804.0,China
+86,cn,1866.0,China
+87,cn,1866.0,China
+88,cn,2054.0,China
+89,cn,2054.0,China
+90,cn,2085.0,China
+91,cn,2090.0,China
+92,cn,2134.0,China
+93,cn,2151.0,China
+94,cn,2151.0,China
+95,cn,2152.0,China
+96,cn,2152.0,China
+97,cn,2153.0,China
+98,cn,2153.0,China
+99,cn,2153.0,China
+100,cn,2153.0,China
+101,cn,2155.0,China
+102,cn,2163.0,China
+103,cn,2164.0,China
+104,cn,2175.0,China
+105,cn,2184.0,China
+106,cn,2185.0,China
+107,cn,2194.0,China
+108,cn,2200.0,China
+109,cn,2225.0,China
+110,cn,2258.0,China
+111,cn,2258.0,China
+112,cn,2258.0,China
+113,cn,2271.0,China
+114,cn,2271.0,China
+115,cn,2279.0,China
+116,cn,2304.0,China
+117,cn,2327.0,China
+118,cn,2345.0,China
+119,cn,2447.0,China
+120,cn,2554.0,China
+121,cn,2627.0,China
+122,cn,2627.0,China
+123,cn,2647.0,China
+124,cn,2662.0,China
+125,cn,2662.0,China
+126,cn,2666.0,China
+127,cn,2666.0,China
+128,cn,2667.0,China
+129,cn,2730.0,China
+130,cn,2874.0,China
+131,cn,2889.0,China
+132,cn,2918.0,China
+133,cn,2918.0,China
+134,cn,2980.0,China
+135,cn,2985.0,China
+136,cn,2985.0,China
+137,cn,3175.0,China
+138,cn,3198.0,China
+139,cn,3205.0,China
+140,cn,3221.0,China
+141,cn,3248.0,China
+142,cn,3248.0,China
+143,cn,3248.0,China
+144,cn,3248.0,China
+145,cn,3248.0,China
+146,cn,3261.0,China
+147,cn,3283.0,China
+148,cn,3283.0,China
+149,cn,3283.0,China
+150,cn,3283.0,China
+151,cn,3283.0,China
+152,cn,3286.0,China
+153,cn,3288.0,China
+154,cn,3298.0,China
+155,cn,3392.0,China
+156,cn,3430.0,China
+157,cn,3469.0,China
+158,cn,3470.0,China
+159,cn,3529.0,China
+160,cn,3529.0,China
+161,cn,3563.0,China
+162,cn,3611.0,China
+163,cn,3668.0,China
+164,cn,3779.0,China
+165,cn,3782.0,China
+166,cn,3823.0,China
+167,cn,3831.0,China
+168,cn,3831.0,China
+169,cn,3831.0,China
+170,cn,3834.0,China
+171,cn,3836.0,China
+172,cn,3836.0,China
+173,cn,3836.0,China
+174,cn,3931.0,China
+175,cn,3936.0,China
+176,cn,3936.0,China
+177,cn,3994.0,China
+178,cn,4010.0,China
+179,cn,4047.0,China
+180,cn,4047.0,China
+181,cn,4062.0,China
+182,cn,4239.0,China
+183,cn,4259.0,China
+184,cn,4354.0,China
+185,cn,4355.0,China
+186,cn,4371.0,China
+187,cn,4379.0,China
+188,cn,4383.0,China
+189,cn,4387.0,China
+190,cn,4387.0,China
+191,cn,4420.0,China
+192,cn,4421.0,China
+193,cn,4441.0,China
+194,cn,4441.0,China
+195,cn,4449.0,China
+196,cn,4449.0,China
+197,cn,4527.0,China
+198,cn,4527.0,China
+199,cn,4590.0,China
+200,cn,4590.0,China
+201,cn,4590.0,China
+202,cn,4630.0,China
+203,cn,4795.0,China
+204,cn,4868.0,China
+205,cn,4887.0,China
+206,cn,4906.0,China
+207,cn,4909.0,China
+208,cn,4909.0,China
+209,cn,4915.0,China
+210,cn,4921.0,China
+211,cn,4921.0,China
+212,cn,4929.0,China
+213,cn,4935.0,China
+214,cn,4941.0,China
+215,cn,4943.0,China
+216,cn,4962.0,China
+217,cn,4966.0,China
+218,cn,5071.0,China
+219,cn,5127.0,China
+220,cn,5141.0,China
+221,cn,5182.0,China
+222,cn,5216.0,China
+223,cn,5218.0,China
+224,cn,5237.0,China
+225,cn,5255.0,China
+226,cn,5255.0,China
+227,cn,5269.0,China
+228,cn,5269.0,China
+229,cn,5269.0,China
+230,cn,5269.0,China
+231,cn,5269.0,China
+232,cn,5269.0,China
+233,cn,5269.0,China
+234,cn,5269.0,China
+235,cn,5393.0,China
+236,cn,5414.0,China
+237,cn,5414.0,China
+238,cn,5414.0,China
+239,cn,5414.0,China
+240,cn,5415.0,China
+241,cn,5448.0,China
+242,cn,5448.0,China
+243,cn,5461.0,China
+244,cn,5461.0,China
+245,cn,5461.0,China
+246,cn,5462.0,China
+247,cn,5599.0,China
+248,cn,5599.0,China
+249,cn,5599.0,China
+250,cn,5599.0,China
+251,cn,5637.0,China
+252,cn,5665.0,China
+253,cn,5672.0,China
+254,cn,5725.0,China
+255,cn,5725.0,China
+256,cn,5881.0,China
+257,cn,5952.0,China
+258,cn,6012.0,China
+259,cn,6023.0,China
+260,cn,6050.0,China
+261,cn,6062.0,China
+262,cn,6065.0,China
+263,cn,6071.0,China
+264,cn,6141.0,China
+265,cn,6171.0,China
+266,cn,6176.0,China
+267,cn,6199.0,China
+268,cn,6199.0,China
+269,cn,6200.0,China
+270,cn,6200.0,China
+271,cn,6218.0,China
+272,cn,6258.0,China
+273,cn,6258.0,China
+274,cn,6368.0,China
+275,cn,6368.0,China
+276,cn,6371.0,China
+277,cn,6381.0,China
+278,cn,6386.0,China
+279,cn,6387.0,China
+280,cn,6388.0,China
+281,cn,6408.0,China
+282,cn,6412.0,China
+283,cn,6436.0,China
+284,cn,6452.0,China
+285,cn,6452.0,China
+286,cn,6457.0,China
+287,cn,6506.0,China
+288,cn,6516.0,China
+289,cn,6516.0,China
+290,cn,6516.0,China
+291,cn,6554.0,China
+292,cn,6568.0,China
+293,cn,6570.0,China
+294,cn,6570.0,China
+295,cn,6591.0,China
+296,cn,6591.0,China
+297,cn,6607.0,China
+298,cn,6607.0,China
+299,cn,6607.0,China
+300,cn,6607.0,China
+301,cn,6607.0,China
+302,cn,6664.0,China
+303,cn,6681.0,China
+304,cn,7021.0,China
+305,cn,7025.0,China
+306,cn,7063.0,China
+307,cn,7073.0,China
+308,cn,7074.0,China
+309,cn,7074.0,China
+310,cn,7144.0,China
+311,cn,7144.0,China
+312,cn,7235.0,China
+313,cn,7311.0,China
+314,cn,7339.0,China
+315,cn,7369.0,China
+316,cn,7372.0,China
+317,cn,7388.0,China
+318,cn,7421.0,China
+319,cn,7421.0,China
+320,cn,7491.0,China
+321,cn,7558.0,China
+322,cn,7558.0,China
+323,cn,7558.0,China
+324,cn,7558.0,China
+325,cn,7566.0,China
+326,cn,7687.0,China
+327,cn,7690.0,China
+328,cn,7720.0,China
+329,cn,7751.0,China
+330,cn,7752.0,China
+331,cn,7753.0,China
+332,cn,7772.0,China
+333,cn,7821.0,China
+334,cn,7821.0,China
+335,cn,7821.0,China
+336,cn,7822.0,China
+337,cn,7842.0,China
+338,cn,7888.0,China
+339,cn,7913.0,China
+340,cn,7936.0,China
+341,cn,7936.0,China
+342,cn,7936.0,China
+343,cn,7937.0,China
+344,cn,7938.0,China
+345,cn,7985.0,China
+346,cn,8040.0,China
+347,cn,8084.0,China
+348,cn,8086.0,China
+349,cn,8086.0,China
+350,cn,8086.0,China
+351,cn,8109.0,China
+352,cn,8185.0,China
+353,cn,8195.0,China
+354,cn,8262.0,China
+355,cn,8284.0,China
+356,cn,8307.0,China
+357,cn,8307.0,China
+358,cn,8314.0,China
+359,cn,8314.0,China
+360,cn,8314.0,China
+361,cn,8327.0,China
+362,cn,8392.0,China
+363,cn,8392.0,China
+364,cn,8445.0,China
+365,cn,8445.0,China
+366,cn,8445.0,China
+367,cn,8459.0,China
+368,cn,8459.0,China
+369,cn,8710.0,China
+370,cn,8710.0,China
+371,cn,8710.0,China
+372,cn,8719.0,China
+373,cn,8743.0,China
+374,cn,8765.0,China
+375,cn,8828.0,China
+376,cn,8973.0,China
+377,cn,8977.0,China
+378,cn,8994.0,China
+379,cn,9071.0,China
+380,cn,9162.0,China
+381,cn,9162.0,China
+382,cn,9181.0,China
+383,cn,9219.0,China
+384,cn,9232.0,China
+385,cn,9240.0,China
+386,cn,9240.0,China
+387,cn,9244.0,China
+388,cn,9279.0,China
+389,cn,9292.0,China
+390,cn,9371.0,China
+391,cn,9383.0,China
+392,cn,9383.0,China
+393,cn,9384.0,China
+394,cn,9401.0,China
+395,cn,9401.0,China
+396,cn,9422.0,China
+397,cn,9423.0,China
+398,cn,9435.0,China
+399,cn,9435.0,China
+400,cn,9441.0,China
+401,cn,9447.0,China
+402,cn,9488.0,China
+403,cn,9679.0,China
+404,cn,9679.0,China
+405,cn,9685.0,China
+406,cn,9705.0,China
+407,cn,9801.0,China
+408,cn,9810.0,China
+409,cn,9814.0,China
+410,cn,9814.0,China
+411,cn,9827.0,China
+412,cn,9835.0,China
+413,cn,9843.0,China
+414,cn,9902.0,China
+415,cn,10049.0,China
+416,cn,10137.0,China
+417,cn,10149.0,China
+418,cn,10219.0,China
+419,cn,10219.0,China
+420,cn,10219.0,China
+421,cn,10222.0,China
+422,cn,10227.0,China
+423,cn,10275.0,China
+424,cn,10275.0,China
+425,cn,10298.0,China
+426,cn,10370.0,China
+427,cn,10370.0,China
+428,cn,10370.0,China
+429,cn,10376.0,China
+430,cn,10378.0,China
+431,cn,10419.0,China
+432,cn,10420.0,China
+433,cn,10423.0,China
+434,cn,10423.0,China
+435,cn,10423.0,China
+436,cn,10423.0,China
+437,cn,10423.0,China
+438,cn,10423.0,China
+439,cn,10423.0,China
+440,cn,10423.0,China
+441,cn,10455.0,China
+442,cn,10455.0,China
+443,cn,10521.0,China
+444,cn,10523.0,China
+445,cn,10523.0,China
+446,cn,10584.0,China
+447,cn,10584.0,China
+448,cn,10635.0,China
+449,cn,10857.0,China
+450,cn,10881.0,China
+451,cn,10906.0,China
+452,cn,10932.0,China
+453,cn,10934.0,China
+454,cn,11034.0,China
+455,cn,11045.0,China
+456,cn,11057.0,China
+457,cn,11057.0,China
+458,cn,11086.0,China
+459,cn,11100.0,China
+460,cn,11104.0,China
+461,cn,11216.0,China
+462,cn,11216.0,China
+463,cn,11223.0,China
+464,cn,11257.0,China
+465,cn,11440.0,China
+466,cn,11469.0,China
+467,cn,11508.0,China
+468,cn,11509.0,China
+469,cn,11511.0,China
+470,cn,11543.0,China
+471,cn,11557.0,China
+472,cn,11611.0,China
+473,cn,11626.0,China
+474,cn,11628.0,China
+475,cn,11678.0,China
+476,cn,11678.0,China
+477,cn,11678.0,China
+478,cn,11709.0,China
+479,cn,11709.0,China
+480,cn,11709.0,China
+481,cn,11745.0,China
+482,cn,11836.0,China
+483,cn,11875.0,China
+484,cn,11875.0,China
+485,cn,12018.0,China
+486,cn,12018.0,China
+487,cn,12049.0,China
+488,cn,12103.0,China
+489,cn,12121.0,China
+490,cn,12261.0,China
+491,cn,12449.0,China
+492,cn,12495.0,China
+493,cn,12498.0,China
+494,cn,12507.0,China
+495,cn,12507.0,China
+496,cn,12507.0,China
+497,cn,12569.0,China
+498,cn,12591.0,China
+499,cn,12591.0,China
+500,cn,12597.0,China
+501,cn,12604.0,China
+502,cn,12625.0,China
+503,cn,12625.0,China
+504,cn,12715.0,China
+505,cn,12745.0,China
+506,cn,12778.0,China
+507,cn,12783.0,China
+508,cn,12787.0,China
+509,cn,12787.0,China
+510,cn,12787.0,China
+511,cn,12788.0,China
+512,cn,12789.0,China
+513,cn,12817.0,China
+514,cn,12831.0,China
+515,cn,12942.0,China
+516,cn,12983.0,China
+517,cn,12985.0,China
+518,cn,12985.0,China
+519,cn,13004.0,China
+520,cn,13004.0,China
+521,cn,13011.0,China
+522,cn,13022.0,China
+523,cn,13023.0,China
+524,cn,13023.0,China
+525,cn,13028.0,China
+526,cn,13028.0,China
+527,cn,13029.0,China
+528,cn,13038.0,China
+529,cn,13048.0,China
+530,cn,13302.0,China
+531,cn,13381.0,China
+532,cn,13432.0,China
+533,cn,13469.0,China
+534,cn,13648.0,China
+535,cn,13653.0,China
+536,cn,13654.0,China
+537,cn,13655.0,China
+538,cn,13667.0,China
+539,cn,13667.0,China
+540,cn,13667.0,China
+541,cn,13688.0,China
+542,cn,13705.0,China
+543,cn,13709.0,China
+544,cn,13709.0,China
+545,cn,13709.0,China
+546,cn,13741.0,China
+547,cn,13744.0,China
+548,cn,13744.0,China
+549,cn,13744.0,China
+550,cn,13804.0,China
+551,cn,13805.0,China
+552,cn,13896.0,China
+553,cn,13914.0,China
+554,cn,13914.0,China
+555,cn,13915.0,China
+556,cn,13923.0,China
+557,cn,13924.0,China
+558,cn,13935.0,China
+559,cn,13942.0,China
+560,cn,13942.0,China
+561,cn,13949.0,China
+562,cn,13949.0,China
+563,cn,13950.0,China
+564,cn,14040.0,China
+565,cn,14040.0,China
+566,cn,14040.0,China
+567,cn,14040.0,China
+568,cn,14175.0,China
+569,cn,14253.0,China
+570,cn,14253.0,China
+571,cn,14282.0,China
+572,cn,14291.0,China
+573,cn,14291.0,China
+574,cn,14337.0,China
+575,cn,14348.0,China
+576,cn,14355.0,China
+577,cn,14382.0,China
+578,cn,14494.0,China
+579,cn,14511.0,China
+580,cn,14545.0,China
+581,cn,14545.0,China
+582,cn,14618.0,China
+583,cn,14618.0,China
+584,cn,14621.0,China
+585,cn,14668.0,China
+586,cn,14753.0,China
+587,edu,2.0,United States
+588,edu,2.0,United States
+589,edu,7.0,United States
+590,edu,7.0,United States
+591,edu,20.0,United States
+592,edu,23.0,United States
+593,edu,32.0,United States
+594,edu,32.0,United States
+595,edu,32.0,United States
+596,edu,32.0,United States
+597,edu,35.0,United States
+598,edu,35.0,United States
+599,edu,35.0,United States
+600,edu,35.0,United States
+601,edu,39.0,United States
+602,edu,40.0,United States
+603,edu,40.0,United States
+604,edu,62.0,United States
+605,edu,62.0,United States
+606,edu,63.0,United States
+607,edu,65.0,United States
+608,edu,66.0,United States
+609,edu,67.0,United States
+610,edu,71.0,United States
+611,edu,71.0,United States
+612,edu,73.0,United States
+613,edu,73.0,United States
+614,edu,76.0,United States
+615,edu,76.0,United States
+616,edu,77.0,United States
+617,edu,78.0,United States
+618,edu,80.0,United States
+619,edu,101.0,United States
+620,edu,123.0,United States
+621,edu,134.0,United States
+622,edu,141.0,United States
+623,edu,148.0,United States
+624,edu,181.0,United States
+625,edu,206.0,United States
+626,edu,206.0,United States
+627,edu,215.0,United States
+628,edu,216.0,United States
+629,edu,221.0,United States
+630,edu,221.0,United States
+631,edu,227.0,United States
+632,edu,228.0,United States
+633,edu,232.0,United States
+634,edu,245.0,United States
+635,edu,250.0,United States
+636,edu,250.0,United States
+637,edu,250.0,United States
+638,edu,254.0,United States
+639,edu,254.0,United States
+640,edu,264.0,United States
+641,edu,264.0,United States
+642,edu,268.0,United States
+643,edu,275.0,United States
+644,edu,291.0,United States
+645,edu,301.0,United States
+646,edu,301.0,United States
+647,edu,305.0,United States
+648,edu,306.0,United States
+649,edu,308.0,United States
+650,edu,319.0,United States
+651,edu,348.0,United States
+652,edu,370.0,United States
+653,edu,371.0,United States
+654,edu,371.0,United States
+655,edu,398.0,United States
+656,edu,398.0,United States
+657,edu,398.0,United States
+658,edu,402.0,United States
+659,edu,411.0,United States
+660,edu,418.0,United States
+661,edu,418.0,United States
+662,edu,418.0,United States
+663,edu,425.0,United States
+664,edu,425.0,United States
+665,edu,425.0,United States
+666,edu,428.0,United States
+667,edu,428.0,United States
+668,edu,430.0,United States
+669,edu,435.0,United States
+670,edu,438.0,United States
+671,edu,456.0,United States
+672,edu,456.0,United States
+673,edu,467.0,United States
+674,edu,472.0,United States
+675,edu,472.0,United States
+676,edu,473.0,United States
+677,edu,479.0,United States
+678,edu,479.0,United States
+679,edu,486.0,United States
+680,edu,496.0,United States
+681,edu,496.0,United States
+682,edu,519.0,United States
+683,edu,519.0,United States
+684,edu,522.0,United States
+685,edu,522.0,United States
+686,edu,524.0,United States
+687,edu,526.0,United States
+688,edu,549.0,United States
+689,edu,555.0,United States
+690,edu,555.0,United States
+691,edu,555.0,United States
+692,edu,582.0,United States
+693,edu,590.0,United States
+694,edu,591.0,United States
+695,edu,606.0,United States
+696,edu,607.0,United States
+697,edu,613.0,United States
+698,edu,614.0,United States
+699,edu,619.0,United States
+700,edu,619.0,United States
+701,edu,621.0,United States
+702,edu,621.0,United States
+703,edu,622.0,United States
+704,edu,626.0,United States
+705,edu,629.0,United States
+706,edu,640.0,United States
+707,edu,641.0,United States
+708,edu,647.0,United States
+709,edu,647.0,United States
+710,edu,650.0,United States
+711,edu,653.0,United States
+712,edu,653.0,United States
+713,edu,653.0,United States
+714,edu,661.0,United States
+715,edu,662.0,United States
+716,edu,663.0,United States
+717,edu,663.0,United States
+718,edu,668.0,United States
+719,edu,683.0,United States
+720,edu,684.0,United States
+721,edu,687.0,United States
+722,edu,687.0,United States
+723,edu,690.0,United States
+724,edu,690.0,United States
+725,edu,694.0,United States
+726,edu,694.0,United States
+727,edu,698.0,United States
+728,edu,711.0,United States
+729,edu,734.0,United States
+730,edu,744.0,United States
+731,edu,786.0,United States
+732,edu,797.0,United States
+733,edu,827.0,United States
+734,edu,830.0,United States
+735,edu,832.0,United States
+736,edu,832.0,United States
+737,edu,840.0,United States
+738,edu,840.0,United States
+739,edu,844.0,United States
+740,edu,845.0,United States
+741,edu,845.0,United States
+742,edu,845.0,United States
+743,edu,906.0,United States
+744,edu,907.0,United States
+745,edu,913.0,United States
+746,edu,915.0,United States
+747,edu,915.0,United States
+748,edu,915.0,United States
+749,edu,916.0,United States
+750,edu,923.0,United States
+751,edu,930.0,United States
+752,edu,930.0,United States
+753,edu,948.0,United States
+754,edu,949.0,United States
+755,edu,949.0,United States
+756,edu,952.0,United States
+757,edu,966.0,United States
+758,edu,968.0,United States
+759,edu,972.0,United States
+760,edu,972.0,United States
+761,edu,976.0,United States
+762,edu,979.0,United States
+763,edu,994.0,United States
+764,edu,997.0,United States
+765,edu,1000.0,United States
+766,edu,1002.0,United States
+767,edu,1002.0,United States
+768,edu,1011.0,United States
+769,edu,1011.0,United States
+770,edu,1015.0,United States
+771,edu,1020.0,United States
+772,edu,1021.0,United States
+773,edu,1021.0,United States
+774,edu,1021.0,United States
+775,edu,1023.0,United States
+776,edu,1028.0,United States
+777,edu,1032.0,United States
+778,edu,1032.0,United States
+779,edu,1032.0,United States
+780,edu,1032.0,United States
+781,edu,1032.0,United States
+782,edu,1032.0,United States
+783,edu,1032.0,United States
+784,edu,1033.0,United States
+785,edu,1043.0,United States
+786,edu,1043.0,United States
+787,edu,1043.0,United States
+788,edu,1043.0,United States
+789,edu,1043.0,United States
+790,edu,1043.0,United States
+791,edu,1043.0,United States
+792,edu,1043.0,United States
+793,edu,1051.0,United States
+794,edu,1051.0,United States
+795,edu,1051.0,United States
+796,edu,1082.0,United States
+797,edu,1082.0,United States
+798,edu,1082.0,United States
+799,edu,1100.0,United States
+800,edu,1102.0,United States
+801,edu,1106.0,United States
+802,edu,1113.0,United States
+803,edu,1113.0,United States
+804,edu,1125.0,United States
+805,edu,1129.0,United States
+806,edu,1130.0,United States
+807,edu,1135.0,United States
+808,edu,1139.0,United States
+809,edu,1142.0,United States
+810,edu,1145.0,United States
+811,edu,1145.0,United States
+812,edu,1145.0,United States
+813,edu,1149.0,United States
+814,edu,1156.0,United States
+815,edu,1156.0,United States
+816,edu,1158.0,United States
+817,edu,1179.0,United States
+818,edu,1180.0,United States
+819,edu,1180.0,United States
+820,edu,1180.0,United States
+821,edu,1181.0,United States
+822,edu,1217.0,United States
+823,edu,1221.0,United States
+824,edu,1225.0,United States
+825,edu,1275.0,United States
+826,edu,1298.0,United States
+827,edu,1298.0,United States
+828,edu,1307.0,United States
+829,edu,1313.0,United States
+830,edu,1331.0,United States
+831,edu,1334.0,United States
+832,edu,1344.0,United States
+833,edu,1370.0,United States
+834,edu,1376.0,United States
+835,edu,1376.0,United States
+836,edu,1380.0,United States
+837,edu,1388.0,United States
+838,edu,1388.0,United States
+839,edu,1398.0,United States
+840,edu,1398.0,United States
+841,edu,1398.0,United States
+842,edu,1398.0,United States
+843,edu,1425.0,United States
+844,edu,1441.0,United States
+845,edu,1441.0,United States
+846,edu,1452.0,United States
+847,edu,1452.0,United States
+848,edu,1473.0,United States
+849,edu,1473.0,United States
+850,edu,1473.0,United States
+851,edu,1473.0,United States
+852,edu,1473.0,United States
+853,edu,1473.0,United States
+854,edu,1479.0,United States
+855,edu,1486.0,United States
+856,edu,1487.0,United States
+857,edu,1487.0,United States
+858,edu,1490.0,United States
+859,edu,1492.0,United States
+860,edu,1496.0,United States
+861,edu,1498.0,United States
+862,edu,1498.0,United States
+863,edu,1512.0,United States
+864,edu,1512.0,United States
+865,edu,1513.0,United States
+866,edu,1525.0,United States
+867,edu,1526.0,United States
+868,edu,1526.0,United States
+869,edu,1527.0,United States
+870,edu,1536.0,United States
+871,edu,1539.0,United States
+872,edu,1540.0,United States
+873,edu,1545.0,United States
+874,edu,1554.0,United States
+875,edu,1569.0,United States
+876,edu,1570.0,United States
+877,edu,1571.0,United States
+878,edu,1578.0,United States
+879,edu,1580.0,United States
+880,edu,1586.0,United States
+881,edu,1588.0,United States
+882,edu,1589.0,United States
+883,edu,1611.0,United States
+884,edu,1611.0,United States
+885,edu,1620.0,United States
+886,edu,1620.0,United States
+887,edu,1622.0,United States
+888,edu,1624.0,United States
+889,edu,1642.0,United States
+890,edu,1647.0,United States
+891,edu,1667.0,United States
+892,edu,1667.0,United States
+893,edu,1667.0,United States
+894,edu,1669.0,United States
+895,edu,1671.0,United States
+896,edu,1707.0,United States
+897,edu,1756.0,United States
+898,edu,1758.0,United States
+899,edu,1769.0,United States
+900,edu,1776.0,United States
+901,edu,1784.0,United States
+902,edu,1790.0,United States
+903,edu,1844.0,United States
+904,edu,1846.0,United States
+905,edu,1847.0,United States
+906,edu,1853.0,United States
+907,edu,1853.0,United States
+908,edu,1855.0,United States
+909,edu,1863.0,United States
+910,edu,1875.0,United States
+911,edu,1883.0,United States
+912,edu,1892.0,United States
+913,edu,1892.0,United States
+914,edu,1897.0,United States
+915,edu,1901.0,United States
+916,edu,1904.0,United States
+917,edu,1906.0,United States
+918,edu,1908.0,United States
+919,edu,1909.0,United States
+920,edu,1910.0,United States
+921,edu,1912.0,United States
+922,edu,1930.0,United States
+923,edu,1930.0,United States
+924,edu,1942.0,United States
+925,edu,1943.0,United States
+926,edu,1981.0,United States
+927,edu,1981.0,United States
+928,edu,1984.0,United States
+929,edu,1986.0,United States
+930,edu,1988.0,United States
+931,edu,1988.0,United States
+932,edu,1998.0,United States
+933,edu,1998.0,United States
+934,edu,2004.0,United States
+935,edu,2004.0,United States
+936,edu,2009.0,United States
+937,edu,2009.0,United States
+938,edu,2013.0,United States
+939,edu,2013.0,United States
+940,edu,2014.0,United States
+941,edu,2014.0,United States
+942,edu,2018.0,United States
+943,edu,2018.0,United States
+944,edu,2022.0,United States
+945,edu,2027.0,United States
+946,edu,2029.0,United States
+947,edu,2033.0,United States
+948,edu,2042.0,United States
+949,edu,2042.0,United States
+950,edu,2050.0,United States
+951,edu,2053.0,United States
+952,edu,2066.0,United States
+953,edu,2066.0,United States
+954,edu,2066.0,United States
+955,edu,2066.0,United States
+956,edu,2066.0,United States
+957,edu,2066.0,United States
+958,edu,2092.0,United States
+959,edu,2130.0,United States
+960,edu,2134.0,United States
+961,edu,2166.0,United States
+962,edu,2193.0,United States
+963,edu,2224.0,United States
+964,edu,2232.0,United States
+965,edu,2247.0,United States
+966,edu,2247.0,United States
+967,edu,2285.0,United States
+968,edu,2297.0,United States
+969,edu,2300.0,United States
+970,edu,2304.0,United States
+971,edu,2305.0,United States
+972,edu,2306.0,United States
+973,edu,2307.0,United States
+974,edu,2327.0,United States
+975,edu,2328.0,United States
+976,edu,2328.0,United States
+977,edu,2330.0,United States
+978,edu,2363.0,United States
+979,edu,2363.0,United States
+980,edu,2365.0,United States
+981,edu,2368.0,United States
+982,edu,2391.0,United States
+983,edu,2398.0,United States
+984,edu,2426.0,United States
+985,edu,2452.0,United States
+986,edu,2452.0,United States
+987,edu,2455.0,United States
+988,edu,2476.0,United States
+989,edu,2503.0,United States
+990,edu,2504.0,United States
+991,edu,2505.0,United States
+992,edu,2505.0,United States
+993,edu,2512.0,United States
+994,edu,2519.0,United States
+995,edu,2519.0,United States
+996,edu,2520.0,United States
+997,edu,2520.0,United States
+998,edu,2522.0,United States
+999,edu,2522.0,United States
+1000,edu,2531.0,United States
+1001,edu,2532.0,United States
+1002,edu,2532.0,United States
+1003,edu,2532.0,United States
+1004,edu,2535.0,United States
+1005,edu,2535.0,United States
+1006,edu,2537.0,United States
+1007,edu,2537.0,United States
+1008,edu,2537.0,United States
+1009,edu,2554.0,United States
+1010,edu,2563.0,United States
+1011,edu,2576.0,United States
+1012,edu,2576.0,United States
+1013,edu,2576.0,United States
+1014,edu,2578.0,United States
+1015,edu,2578.0,United States
+1016,edu,2591.0,United States
+1017,edu,2591.0,United States
+1018,edu,2595.0,United States
+1019,edu,2641.0,United States
+1020,edu,2657.0,United States
+1021,edu,2657.0,United States
+1022,edu,2659.0,United States
+1023,edu,2660.0,United States
+1024,edu,2690.0,United States
+1025,edu,2729.0,United States
+1026,edu,2735.0,United States
+1027,edu,2740.0,United States
+1028,edu,2740.0,United States
+1029,edu,2740.0,United States
+1030,edu,2741.0,United States
+1031,edu,2742.0,United States
+1032,edu,2743.0,United States
+1033,edu,2746.0,United States
+1034,edu,2767.0,United States
+1035,edu,2767.0,United States
+1036,edu,2774.0,United States
+1037,edu,2783.0,United States
+1038,edu,2787.0,United States
+1039,edu,2807.0,United States
+1040,edu,2836.0,United States
+1041,edu,2840.0,United States
+1042,edu,2843.0,United States
+1043,edu,2843.0,United States
+1044,edu,2847.0,United States
+1045,edu,2857.0,United States
+1046,edu,2880.0,United States
+1047,edu,2880.0,United States
+1048,edu,2886.0,United States
+1049,edu,2886.0,United States
+1050,edu,2897.0,United States
+1051,edu,2920.0,United States
+1052,edu,2924.0,United States
+1053,edu,2927.0,United States
+1054,edu,3000.0,United States
+1055,edu,3004.0,United States
+1056,edu,3006.0,United States
+1057,edu,3007.0,United States
+1058,edu,3111.0,United States
+1059,edu,3122.0,United States
+1060,edu,3122.0,United States
+1061,edu,3122.0,United States
+1062,edu,3124.0,United States
+1063,edu,3124.0,United States
+1064,edu,3125.0,United States
+1065,edu,3126.0,United States
+1066,edu,3131.0,United States
+1067,edu,3134.0,United States
+1068,edu,3134.0,United States
+1069,edu,3135.0,United States
+1070,edu,3135.0,United States
+1071,edu,3135.0,United States
+1072,edu,3148.0,United States
+1073,edu,3149.0,United States
+1074,edu,3153.0,United States
+1075,edu,3156.0,United States
+1076,edu,3157.0,United States
+1077,edu,3157.0,United States
+1078,edu,3157.0,United States
+1079,edu,3157.0,United States
+1080,edu,3164.0,United States
+1081,edu,3164.0,United States
+1082,edu,3174.0,United States
+1083,edu,3174.0,United States
+1084,edu,3174.0,United States
+1085,edu,3175.0,United States
+1086,edu,3178.0,United States
+1087,edu,3197.0,United States
+1088,edu,3257.0,United States
+1089,edu,3282.0,United States
+1090,edu,3282.0,United States
+1091,edu,3349.0,United States
+1092,edu,3358.0,United States
+1093,edu,3358.0,United States
+1094,edu,3365.0,United States
+1095,edu,3365.0,United States
+1096,edu,3366.0,United States
+1097,edu,3383.0,United States
+1098,edu,3390.0,United States
+1099,edu,3400.0,United States
+1100,edu,3404.0,United States
+1101,edu,3415.0,United States
+1102,edu,3415.0,United States
+1103,edu,3418.0,United States
+1104,edu,3421.0,United States
+1105,edu,3421.0,United States
+1106,edu,3428.0,United States
+1107,edu,3428.0,United States
+1108,edu,3434.0,United States
+1109,edu,3436.0,United States
+1110,edu,3436.0,United States
+1111,edu,3444.0,United States
+1112,edu,3446.0,United States
+1113,edu,3448.0,United States
+1114,edu,3454.0,United States
+1115,edu,3467.0,United States
+1116,edu,3467.0,United States
+1117,edu,3467.0,United States
+1118,edu,3529.0,United States
+1119,edu,3529.0,United States
+1120,edu,3579.0,United States
+1121,edu,3586.0,United States
+1122,edu,3586.0,United States
+1123,edu,3588.0,United States
+1124,edu,3588.0,United States
+1125,edu,3602.0,United States
+1126,edu,3607.0,United States
+1127,edu,3609.0,United States
+1128,edu,3609.0,United States
+1129,edu,3628.0,United States
+1130,edu,3628.0,United States
+1131,edu,3628.0,United States
+1132,edu,3642.0,United States
+1133,edu,3643.0,United States
+1134,edu,3643.0,United States
+1135,edu,3646.0,United States
+1136,edu,3646.0,United States
+1137,edu,3646.0,United States
+1138,edu,3646.0,United States
+1139,edu,3646.0,United States
+1140,edu,3649.0,United States
+1141,edu,3660.0,United States
+1142,edu,3664.0,United States
+1143,edu,3664.0,United States
+1144,edu,3664.0,United States
+1145,edu,3664.0,United States
+1146,edu,3664.0,United States
+1147,edu,3664.0,United States
+1148,edu,3666.0,United States
+1149,edu,3668.0,United States
+1150,edu,3668.0,United States
+1151,edu,3670.0,United States
+1152,edu,3673.0,United States
+1153,edu,3673.0,United States
+1154,edu,3675.0,United States
+1155,edu,3675.0,United States
+1156,edu,3677.0,United States
+1157,edu,3677.0,United States
+1158,edu,3683.0,United States
+1159,edu,3683.0,United States
+1160,edu,3694.0,United States
+1161,edu,3694.0,United States
+1162,edu,3695.0,United States
+1163,edu,3695.0,United States
+1164,edu,3695.0,United States
+1165,edu,3703.0,United States
+1166,edu,3703.0,United States
+1167,edu,3708.0,United States
+1168,edu,3709.0,United States
+1169,edu,3712.0,United States
+1170,edu,3712.0,United States
+1171,edu,3716.0,United States
+1172,edu,3716.0,United States
+1173,edu,3716.0,United States
+1174,edu,3722.0,United States
+1175,edu,3741.0,United States
+1176,edu,3741.0,United States
+1177,edu,3741.0,United States
+1178,edu,3747.0,United States
+1179,edu,3747.0,United States
+1180,edu,3755.0,United States
+1181,edu,3755.0,United States
+1182,edu,3758.0,United States
+1183,edu,3765.0,United States
+1184,edu,3765.0,United States
+1185,edu,3770.0,United States
+1186,edu,3799.0,United States
+1187,edu,3799.0,United States
+1188,edu,3802.0,United States
+1189,edu,3808.0,United States
+1190,edu,3825.0,United States
+1191,edu,3825.0,United States
+1192,edu,3825.0,United States
+1193,edu,3832.0,United States
+1194,edu,3832.0,United States
+1195,edu,3842.0,United States
+1196,edu,3842.0,United States
+1197,edu,3844.0,United States
+1198,edu,3845.0,United States
+1199,edu,3845.0,United States
+1200,edu,3847.0,United States
+1201,edu,3893.0,United States
+1202,edu,3896.0,United States
+1203,edu,3896.0,United States
+1204,edu,3896.0,United States
+1205,edu,3906.0,United States
+1206,edu,3906.0,United States
+1207,edu,3925.0,United States
+1208,edu,3983.0,United States
+1209,edu,4023.0,United States
+1210,edu,4023.0,United States
+1211,edu,4023.0,United States
+1212,edu,4023.0,United States
+1213,edu,4039.0,United States
+1214,edu,4053.0,United States
+1215,edu,4055.0,United States
+1216,edu,4058.0,United States
+1217,edu,4060.0,United States
+1218,edu,4073.0,United States
+1219,edu,4076.0,United States
+1220,edu,4081.0,United States
+1221,edu,4081.0,United States
+1222,edu,4089.0,United States
+1223,edu,4096.0,United States
+1224,edu,4103.0,United States
+1225,edu,4106.0,United States
+1226,edu,4106.0,United States
+1227,edu,4118.0,United States
+1228,edu,4123.0,United States
+1229,edu,4123.0,United States
+1230,edu,4123.0,United States
+1231,edu,4127.0,United States
+1232,edu,4175.0,United States
+1233,edu,4204.0,United States
+1234,edu,4220.0,United States
+1235,edu,4222.0,United States
+1236,edu,4247.0,United States
+1237,edu,4247.0,United States
+1238,edu,4247.0,United States
+1239,edu,4248.0,United States
+1240,edu,4251.0,United States
+1241,edu,4260.0,United States
+1242,edu,4260.0,United States
+1243,edu,4266.0,United States
+1244,edu,4266.0,United States
+1245,edu,4292.0,United States
+1246,edu,4297.0,United States
+1247,edu,4302.0,United States
+1248,edu,4307.0,United States
+1249,edu,4315.0,United States
+1250,edu,4335.0,United States
+1251,edu,4335.0,United States
+1252,edu,4353.0,United States
+1253,edu,4366.0,United States
+1254,edu,4369.0,United States
+1255,edu,4369.0,United States
+1256,edu,4372.0,United States
+1257,edu,4372.0,United States
+1258,edu,4373.0,United States
+1259,edu,4381.0,United States
+1260,edu,4381.0,United States
+1261,edu,4386.0,United States
+1262,edu,4391.0,United States
+1263,edu,4395.0,United States
+1264,edu,4399.0,United States
+1265,edu,4399.0,United States
+1266,edu,4402.0,United States
+1267,edu,4409.0,United States
+1268,edu,4409.0,United States
+1269,edu,4414.0,United States
+1270,edu,4497.0,United States
+1271,edu,4497.0,United States
+1272,edu,4497.0,United States
+1273,edu,4499.0,United States
+1274,edu,4500.0,United States
+1275,edu,4516.0,United States
+1276,edu,4516.0,United States
+1277,edu,4516.0,United States
+1278,edu,4550.0,United States
+1279,edu,4597.0,United States
+1280,edu,4611.0,United States
+1281,edu,4611.0,United States
+1282,edu,4618.0,United States
+1283,edu,4619.0,United States
+1284,edu,4620.0,United States
+1285,edu,4621.0,United States
+1286,edu,4627.0,United States
+1287,edu,4652.0,United States
+1288,edu,4672.0,United States
+1289,edu,4696.0,United States
+1290,edu,4697.0,United States
+1291,edu,4705.0,United States
+1292,edu,4705.0,United States
+1293,edu,4732.0,United States
+1294,edu,4738.0,United States
+1295,edu,4738.0,United States
+1296,edu,4742.0,United States
+1297,edu,4751.0,United States
+1298,edu,4813.0,United States
+1299,edu,4813.0,United States
+1300,edu,4814.0,United States
+1301,edu,4834.0,United States
+1302,edu,4834.0,United States
+1303,edu,4837.0,United States
+1304,edu,4842.0,United States
+1305,edu,4842.0,United States
+1306,edu,4844.0,United States
+1307,edu,4853.0,United States
+1308,edu,4866.0,United States
+1309,edu,4871.0,United States
+1310,edu,4871.0,United States
+1311,edu,4873.0,United States
+1312,edu,4873.0,United States
+1313,edu,4874.0,United States
+1314,edu,4874.0,United States
+1315,edu,4874.0,United States
+1316,edu,4874.0,United States
+1317,edu,4877.0,United States
+1318,edu,4877.0,United States
+1319,edu,4878.0,United States
+1320,edu,4884.0,United States
+1321,edu,4884.0,United States
+1322,edu,4884.0,United States
+1323,edu,4891.0,United States
+1324,edu,4899.0,United States
+1325,edu,4899.0,United States
+1326,edu,4920.0,United States
+1327,edu,4929.0,United States
+1328,edu,4932.0,United States
+1329,edu,4979.0,United States
+1330,edu,4997.0,United States
+1331,edu,5001.0,United States
+1332,edu,5038.0,United States
+1333,edu,5042.0,United States
+1334,edu,5053.0,United States
+1335,edu,5055.0,United States
+1336,edu,5055.0,United States
+1337,edu,5058.0,United States
+1338,edu,5073.0,United States
+1339,edu,5082.0,United States
+1340,edu,5109.0,United States
+1341,edu,5109.0,United States
+1342,edu,5110.0,United States
+1343,edu,5125.0,United States
+1344,edu,5127.0,United States
+1345,edu,5176.0,United States
+1346,edu,5177.0,United States
+1347,edu,5181.0,United States
+1348,edu,5182.0,United States
+1349,edu,5182.0,United States
+1350,edu,5192.0,United States
+1351,edu,5209.0,United States
+1352,edu,5212.0,United States
+1353,edu,5216.0,United States
+1354,edu,5217.0,United States
+1355,edu,5217.0,United States
+1356,edu,5217.0,United States
+1357,edu,5247.0,United States
+1358,edu,5247.0,United States
+1359,edu,5257.0,United States
+1360,edu,5258.0,United States
+1361,edu,5275.0,United States
+1362,edu,5278.0,United States
+1363,edu,5288.0,United States
+1364,edu,5297.0,United States
+1365,edu,5298.0,United States
+1366,edu,5305.0,United States
+1367,edu,5309.0,United States
+1368,edu,5310.0,United States
+1369,edu,5311.0,United States
+1370,edu,5314.0,United States
+1371,edu,5322.0,United States
+1372,edu,5347.0,United States
+1373,edu,5355.0,United States
+1374,edu,5355.0,United States
+1375,edu,5358.0,United States
+1376,edu,5364.0,United States
+1377,edu,5382.0,United States
+1378,edu,5383.0,United States
+1379,edu,5392.0,United States
+1380,edu,5404.0,United States
+1381,edu,5410.0,United States
+1382,edu,5412.0,United States
+1383,edu,5416.0,United States
+1384,edu,5416.0,United States
+1385,edu,5423.0,United States
+1386,edu,5429.0,United States
+1387,edu,5430.0,United States
+1388,edu,5436.0,United States
+1389,edu,5436.0,United States
+1390,edu,5448.0,United States
+1391,edu,5449.0,United States
+1392,edu,5484.0,United States
+1393,edu,5489.0,United States
+1394,edu,5489.0,United States
+1395,edu,5520.0,United States
+1396,edu,5557.0,United States
+1397,edu,5599.0,United States
+1398,edu,5599.0,United States
+1399,edu,5599.0,United States
+1400,edu,5645.0,United States
+1401,edu,5645.0,United States
+1402,edu,5656.0,United States
+1403,edu,5658.0,United States
+1404,edu,5662.0,United States
+1405,edu,5674.0,United States
+1406,edu,5674.0,United States
+1407,edu,5692.0,United States
+1408,edu,5692.0,United States
+1409,edu,5694.0,United States
+1410,edu,5700.0,United States
+1411,edu,5710.0,United States
+1412,edu,5725.0,United States
+1413,edu,5726.0,United States
+1414,edu,5726.0,United States
+1415,edu,5726.0,United States
+1416,edu,5739.0,United States
+1417,edu,5745.0,United States
+1418,edu,5747.0,United States
+1419,edu,5803.0,United States
+1420,edu,5827.0,United States
+1421,edu,5828.0,United States
+1422,edu,5832.0,United States
+1423,edu,5832.0,United States
+1424,edu,5840.0,United States
+1425,edu,5840.0,United States
+1426,edu,5840.0,United States
+1427,edu,5840.0,United States
+1428,edu,5840.0,United States
+1429,edu,5848.0,United States
+1430,edu,5858.0,United States
+1431,edu,5858.0,United States
+1432,edu,5867.0,United States
+1433,edu,5870.0,United States
+1434,edu,5884.0,United States
+1435,edu,5897.0,United States
+1436,edu,5897.0,United States
+1437,edu,5897.0,United States
+1438,edu,5923.0,United States
+1439,edu,5925.0,United States
+1440,edu,5926.0,United States
+1441,edu,5926.0,United States
+1442,edu,5927.0,United States
+1443,edu,5927.0,United States
+1444,edu,5936.0,United States
+1445,edu,5936.0,United States
+1446,edu,5936.0,United States
+1447,edu,5947.0,United States
+1448,edu,5947.0,United States
+1449,edu,5949.0,United States
+1450,edu,5976.0,United States
+1451,edu,5976.0,United States
+1452,edu,5978.0,United States
+1453,edu,5983.0,United States
+1454,edu,5983.0,United States
+1455,edu,5983.0,United States
+1456,edu,6013.0,United States
+1457,edu,6016.0,United States
+1458,edu,6016.0,United States
+1459,edu,6016.0,United States
+1460,edu,6022.0,United States
+1461,edu,6022.0,United States
+1462,edu,6034.0,United States
+1463,edu,6034.0,United States
+1464,edu,6060.0,United States
+1465,edu,6083.0,United States
+1466,edu,6083.0,United States
+1467,edu,6084.0,United States
+1468,edu,6086.0,United States
+1469,edu,6118.0,United States
+1470,edu,6123.0,United States
+1471,edu,6131.0,United States
+1472,edu,6132.0,United States
+1473,edu,6132.0,United States
+1474,edu,6132.0,United States
+1475,edu,6136.0,United States
+1476,edu,6136.0,United States
+1477,edu,6168.0,United States
+1478,edu,6168.0,United States
+1479,edu,6170.0,United States
+1480,edu,6172.0,United States
+1481,edu,6172.0,United States
+1482,edu,6193.0,United States
+1483,edu,6193.0,United States
+1484,edu,6205.0,United States
+1485,edu,6206.0,United States
+1486,edu,6206.0,United States
+1487,edu,6217.0,United States
+1488,edu,6217.0,United States
+1489,edu,6272.0,United States
+1490,edu,6278.0,United States
+1491,edu,6279.0,United States
+1492,edu,6299.0,United States
+1493,edu,6301.0,United States
+1494,edu,6316.0,United States
+1495,edu,6344.0,United States
+1496,edu,6344.0,United States
+1497,edu,6344.0,United States
+1498,edu,6344.0,United States
+1499,edu,6350.0,United States
+1500,edu,6360.0,United States
+1501,edu,6366.0,United States
+1502,edu,6366.0,United States
+1503,edu,6367.0,United States
+1504,edu,6367.0,United States
+1505,edu,6372.0,United States
+1506,edu,6375.0,United States
+1507,edu,6382.0,United States
+1508,edu,6383.0,United States
+1509,edu,6383.0,United States
+1510,edu,6387.0,United States
+1511,edu,6387.0,United States
+1512,edu,6388.0,United States
+1513,edu,6388.0,United States
+1514,edu,6400.0,United States
+1515,edu,6407.0,United States
+1516,edu,6407.0,United States
+1517,edu,6452.0,United States
+1518,edu,6464.0,United States
+1519,edu,6509.0,United States
+1520,edu,6509.0,United States
+1521,edu,6533.0,United States
+1522,edu,6549.0,United States
+1523,edu,6554.0,United States
+1524,edu,6567.0,United States
+1525,edu,6617.0,United States
+1526,edu,6619.0,United States
+1527,edu,6666.0,United States
+1528,edu,6669.0,United States
+1529,edu,6671.0,United States
+1530,edu,6671.0,United States
+1531,edu,6672.0,United States
+1532,edu,6678.0,United States
+1533,edu,6689.0,United States
+1534,edu,6689.0,United States
+1535,edu,6763.0,United States
+1536,edu,6763.0,United States
+1537,edu,6765.0,United States
+1538,edu,6768.0,United States
+1539,edu,6768.0,United States
+1540,edu,6779.0,United States
+1541,edu,6803.0,United States
+1542,edu,6810.0,United States
+1543,edu,6829.0,United States
+1544,edu,6840.0,United States
+1545,edu,6908.0,United States
+1546,edu,6911.0,United States
+1547,edu,6915.0,United States
+1548,edu,6915.0,United States
+1549,edu,6931.0,United States
+1550,edu,6936.0,United States
+1551,edu,6937.0,United States
+1552,edu,6938.0,United States
+1553,edu,6938.0,United States
+1554,edu,6939.0,United States
+1555,edu,6939.0,United States
+1556,edu,6956.0,United States
+1557,edu,6956.0,United States
+1558,edu,6959.0,United States
+1559,edu,6959.0,United States
+1560,edu,6959.0,United States
+1561,edu,6965.0,United States
+1562,edu,6965.0,United States
+1563,edu,6997.0,United States
+1564,edu,7002.0,United States
+1565,edu,7023.0,United States
+1566,edu,7024.0,United States
+1567,edu,7024.0,United States
+1568,edu,7024.0,United States
+1569,edu,7024.0,United States
+1570,edu,7024.0,United States
+1571,edu,7024.0,United States
+1572,edu,7029.0,United States
+1573,edu,7031.0,United States
+1574,edu,7066.0,United States
+1575,edu,7066.0,United States
+1576,edu,7066.0,United States
+1577,edu,7079.0,United States
+1578,edu,7093.0,United States
+1579,edu,7146.0,United States
+1580,edu,7146.0,United States
+1581,edu,7196.0,United States
+1582,edu,7196.0,United States
+1583,edu,7196.0,United States
+1584,edu,7220.0,United States
+1585,edu,7238.0,United States
+1586,edu,7248.0,United States
+1587,edu,7249.0,United States
+1588,edu,7287.0,United States
+1589,edu,7362.0,United States
+1590,edu,7377.0,United States
+1591,edu,7387.0,United States
+1592,edu,7387.0,United States
+1593,edu,7387.0,United States
+1594,edu,7389.0,United States
+1595,edu,7392.0,United States
+1596,edu,7392.0,United States
+1597,edu,7392.0,United States
+1598,edu,7404.0,United States
+1599,edu,7404.0,United States
+1600,edu,7408.0,United States
+1601,edu,7408.0,United States
+1602,edu,7408.0,United States
+1603,edu,7410.0,United States
+1604,edu,7422.0,United States
+1605,edu,7422.0,United States
+1606,edu,7439.0,United States
+1607,edu,7439.0,United States
+1608,edu,7456.0,United States
+1609,edu,7477.0,United States
+1610,edu,7477.0,United States
+1611,edu,7477.0,United States
+1612,edu,7477.0,United States
+1613,edu,7477.0,United States
+1614,edu,7477.0,United States
+1615,edu,7477.0,United States
+1616,edu,7477.0,United States
+1617,edu,7487.0,United States
+1618,edu,7487.0,United States
+1619,edu,7487.0,United States
+1620,edu,7487.0,United States
+1621,edu,7487.0,United States
+1622,edu,7487.0,United States
+1623,edu,7487.0,United States
+1624,edu,7514.0,United States
+1625,edu,7529.0,United States
+1626,edu,7529.0,United States
+1627,edu,7530.0,United States
+1628,edu,7531.0,United States
+1629,edu,7557.0,United States
+1630,edu,7557.0,United States
+1631,edu,7557.0,United States
+1632,edu,7564.0,United States
+1633,edu,7564.0,United States
+1634,edu,7564.0,United States
+1635,edu,7568.0,United States
+1636,edu,7572.0,United States
+1637,edu,7583.0,United States
+1638,edu,7596.0,United States
+1639,edu,7597.0,United States
+1640,edu,7601.0,United States
+1641,edu,7603.0,United States
+1642,edu,7605.0,United States
+1643,edu,7612.0,United States
+1644,edu,7613.0,United States
+1645,edu,7613.0,United States
+1646,edu,7613.0,United States
+1647,edu,7613.0,United States
+1648,edu,7618.0,United States
+1649,edu,7623.0,United States
+1650,edu,7623.0,United States
+1651,edu,7635.0,United States
+1652,edu,7642.0,United States
+1653,edu,7642.0,United States
+1654,edu,7663.0,United States
+1655,edu,7663.0,United States
+1656,edu,7663.0,United States
+1657,edu,7672.0,United States
+1658,edu,7673.0,United States
+1659,edu,7674.0,United States
+1660,edu,7680.0,United States
+1661,edu,7682.0,United States
+1662,edu,7682.0,United States
+1663,edu,7683.0,United States
+1664,edu,7691.0,United States
+1665,edu,7691.0,United States
+1666,edu,7691.0,United States
+1667,edu,7691.0,United States
+1668,edu,7691.0,United States
+1669,edu,7714.0,United States
+1670,edu,7715.0,United States
+1671,edu,7721.0,United States
+1672,edu,7721.0,United States
+1673,edu,7721.0,United States
+1674,edu,7721.0,United States
+1675,edu,7721.0,United States
+1676,edu,7723.0,United States
+1677,edu,7730.0,United States
+1678,edu,7736.0,United States
+1679,edu,7736.0,United States
+1680,edu,7745.0,United States
+1681,edu,7746.0,United States
+1682,edu,7747.0,United States
+1683,edu,7754.0,United States
+1684,edu,7772.0,United States
+1685,edu,7778.0,United States
+1686,edu,7778.0,United States
+1687,edu,7778.0,United States
+1688,edu,7778.0,United States
+1689,edu,7807.0,United States
+1690,edu,7807.0,United States
+1691,edu,7813.0,United States
+1692,edu,7816.0,United States
+1693,edu,7860.0,United States
+1694,edu,7892.0,United States
+1695,edu,7916.0,United States
+1696,edu,7917.0,United States
+1697,edu,7917.0,United States
+1698,edu,7963.0,United States
+1699,edu,7977.0,United States
+1700,edu,7977.0,United States
+1701,edu,7978.0,United States
+1702,edu,8023.0,United States
+1703,edu,8035.0,United States
+1704,edu,8036.0,United States
+1705,edu,8036.0,United States
+1706,edu,8039.0,United States
+1707,edu,8041.0,United States
+1708,edu,8053.0,United States
+1709,edu,8070.0,United States
+1710,edu,8086.0,United States
+1711,edu,8089.0,United States
+1712,edu,8090.0,United States
+1713,edu,8090.0,United States
+1714,edu,8092.0,United States
+1715,edu,8092.0,United States
+1716,edu,8102.0,United States
+1717,edu,8106.0,United States
+1718,edu,8109.0,United States
+1719,edu,8110.0,United States
+1720,edu,8115.0,United States
+1721,edu,8115.0,United States
+1722,edu,8115.0,United States
+1723,edu,8115.0,United States
+1724,edu,8117.0,United States
+1725,edu,8117.0,United States
+1726,edu,8127.0,United States
+1727,edu,8127.0,United States
+1728,edu,8127.0,United States
+1729,edu,8129.0,United States
+1730,edu,8129.0,United States
+1731,edu,8131.0,United States
+1732,edu,8131.0,United States
+1733,edu,8131.0,United States
+1734,edu,8132.0,United States
+1735,edu,8132.0,United States
+1736,edu,8133.0,United States
+1737,edu,8133.0,United States
+1738,edu,8159.0,United States
+1739,edu,8177.0,United States
+1740,edu,8177.0,United States
+1741,edu,8191.0,United States
+1742,edu,8191.0,United States
+1743,edu,8191.0,United States
+1744,edu,8199.0,United States
+1745,edu,8199.0,United States
+1746,edu,8212.0,United States
+1747,edu,8212.0,United States
+1748,edu,8244.0,United States
+1749,edu,8261.0,United States
+1750,edu,8290.0,United States
+1751,edu,8300.0,United States
+1752,edu,8300.0,United States
+1753,edu,8300.0,United States
+1754,edu,8300.0,United States
+1755,edu,8326.0,United States
+1756,edu,8349.0,United States
+1757,edu,8354.0,United States
+1758,edu,8355.0,United States
+1759,edu,8355.0,United States
+1760,edu,8357.0,United States
+1761,edu,8372.0,United States
+1762,edu,8386.0,United States
+1763,edu,8386.0,United States
+1764,edu,8386.0,United States
+1765,edu,8386.0,United States
+1766,edu,8424.0,United States
+1767,edu,8424.0,United States
+1768,edu,8424.0,United States
+1769,edu,8432.0,United States
+1770,edu,8432.0,United States
+1771,edu,8460.0,United States
+1772,edu,8461.0,United States
+1773,edu,8461.0,United States
+1774,edu,8467.0,United States
+1775,edu,8467.0,United States
+1776,edu,8472.0,United States
+1777,edu,8472.0,United States
+1778,edu,8485.0,United States
+1779,edu,8493.0,United States
+1780,edu,8499.0,United States
+1781,edu,8499.0,United States
+1782,edu,8501.0,United States
+1783,edu,8509.0,United States
+1784,edu,8509.0,United States
+1785,edu,8524.0,United States
+1786,edu,8526.0,United States
+1787,edu,8528.0,United States
+1788,edu,8545.0,United States
+1789,edu,8547.0,United States
+1790,edu,8548.0,United States
+1791,edu,8548.0,United States
+1792,edu,8550.0,United States
+1793,edu,8551.0,United States
+1794,edu,8553.0,United States
+1795,edu,8556.0,United States
+1796,edu,8556.0,United States
+1797,edu,8567.0,United States
+1798,edu,8569.0,United States
+1799,edu,8569.0,United States
+1800,edu,8580.0,United States
+1801,edu,8581.0,United States
+1802,edu,8585.0,United States
+1803,edu,8585.0,United States
+1804,edu,8586.0,United States
+1805,edu,8589.0,United States
+1806,edu,8596.0,United States
+1807,edu,8609.0,United States
+1808,edu,8611.0,United States
+1809,edu,8611.0,United States
+1810,edu,8613.0,United States
+1811,edu,8613.0,United States
+1812,edu,8616.0,United States
+1813,edu,8621.0,United States
+1814,edu,8637.0,United States
+1815,edu,8643.0,United States
+1816,edu,8643.0,United States
+1817,edu,8644.0,United States
+1818,edu,8650.0,United States
+1819,edu,8655.0,United States
+1820,edu,8655.0,United States
+1821,edu,8662.0,United States
+1822,edu,8662.0,United States
+1823,edu,8662.0,United States
+1824,edu,8672.0,United States
+1825,edu,8704.0,United States
+1826,edu,8711.0,United States
+1827,edu,8712.0,United States
+1828,edu,8716.0,United States
+1829,edu,8716.0,United States
+1830,edu,8716.0,United States
+1831,edu,8724.0,United States
+1832,edu,8724.0,United States
+1833,edu,8724.0,United States
+1834,edu,8743.0,United States
+1835,edu,8743.0,United States
+1836,edu,8743.0,United States
+1837,edu,8746.0,United States
+1838,edu,8746.0,United States
+1839,edu,8748.0,United States
+1840,edu,8748.0,United States
+1841,edu,8748.0,United States
+1842,edu,8769.0,United States
+1843,edu,8799.0,United States
+1844,edu,8809.0,United States
+1845,edu,8939.0,United States
+1846,edu,8951.0,United States
+1847,edu,8978.0,United States
+1848,edu,8988.0,United States
+1849,edu,8988.0,United States
+1850,edu,8988.0,United States
+1851,edu,8988.0,United States
+1852,edu,8988.0,United States
+1853,edu,8988.0,United States
+1854,edu,9002.0,United States
+1855,edu,9013.0,United States
+1856,edu,9019.0,United States
+1857,edu,9019.0,United States
+1858,edu,9027.0,United States
+1859,edu,9028.0,United States
+1860,edu,9028.0,United States
+1861,edu,9028.0,United States
+1862,edu,9045.0,United States
+1863,edu,9053.0,United States
+1864,edu,9074.0,United States
+1865,edu,9114.0,United States
+1866,edu,9128.0,United States
+1867,edu,9130.0,United States
+1868,edu,9130.0,United States
+1869,edu,9137.0,United States
+1870,edu,9146.0,United States
+1871,edu,9146.0,United States
+1872,edu,9149.0,United States
+1873,edu,9151.0,United States
+1874,edu,9151.0,United States
+1875,edu,9163.0,United States
+1876,edu,9168.0,United States
+1877,edu,9172.0,United States
+1878,edu,9178.0,United States
+1879,edu,9210.0,United States
+1880,edu,9210.0,United States
+1881,edu,9217.0,United States
+1882,edu,9220.0,United States
+1883,edu,9222.0,United States
+1884,edu,9243.0,United States
+1885,edu,9249.0,United States
+1886,edu,9264.0,United States
+1887,edu,9278.0,United States
+1888,edu,9279.0,United States
+1889,edu,9294.0,United States
+1890,edu,9294.0,United States
+1891,edu,9294.0,United States
+1892,edu,9299.0,United States
+1893,edu,9310.0,United States
+1894,edu,9320.0,United States
+1895,edu,9327.0,United States
+1896,edu,9328.0,United States
+1897,edu,9358.0,United States
+1898,edu,9359.0,United States
+1899,edu,9361.0,United States
+1900,edu,9367.0,United States
+1901,edu,9367.0,United States
+1902,edu,9368.0,United States
+1903,edu,9383.0,United States
+1904,edu,9400.0,United States
+1905,edu,9402.0,United States
+1906,edu,9404.0,United States
+1907,edu,9407.0,United States
+1908,edu,9413.0,United States
+1909,edu,9420.0,United States
+1910,edu,9427.0,United States
+1911,edu,9427.0,United States
+1912,edu,9435.0,United States
+1913,edu,9438.0,United States
+1914,edu,9476.0,United States
+1915,edu,9476.0,United States
+1916,edu,9487.0,United States
+1917,edu,9511.0,United States
+1918,edu,9511.0,United States
+1919,edu,9521.0,United States
+1920,edu,9548.0,United States
+1921,edu,9550.0,United States
+1922,edu,9561.0,United States
+1923,edu,9587.0,United States
+1924,edu,9591.0,United States
+1925,edu,9592.0,United States
+1926,edu,9592.0,United States
+1927,edu,9596.0,United States
+1928,edu,9596.0,United States
+1929,edu,9599.0,United States
+1930,edu,9599.0,United States
+1931,edu,9653.0,United States
+1932,edu,9653.0,United States
+1933,edu,9656.0,United States
+1934,edu,9664.0,United States
+1935,edu,9665.0,United States
+1936,edu,9666.0,United States
+1937,edu,9666.0,United States
+1938,edu,9666.0,United States
+1939,edu,9666.0,United States
+1940,edu,9668.0,United States
+1941,edu,9675.0,United States
+1942,edu,9676.0,United States
+1943,edu,9704.0,United States
+1944,edu,9709.0,United States
+1945,edu,9752.0,United States
+1946,edu,9752.0,United States
+1947,edu,9767.0,United States
+1948,edu,9767.0,United States
+1949,edu,9815.0,United States
+1950,edu,9815.0,United States
+1951,edu,9815.0,United States
+1952,edu,9830.0,United States
+1953,edu,9837.0,United States
+1954,edu,9861.0,United States
+1955,edu,9873.0,United States
+1956,edu,9873.0,United States
+1957,edu,9873.0,United States
+1958,edu,9873.0,United States
+1959,edu,9884.0,United States
+1960,edu,9891.0,United States
+1961,edu,9897.0,United States
+1962,edu,9911.0,United States
+1963,edu,9915.0,United States
+1964,edu,9915.0,United States
+1965,edu,9915.0,United States
+1966,edu,9920.0,United States
+1967,edu,9933.0,United States
+1968,edu,9933.0,United States
+1969,edu,9965.0,United States
+1970,edu,9965.0,United States
+1971,edu,9975.0,United States
+1972,edu,9975.0,United States
+1973,edu,9979.0,United States
+1974,edu,9979.0,United States
+1975,edu,9985.0,United States
+1976,edu,9985.0,United States
+1977,edu,9997.0,United States
+1978,edu,10013.0,United States
+1979,edu,10014.0,United States
+1980,edu,10046.0,United States
+1981,edu,10046.0,United States
+1982,edu,10063.0,United States
+1983,edu,10065.0,United States
+1984,edu,10074.0,United States
+1985,edu,10074.0,United States
+1986,edu,10079.0,United States
+1987,edu,10079.0,United States
+1988,edu,10082.0,United States
+1989,edu,10082.0,United States
+1990,edu,10082.0,United States
+1991,edu,10115.0,United States
+1992,edu,10117.0,United States
+1993,edu,10117.0,United States
+1994,edu,10117.0,United States
+1995,edu,10118.0,United States
+1996,edu,10118.0,United States
+1997,edu,10118.0,United States
+1998,edu,10119.0,United States
+1999,edu,10123.0,United States
+2000,edu,10123.0,United States
+2001,edu,10123.0,United States
+2002,edu,10126.0,United States
+2003,edu,10135.0,United States
+2004,edu,10135.0,United States
+2005,edu,10135.0,United States
+2006,edu,10136.0,United States
+2007,edu,10139.0,United States
+2008,edu,10139.0,United States
+2009,edu,10140.0,United States
+2010,edu,10140.0,United States
+2011,edu,10140.0,United States
+2012,edu,10141.0,United States
+2013,edu,10152.0,United States
+2014,edu,10152.0,United States
+2015,edu,10154.0,United States
+2016,edu,10158.0,United States
+2017,edu,10185.0,United States
+2018,edu,10188.0,United States
+2019,edu,10188.0,United States
+2020,edu,10188.0,United States
+2021,edu,10188.0,United States
+2022,edu,10190.0,United States
+2023,edu,10190.0,United States
+2024,edu,10190.0,United States
+2025,edu,10190.0,United States
+2026,edu,10199.0,United States
+2027,edu,10199.0,United States
+2028,edu,10199.0,United States
+2029,edu,10199.0,United States
+2030,edu,10199.0,United States
+2031,edu,10199.0,United States
+2032,edu,10199.0,United States
+2033,edu,10200.0,United States
+2034,edu,10216.0,United States
+2035,edu,10216.0,United States
+2036,edu,10217.0,United States
+2037,edu,10224.0,United States
+2038,edu,10224.0,United States
+2039,edu,10235.0,United States
+2040,edu,10258.0,United States
+2041,edu,10310.0,United States
+2042,edu,10310.0,United States
+2043,edu,10320.0,United States
+2044,edu,10359.0,United States
+2045,edu,10385.0,United States
+2046,edu,10385.0,United States
+2047,edu,10385.0,United States
+2048,edu,10447.0,United States
+2049,edu,10502.0,United States
+2050,edu,10509.0,United States
+2051,edu,10512.0,United States
+2052,edu,10517.0,United States
+2053,edu,10517.0,United States
+2054,edu,10526.0,United States
+2055,edu,10528.0,United States
+2056,edu,10528.0,United States
+2057,edu,10531.0,United States
+2058,edu,10540.0,United States
+2059,edu,10546.0,United States
+2060,edu,10583.0,United States
+2061,edu,10585.0,United States
+2062,edu,10589.0,United States
+2063,edu,10642.0,United States
+2064,edu,10648.0,United States
+2065,edu,10648.0,United States
+2066,edu,10650.0,United States
+2067,edu,10650.0,United States
+2068,edu,10650.0,United States
+2069,edu,10657.0,United States
+2070,edu,10662.0,United States
+2071,edu,10662.0,United States
+2072,edu,10662.0,United States
+2073,edu,10662.0,United States
+2074,edu,10669.0,United States
+2075,edu,10672.0,United States
+2076,edu,10672.0,United States
+2077,edu,10673.0,United States
+2078,edu,10673.0,United States
+2079,edu,10681.0,United States
+2080,edu,10681.0,United States
+2081,edu,10692.0,United States
+2082,edu,10710.0,United States
+2083,edu,10710.0,United States
+2084,edu,10710.0,United States
+2085,edu,10710.0,United States
+2086,edu,10714.0,United States
+2087,edu,10720.0,United States
+2088,edu,10722.0,United States
+2089,edu,10762.0,United States
+2090,edu,10762.0,United States
+2091,edu,10762.0,United States
+2092,edu,10762.0,United States
+2093,edu,10792.0,United States
+2094,edu,10792.0,United States
+2095,edu,10792.0,United States
+2096,edu,10798.0,United States
+2097,edu,10798.0,United States
+2098,edu,10804.0,United States
+2099,edu,10861.0,United States
+2100,edu,10866.0,United States
+2101,edu,10866.0,United States
+2102,edu,10866.0,United States
+2103,edu,10868.0,United States
+2104,edu,10870.0,United States
+2105,edu,10874.0,United States
+2106,edu,10878.0,United States
+2107,edu,10902.0,United States
+2108,edu,10902.0,United States
+2109,edu,10902.0,United States
+2110,edu,10902.0,United States
+2111,edu,10902.0,United States
+2112,edu,10904.0,United States
+2113,edu,10908.0,United States
+2114,edu,10909.0,United States
+2115,edu,10934.0,United States
+2116,edu,10935.0,United States
+2117,edu,10935.0,United States
+2118,edu,10953.0,United States
+2119,edu,10955.0,United States
+2120,edu,10968.0,United States
+2121,edu,10968.0,United States
+2122,edu,10968.0,United States
+2123,edu,10969.0,United States
+2124,edu,10993.0,United States
+2125,edu,11021.0,United States
+2126,edu,11023.0,United States
+2127,edu,11023.0,United States
+2128,edu,11023.0,United States
+2129,edu,11023.0,United States
+2130,edu,11023.0,United States
+2131,edu,11083.0,United States
+2132,edu,11093.0,United States
+2133,edu,11127.0,United States
+2134,edu,11127.0,United States
+2135,edu,11127.0,United States
+2136,edu,11127.0,United States
+2137,edu,11137.0,United States
+2138,edu,11142.0,United States
+2139,edu,11142.0,United States
+2140,edu,11142.0,United States
+2141,edu,11189.0,United States
+2142,edu,11241.0,United States
+2143,edu,11241.0,United States
+2144,edu,11247.0,United States
+2145,edu,11247.0,United States
+2146,edu,11247.0,United States
+2147,edu,11248.0,United States
+2148,edu,11249.0,United States
+2149,edu,11257.0,United States
+2150,edu,11258.0,United States
+2151,edu,11258.0,United States
+2152,edu,11258.0,United States
+2153,edu,11258.0,United States
+2154,edu,11260.0,United States
+2155,edu,11260.0,United States
+2156,edu,11289.0,United States
+2157,edu,11289.0,United States
+2158,edu,11289.0,United States
+2159,edu,11303.0,United States
+2160,edu,11328.0,United States
+2161,edu,11329.0,United States
+2162,edu,11329.0,United States
+2163,edu,11329.0,United States
+2164,edu,11348.0,United States
+2165,edu,11350.0,United States
+2166,edu,11353.0,United States
+2167,edu,11384.0,United States
+2168,edu,11384.0,United States
+2169,edu,11384.0,United States
+2170,edu,11385.0,United States
+2171,edu,11396.0,United States
+2172,edu,11396.0,United States
+2173,edu,11406.0,United States
+2174,edu,11406.0,United States
+2175,edu,11415.0,United States
+2176,edu,11425.0,United States
+2177,edu,11425.0,United States
+2178,edu,11425.0,United States
+2179,edu,11437.0,United States
+2180,edu,11438.0,United States
+2181,edu,11438.0,United States
+2182,edu,11438.0,United States
+2183,edu,11441.0,United States
+2184,edu,11465.0,United States
+2185,edu,11465.0,United States
+2186,edu,11465.0,United States
+2187,edu,11465.0,United States
+2188,edu,11465.0,United States
+2189,edu,11465.0,United States
+2190,edu,11465.0,United States
+2191,edu,11465.0,United States
+2192,edu,11467.0,United States
+2193,edu,11470.0,United States
+2194,edu,11474.0,United States
+2195,edu,11474.0,United States
+2196,edu,11474.0,United States
+2197,edu,11475.0,United States
+2198,edu,11482.0,United States
+2199,edu,11483.0,United States
+2200,edu,11488.0,United States
+2201,edu,11492.0,United States
+2202,edu,11493.0,United States
+2203,edu,11493.0,United States
+2204,edu,11499.0,United States
+2205,edu,11501.0,United States
+2206,edu,11504.0,United States
+2207,edu,11510.0,United States
+2208,edu,11516.0,United States
+2209,edu,11516.0,United States
+2210,edu,11516.0,United States
+2211,edu,11516.0,United States
+2212,edu,11520.0,United States
+2213,edu,11521.0,United States
+2214,edu,11522.0,United States
+2215,edu,11522.0,United States
+2216,edu,11530.0,United States
+2217,edu,11544.0,United States
+2218,edu,11544.0,United States
+2219,edu,11547.0,United States
+2220,edu,11557.0,United States
+2221,edu,11654.0,United States
+2222,edu,11654.0,United States
+2223,edu,11686.0,United States
+2224,edu,11721.0,United States
+2225,edu,11721.0,United States
+2226,edu,11721.0,United States
+2227,edu,11724.0,United States
+2228,edu,11731.0,United States
+2229,edu,11741.0,United States
+2230,edu,11760.0,United States
+2231,edu,11791.0,United States
+2232,edu,11809.0,United States
+2233,edu,11810.0,United States
+2234,edu,11810.0,United States
+2235,edu,11812.0,United States
+2236,edu,11820.0,United States
+2237,edu,11834.0,United States
+2238,edu,11837.0,United States
+2239,edu,11840.0,United States
+2240,edu,11842.0,United States
+2241,edu,11861.0,United States
+2242,edu,11863.0,United States
+2243,edu,11863.0,United States
+2244,edu,11864.0,United States
+2245,edu,11869.0,United States
+2246,edu,11871.0,United States
+2247,edu,11883.0,United States
+2248,edu,11883.0,United States
+2249,edu,11915.0,United States
+2250,edu,11915.0,United States
+2251,edu,11945.0,United States
+2252,edu,11947.0,United States
+2253,edu,11949.0,United States
+2254,edu,11949.0,United States
+2255,edu,11966.0,United States
+2256,edu,11967.0,United States
+2257,edu,11967.0,United States
+2258,edu,11967.0,United States
+2259,edu,11967.0,United States
+2260,edu,11971.0,United States
+2261,edu,11971.0,United States
+2262,edu,11971.0,United States
+2263,edu,11988.0,United States
+2264,edu,11996.0,United States
+2265,edu,12019.0,United States
+2266,edu,12020.0,United States
+2267,edu,12042.0,United States
+2268,edu,12051.0,United States
+2269,edu,12087.0,United States
+2270,edu,12087.0,United States
+2271,edu,12087.0,United States
+2272,edu,12093.0,United States
+2273,edu,12132.0,United States
+2274,edu,12132.0,United States
+2275,edu,12132.0,United States
+2276,edu,12148.0,United States
+2277,edu,12153.0,United States
+2278,edu,12153.0,United States
+2279,edu,12155.0,United States
+2280,edu,12219.0,United States
+2281,edu,12265.0,United States
+2282,edu,12285.0,United States
+2283,edu,12285.0,United States
+2284,edu,12289.0,United States
+2285,edu,12305.0,United States
+2286,edu,12306.0,United States
+2287,edu,12310.0,United States
+2288,edu,12310.0,United States
+2289,edu,12333.0,United States
+2290,edu,12336.0,United States
+2291,edu,12344.0,United States
+2292,edu,12353.0,United States
+2293,edu,12353.0,United States
+2294,edu,12353.0,United States
+2295,edu,12353.0,United States
+2296,edu,12353.0,United States
+2297,edu,12353.0,United States
+2298,edu,12353.0,United States
+2299,edu,12353.0,United States
+2300,edu,12355.0,United States
+2301,edu,12356.0,United States
+2302,edu,12359.0,United States
+2303,edu,12359.0,United States
+2304,edu,12365.0,United States
+2305,edu,12365.0,United States
+2306,edu,12395.0,United States
+2307,edu,12401.0,United States
+2308,edu,12401.0,United States
+2309,edu,12404.0,United States
+2310,edu,12406.0,United States
+2311,edu,12406.0,United States
+2312,edu,12406.0,United States
+2313,edu,12408.0,United States
+2314,edu,12408.0,United States
+2315,edu,12408.0,United States
+2316,edu,12417.0,United States
+2317,edu,12421.0,United States
+2318,edu,12421.0,United States
+2319,edu,12422.0,United States
+2320,edu,12430.0,United States
+2321,edu,12430.0,United States
+2322,edu,12430.0,United States
+2323,edu,12435.0,United States
+2324,edu,12449.0,United States
+2325,edu,12478.0,United States
+2326,edu,12480.0,United States
+2327,edu,12484.0,United States
+2328,edu,12493.0,United States
+2329,edu,12497.0,United States
+2330,edu,12498.0,United States
+2331,edu,12498.0,United States
+2332,edu,12499.0,United States
+2333,edu,12499.0,United States
+2334,edu,12499.0,United States
+2335,edu,12502.0,United States
+2336,edu,12504.0,United States
+2337,edu,12504.0,United States
+2338,edu,12512.0,United States
+2339,edu,12512.0,United States
+2340,edu,12512.0,United States
+2341,edu,12533.0,United States
+2342,edu,12533.0,United States
+2343,edu,12533.0,United States
+2344,edu,12533.0,United States
+2345,edu,12541.0,United States
+2346,edu,12541.0,United States
+2347,edu,12542.0,United States
+2348,edu,12542.0,United States
+2349,edu,12542.0,United States
+2350,edu,12542.0,United States
+2351,edu,12542.0,United States
+2352,edu,12542.0,United States
+2353,edu,12542.0,United States
+2354,edu,12544.0,United States
+2355,edu,12568.0,United States
+2356,edu,12568.0,United States
+2357,edu,12586.0,United States
+2358,edu,12606.0,United States
+2359,edu,12608.0,United States
+2360,edu,12608.0,United States
+2361,edu,12608.0,United States
+2362,edu,12608.0,United States
+2363,edu,12612.0,United States
+2364,edu,12619.0,United States
+2365,edu,12625.0,United States
+2366,edu,12625.0,United States
+2367,edu,12625.0,United States
+2368,edu,12625.0,United States
+2369,edu,12625.0,United States
+2370,edu,12627.0,United States
+2371,edu,12654.0,United States
+2372,edu,12663.0,United States
+2373,edu,12669.0,United States
+2374,edu,12669.0,United States
+2375,edu,12681.0,United States
+2376,edu,12681.0,United States
+2377,edu,12683.0,United States
+2378,edu,12683.0,United States
+2379,edu,12696.0,United States
+2380,edu,12696.0,United States
+2381,edu,12696.0,United States
+2382,edu,12696.0,United States
+2383,edu,12696.0,United States
+2384,edu,12696.0,United States
+2385,edu,12696.0,United States
+2386,edu,12718.0,United States
+2387,edu,12719.0,United States
+2388,edu,12719.0,United States
+2389,edu,12730.0,United States
+2390,edu,12730.0,United States
+2391,edu,12731.0,United States
+2392,edu,12731.0,United States
+2393,edu,12737.0,United States
+2394,edu,12738.0,United States
+2395,edu,12742.0,United States
+2396,edu,12742.0,United States
+2397,edu,12779.0,United States
+2398,edu,12796.0,United States
+2399,edu,12796.0,United States
+2400,edu,12853.0,United States
+2401,edu,12871.0,United States
+2402,edu,12877.0,United States
+2403,edu,12877.0,United States
+2404,edu,12878.0,United States
+2405,edu,12881.0,United States
+2406,edu,12883.0,United States
+2407,edu,12887.0,United States
+2408,edu,12912.0,United States
+2409,edu,12912.0,United States
+2410,edu,12916.0,United States
+2411,edu,12931.0,United States
+2412,edu,12939.0,United States
+2413,edu,12942.0,United States
+2414,edu,12946.0,United States
+2415,edu,12947.0,United States
+2416,edu,12947.0,United States
+2417,edu,12947.0,United States
+2418,edu,12947.0,United States
+2419,edu,12947.0,United States
+2420,edu,12947.0,United States
+2421,edu,12947.0,United States
+2422,edu,12952.0,United States
+2423,edu,12952.0,United States
+2424,edu,12987.0,United States
+2425,edu,12991.0,United States
+2426,edu,12991.0,United States
+2427,edu,12991.0,United States
+2428,edu,12991.0,United States
+2429,edu,13002.0,United States
+2430,edu,13028.0,United States
+2431,edu,13057.0,United States
+2432,edu,13128.0,United States
+2433,edu,13132.0,United States
+2434,edu,13151.0,United States
+2435,edu,13151.0,United States
+2436,edu,13164.0,United States
+2437,edu,13198.0,United States
+2438,edu,13206.0,United States
+2439,edu,13250.0,United States
+2440,edu,13250.0,United States
+2441,edu,13250.0,United States
+2442,edu,13253.0,United States
+2443,edu,13253.0,United States
+2444,edu,13259.0,United States
+2445,edu,13259.0,United States
+2446,edu,13268.0,United States
+2447,edu,13277.0,United States
+2448,edu,13289.0,United States
+2449,edu,13291.0,United States
+2450,edu,13296.0,United States
+2451,edu,13304.0,United States
+2452,edu,13305.0,United States
+2453,edu,13305.0,United States
+2454,edu,13342.0,United States
+2455,edu,13346.0,United States
+2456,edu,13346.0,United States
+2457,edu,13356.0,United States
+2458,edu,13366.0,United States
+2459,edu,13366.0,United States
+2460,edu,13367.0,United States
+2461,edu,13377.0,United States
+2462,edu,13377.0,United States
+2463,edu,13377.0,United States
+2464,edu,13381.0,United States
+2465,edu,13381.0,United States
+2466,edu,13381.0,United States
+2467,edu,13382.0,United States
+2468,edu,13382.0,United States
+2469,edu,13386.0,United States
+2470,edu,13400.0,United States
+2471,edu,13400.0,United States
+2472,edu,13400.0,United States
+2473,edu,13436.0,United States
+2474,edu,13437.0,United States
+2475,edu,13445.0,United States
+2476,edu,13445.0,United States
+2477,edu,13459.0,United States
+2478,edu,13459.0,United States
+2479,edu,13459.0,United States
+2480,edu,13463.0,United States
+2481,edu,13463.0,United States
+2482,edu,13467.0,United States
+2483,edu,13467.0,United States
+2484,edu,13471.0,United States
+2485,edu,13540.0,United States
+2486,edu,13554.0,United States
+2487,edu,13554.0,United States
+2488,edu,13556.0,United States
+2489,edu,13556.0,United States
+2490,edu,13556.0,United States
+2491,edu,13562.0,United States
+2492,edu,13567.0,United States
+2493,edu,13567.0,United States
+2494,edu,13568.0,United States
+2495,edu,13568.0,United States
+2496,edu,13568.0,United States
+2497,edu,13568.0,United States
+2498,edu,13575.0,United States
+2499,edu,13575.0,United States
+2500,edu,13600.0,United States
+2501,edu,13600.0,United States
+2502,edu,13600.0,United States
+2503,edu,13601.0,United States
+2504,edu,13602.0,United States
+2505,edu,13602.0,United States
+2506,edu,13602.0,United States
+2507,edu,13606.0,United States
+2508,edu,13606.0,United States
+2509,edu,13606.0,United States
+2510,edu,13608.0,United States
+2511,edu,13608.0,United States
+2512,edu,13609.0,United States
+2513,edu,13647.0,United States
+2514,edu,13651.0,United States
+2515,edu,13659.0,United States
+2516,edu,13659.0,United States
+2517,edu,13660.0,United States
+2518,edu,13661.0,United States
+2519,edu,13669.0,United States
+2520,edu,13669.0,United States
+2521,edu,13674.0,United States
+2522,edu,13676.0,United States
+2523,edu,13676.0,United States
+2524,edu,13676.0,United States
+2525,edu,13680.0,United States
+2526,edu,13681.0,United States
+2527,edu,13682.0,United States
+2528,edu,13684.0,United States
+2529,edu,13697.0,United States
+2530,edu,13728.0,United States
+2531,edu,13765.0,United States
+2532,edu,13771.0,United States
+2533,edu,13932.0,United States
+2534,edu,13934.0,United States
+2535,edu,13941.0,United States
+2536,edu,13947.0,United States
+2537,edu,13978.0,United States
+2538,edu,13981.0,United States
+2539,edu,13982.0,United States
+2540,edu,13982.0,United States
+2541,edu,13986.0,United States
+2542,edu,13986.0,United States
+2543,edu,13986.0,United States
+2544,edu,13986.0,United States
+2545,edu,13989.0,United States
+2546,edu,14005.0,United States
+2547,edu,14022.0,United States
+2548,edu,14022.0,United States
+2549,edu,14025.0,United States
+2550,edu,14026.0,United States
+2551,edu,14034.0,United States
+2552,edu,14034.0,United States
+2553,edu,14041.0,United States
+2554,edu,14068.0,United States
+2555,edu,14068.0,United States
+2556,edu,14068.0,United States
+2557,edu,14069.0,United States
+2558,edu,14069.0,United States
+2559,edu,14070.0,United States
+2560,edu,14070.0,United States
+2561,edu,14070.0,United States
+2562,edu,14075.0,United States
+2563,edu,14087.0,United States
+2564,edu,14089.0,United States
+2565,edu,14128.0,United States
+2566,edu,14128.0,United States
+2567,edu,14153.0,United States
+2568,edu,14172.0,United States
+2569,edu,14172.0,United States
+2570,edu,14172.0,United States
+2571,edu,14172.0,United States
+2572,edu,14172.0,United States
+2573,edu,14172.0,United States
+2574,edu,14172.0,United States
+2575,edu,14176.0,United States
+2576,edu,14176.0,United States
+2577,edu,14229.0,United States
+2578,edu,14241.0,United States
+2579,edu,14243.0,United States
+2580,edu,14247.0,United States
+2581,edu,14248.0,United States
+2582,edu,14248.0,United States
+2583,edu,14249.0,United States
+2584,edu,14251.0,United States
+2585,edu,14267.0,United States
+2586,edu,14286.0,United States
+2587,edu,14288.0,United States
+2588,edu,14291.0,United States
+2589,edu,14291.0,United States
+2590,edu,14291.0,United States
+2591,edu,14324.0,United States
+2592,edu,14340.0,United States
+2593,edu,14427.0,United States
+2594,edu,14427.0,United States
+2595,edu,14427.0,United States
+2596,edu,14427.0,United States
+2597,edu,14432.0,United States
+2598,edu,14432.0,United States
+2599,edu,14432.0,United States
+2600,edu,14437.0,United States
+2601,edu,14443.0,United States
+2602,edu,14443.0,United States
+2603,edu,14488.0,United States
+2604,edu,14490.0,United States
+2605,edu,14490.0,United States
+2606,edu,14490.0,United States
+2607,edu,14490.0,United States
+2608,edu,14490.0,United States
+2609,edu,14508.0,United States
+2610,edu,14510.0,United States
+2611,edu,14515.0,United States
+2612,edu,14531.0,United States
+2613,edu,14532.0,United States
+2614,edu,14532.0,United States
+2615,edu,14532.0,United States
+2616,edu,14532.0,United States
+2617,edu,14532.0,United States
+2618,edu,14532.0,United States
+2619,edu,14551.0,United States
+2620,edu,14569.0,United States
+2621,edu,14569.0,United States
+2622,edu,14596.0,United States
+2623,edu,14627.0,United States
+2624,edu,14628.0,United States
+2625,edu,14635.0,United States
+2626,edu,14641.0,United States
+2627,edu,14641.0,United States
+2628,edu,14644.0,United States
+2629,edu,14667.0,United States
+2630,edu,14686.0,United States
+2631,edu,14689.0,United States
+2632,edu,14699.0,United States
+2633,edu,14727.0,United States
+2634,edu,14729.0,United States
+2635,edu,14729.0,United States
+2636,edu,14745.0,United States
+2637,edu,14807.0,United States
+2638,edu,14807.0,United States
+2639,edu,14807.0,United States
+2640,edu,14815.0,United States
+2641,in,7.0,India
+2642,in,89.0,India
+2643,in,310.0,India
+2644,in,310.0,India
+2645,in,332.0,India
+2646,in,523.0,India
+2647,in,523.0,India
+2648,in,543.0,India
+2649,in,545.0,India
+2650,in,623.0,India
+2651,in,681.0,India
+2652,in,696.0,India
+2653,in,806.0,India
+2654,in,806.0,India
+2655,in,816.0,India
+2656,in,816.0,India
+2657,in,816.0,India
+2658,in,863.0,India
+2659,in,947.0,India
+2660,in,980.0,India
+2661,in,980.0,India
+2662,in,1009.0,India
+2663,in,1009.0,India
+2664,in,1009.0,India
+2665,in,1043.0,India
+2666,in,1174.0,India
+2667,in,1174.0,India
+2668,in,1174.0,India
+2669,in,1174.0,India
+2670,in,1188.0,India
+2671,in,1188.0,India
+2672,in,1189.0,India
+2673,in,1195.0,India
+2674,in,1196.0,India
+2675,in,1202.0,India
+2676,in,1225.0,India
+2677,in,1225.0,India
+2678,in,1236.0,India
+2679,in,1267.0,India
+2680,in,1267.0,India
+2681,in,1267.0,India
+2682,in,1438.0,India
+2683,in,1480.0,India
+2684,in,1610.0,India
+2685,in,1653.0,India
+2686,in,1714.0,India
+2687,in,1714.0,India
+2688,in,1791.0,India
+2689,in,1791.0,India
+2690,in,1801.0,India
+2691,in,1802.0,India
+2692,in,1803.0,India
+2693,in,1803.0,India
+2694,in,1803.0,India
+2695,in,2165.0,India
+2696,in,2233.0,India
+2697,in,2233.0,India
+2698,in,2234.0,India
+2699,in,2234.0,India
+2700,in,2235.0,India
+2701,in,2235.0,India
+2702,in,2238.0,India
+2703,in,2238.0,India
+2704,in,2285.0,India
+2705,in,2397.0,India
+2706,in,2397.0,India
+2707,in,2397.0,India
+2708,in,2449.0,India
+2709,in,2449.0,India
+2710,in,2507.0,India
+2711,in,2561.0,India
+2712,in,2635.0,India
+2713,in,2635.0,India
+2714,in,2642.0,India
+2715,in,2646.0,India
+2716,in,2648.0,India
+2717,in,2681.0,India
+2718,in,2681.0,India
+2719,in,2772.0,India
+2720,in,2962.0,India
+2721,in,2962.0,India
+2722,in,2962.0,India
+2723,in,3242.0,India
+2724,in,3269.0,India
+2725,in,3311.0,India
+2726,in,3311.0,India
+2727,in,3331.0,India
+2728,in,3331.0,India
+2729,in,3459.0,India
+2730,in,3590.0,India
+2731,in,3855.0,India
+2732,in,3886.0,India
+2733,in,4114.0,India
+2734,in,4114.0,India
+2735,in,4128.0,India
+2736,in,4131.0,India
+2737,in,4131.0,India
+2738,in,4416.0,India
+2739,in,4497.0,India
+2740,in,4578.0,India
+2741,in,4578.0,India
+2742,in,4646.0,India
+2743,in,4646.0,India
+2744,in,4646.0,India
+2745,in,4646.0,India
+2746,in,4646.0,India
+2747,in,4646.0,India
+2748,in,4646.0,India
+2749,in,4673.0,India
+2750,in,4702.0,India
+2751,in,4702.0,India
+2752,in,4812.0,India
+2753,in,5015.0,India
+2754,in,5020.0,India
+2755,in,5074.0,India
+2756,in,5101.0,India
+2757,in,5200.0,India
+2758,in,5207.0,India
+2759,in,5431.0,India
+2760,in,5541.0,India
+2761,in,5604.0,India
+2762,in,5735.0,India
+2763,in,5740.0,India
+2764,in,5740.0,India
+2765,in,6008.0,India
+2766,in,6008.0,India
+2767,in,6008.0,India
+2768,in,6009.0,India
+2769,in,6009.0,India
+2770,in,6009.0,India
+2771,in,6009.0,India
+2772,in,6009.0,India
+2773,in,6165.0,India
+2774,in,6165.0,India
+2775,in,6165.0,India
+2776,in,6382.0,India
+2777,in,6476.0,India
+2778,in,6476.0,India
+2779,in,6476.0,India
+2780,in,6554.0,India
+2781,in,6567.0,India
+2782,in,6677.0,India
+2783,in,6677.0,India
+2784,in,6830.0,India
+2785,in,6830.0,India
+2786,in,6929.0,India
+2787,in,6945.0,India
+2788,in,7197.0,India
+2789,in,7217.0,India
+2790,in,7218.0,India
+2791,in,7272.0,India
+2792,in,7272.0,India
+2793,in,7272.0,India
+2794,in,7315.0,India
+2795,in,7367.0,India
+2796,in,7367.0,India
+2797,in,7492.0,India
+2798,in,7492.0,India
+2799,in,7492.0,India
+2800,in,7538.0,India
+2801,in,7618.0,India
+2802,in,7738.0,India
+2803,in,7742.0,India
+2804,in,7756.0,India
+2805,in,7756.0,India
+2806,in,7756.0,India
+2807,in,7756.0,India
+2808,in,7837.0,India
+2809,in,7930.0,India
+2810,in,7931.0,India
+2811,in,7934.0,India
+2812,in,8309.0,India
+2813,in,8309.0,India
+2814,in,8309.0,India
+2815,in,8328.0,India
+2816,in,8404.0,India
+2817,in,8406.0,India
+2818,in,8538.0,India
+2819,in,8538.0,India
+2820,in,8760.0,India
+2821,in,8760.0,India
+2822,in,8791.0,India
+2823,in,8791.0,India
+2824,in,8791.0,India
+2825,in,8883.0,India
+2826,in,8886.0,India
+2827,in,9012.0,India
+2828,in,9012.0,India
+2829,in,9131.0,India
+2830,in,9131.0,India
+2831,in,9236.0,India
+2832,in,9251.0,India
+2833,in,9251.0,India
+2834,in,9267.0,India
+2835,in,9319.0,India
+2836,in,9409.0,India
+2837,in,9474.0,India
+2838,in,9490.0,India
+2839,in,9490.0,India
+2840,in,9662.0,India
+2841,in,9701.0,India
+2842,in,9706.0,India
+2843,in,9768.0,India
+2844,in,9775.0,India
+2845,in,9816.0,India
+2846,in,9885.0,India
+2847,in,9885.0,India
+2848,in,9949.0,India
+2849,in,9950.0,India
+2850,in,10056.0,India
+2851,in,10153.0,India
+2852,in,10309.0,India
+2853,in,10320.0,India
+2854,in,10320.0,India
+2855,in,10662.0,India
+2856,in,10665.0,India
+2857,in,11003.0,India
+2858,in,11003.0,India
+2859,in,11003.0,India
+2860,in,11084.0,India
+2861,in,11200.0,India
+2862,in,11200.0,India
+2863,in,11253.0,India
+2864,in,11253.0,India
+2865,in,11601.0,India
+2866,in,11657.0,India
+2867,in,11918.0,India
+2868,in,11918.0,India
+2869,in,12101.0,India
+2870,in,12254.0,India
+2871,in,12254.0,India
+2872,in,12254.0,India
+2873,in,12537.0,India
+2874,in,12613.0,India
+2875,in,12672.0,India
+2876,in,12749.0,India
+2877,in,12749.0,India
+2878,in,12845.0,India
+2879,in,12876.0,India
+2880,in,12876.0,India
+2881,in,12876.0,India
+2882,in,12932.0,India
+2883,in,13083.0,India
+2884,in,13083.0,India
+2885,in,13127.0,India
+2886,in,13179.0,India
+2887,in,13179.0,India
+2888,in,13188.0,India
+2889,in,13339.0,India
+2890,in,13392.0,India
+2891,in,13501.0,India
+2892,in,13501.0,India
+2893,in,13673.0,India
+2894,in,13673.0,India
+2895,in,13673.0,India
+2896,in,13821.0,India
+2897,in,13979.0,India
+2898,in,13979.0,India
+2899,in,13989.0,India
+2900,in,14290.0,India
+2901,in,14293.0,India
+2902,in,14326.0,India
+2903,in,14334.0,India
+2904,in,14418.0,India
+2905,in,14418.0,India
+2906,in,14445.0,India
+2907,in,14469.0,India
+2908,in,14469.0,India
+2909,in,14469.0,India
+2910,in,14469.0,India
+2911,in,14744.0,India
+2912,in,14744.0,India
+2913,in,14744.0,India
+2914,de,13.0,Germany
+2915,de,41.0,Germany
+2916,de,143.0,Germany
+2917,de,147.0,Germany
+2918,de,152.0,Germany
+2919,de,170.0,Germany
+2920,de,260.0,Germany
+2921,de,261.0,Germany
+2922,de,343.0,Germany
+2923,de,343.0,Germany
+2924,de,343.0,Germany
+2925,de,350.0,Germany
+2926,de,394.0,Germany
+2927,de,568.0,Germany
+2928,de,581.0,Germany
+2929,de,745.0,Germany
+2930,de,891.0,Germany
+2931,de,937.0,Germany
+2932,de,937.0,Germany
+2933,de,937.0,Germany
+2934,de,950.0,Germany
+2935,de,950.0,Germany
+2936,de,969.0,Germany
+2937,de,969.0,Germany
+2938,de,1006.0,Germany
+2939,de,1018.0,Germany
+2940,de,1045.0,Germany
+2941,de,1185.0,Germany
+2942,de,1328.0,Germany
+2943,de,1328.0,Germany
+2944,de,1330.0,Germany
+2945,de,1333.0,Germany
+2946,de,1371.0,Germany
+2947,de,1458.0,Germany
+2948,de,1458.0,Germany
+2949,de,1464.0,Germany
+2950,de,1535.0,Germany
+2951,de,1535.0,Germany
+2952,de,1747.0,Germany
+2953,de,1762.0,Germany
+2954,de,1880.0,Germany
+2955,de,1987.0,Germany
+2956,de,2015.0,Germany
+2957,de,2015.0,Germany
+2958,de,2191.0,Germany
+2959,de,2290.0,Germany
+2960,de,2367.0,Germany
+2961,de,2414.0,Germany
+2962,de,2414.0,Germany
+2963,de,2455.0,Germany
+2964,de,2455.0,Germany
+2965,de,2455.0,Germany
+2966,de,2455.0,Germany
+2967,de,2685.0,Germany
+2968,de,2685.0,Germany
+2969,de,2730.0,Germany
+2970,de,2924.0,Germany
+2971,de,3153.0,Germany
+2972,de,3254.0,Germany
+2973,de,3254.0,Germany
+2974,de,3262.0,Germany
+2975,de,3262.0,Germany
+2976,de,3317.0,Germany
+2977,de,3318.0,Germany
+2978,de,3376.0,Germany
+2979,de,3429.0,Germany
+2980,de,3443.0,Germany
+2981,de,3491.0,Germany
+2982,de,3512.0,Germany
+2983,de,3747.0,Germany
+2984,de,3747.0,Germany
+2985,de,3747.0,Germany
+2986,de,3747.0,Germany
+2987,de,3874.0,Germany
+2988,de,3906.0,Germany
+2989,de,3907.0,Germany
+2990,de,3914.0,Germany
+2991,de,4008.0,Germany
+2992,de,4015.0,Germany
+2993,de,4091.0,Germany
+2994,de,4091.0,Germany
+2995,de,4102.0,Germany
+2996,de,4103.0,Germany
+2997,de,4179.0,Germany
+2998,de,4179.0,Germany
+2999,de,4179.0,Germany
+3000,de,4179.0,Germany
+3001,de,4187.0,Germany
+3002,de,4187.0,Germany
+3003,de,4222.0,Germany
+3004,de,4280.0,Germany
+3005,de,4453.0,Germany
+3006,de,4540.0,Germany
+3007,de,4540.0,Germany
+3008,de,4554.0,Germany
+3009,de,4557.0,Germany
+3010,de,4559.0,Germany
+3011,de,4595.0,Germany
+3012,de,4649.0,Germany
+3013,de,4701.0,Germany
+3014,de,4736.0,Germany
+3015,de,4965.0,Germany
+3016,de,4967.0,Germany
+3017,de,4974.0,Germany
+3018,de,4974.0,Germany
+3019,de,4980.0,Germany
+3020,de,4980.0,Germany
+3021,de,4980.0,Germany
+3022,de,4987.0,Germany
+3023,de,5113.0,Germany
+3024,de,5113.0,Germany
+3025,de,5113.0,Germany
+3026,de,5113.0,Germany
+3027,de,5155.0,Germany
+3028,de,5155.0,Germany
+3029,de,5156.0,Germany
+3030,de,5184.0,Germany
+3031,de,5214.0,Germany
+3032,de,5245.0,Germany
+3033,de,5295.0,Germany
+3034,de,5296.0,Germany
+3035,de,5385.0,Germany
+3036,de,5385.0,Germany
+3037,de,5456.0,Germany
+3038,de,5456.0,Germany
+3039,de,5510.0,Germany
+3040,de,5548.0,Germany
+3041,de,5568.0,Germany
+3042,de,5590.0,Germany
+3043,de,5600.0,Germany
+3044,de,5645.0,Germany
+3045,de,5645.0,Germany
+3046,de,5652.0,Germany
+3047,de,5660.0,Germany
+3048,de,5692.0,Germany
+3049,de,5703.0,Germany
+3050,de,5703.0,Germany
+3051,de,5728.0,Germany
+3052,de,5743.0,Germany
+3053,de,5801.0,Germany
+3054,de,5843.0,Germany
+3055,de,5846.0,Germany
+3056,de,6019.0,Germany
+3057,de,6051.0,Germany
+3058,de,6125.0,Germany
+3059,de,6125.0,Germany
+3060,de,6125.0,Germany
+3061,de,6238.0,Germany
+3062,de,6259.0,Germany
+3063,de,6283.0,Germany
+3064,de,6283.0,Germany
+3065,de,6303.0,Germany
+3066,de,6323.0,Germany
+3067,de,6464.0,Germany
+3068,de,6473.0,Germany
+3069,de,6565.0,Germany
+3070,de,6565.0,Germany
+3071,de,6610.0,Germany
+3072,de,6610.0,Germany
+3073,de,6647.0,Germany
+3074,de,6647.0,Germany
+3075,de,6647.0,Germany
+3076,de,6647.0,Germany
+3077,de,6665.0,Germany
+3078,de,6665.0,Germany
+3079,de,6668.0,Germany
+3080,de,6668.0,Germany
+3081,de,6683.0,Germany
+3082,de,6684.0,Germany
+3083,de,6684.0,Germany
+3084,de,6692.0,Germany
+3085,de,6692.0,Germany
+3086,de,6749.0,Germany
+3087,de,6757.0,Germany
+3088,de,6757.0,Germany
+3089,de,6757.0,Germany
+3090,de,6757.0,Germany
+3091,de,6787.0,Germany
+3092,de,6787.0,Germany
+3093,de,6787.0,Germany
+3094,de,6822.0,Germany
+3095,de,6828.0,Germany
+3096,de,6936.0,Germany
+3097,de,6956.0,Germany
+3098,de,7051.0,Germany
+3099,de,7174.0,Germany
+3100,de,7203.0,Germany
+3101,de,7243.0,Germany
+3102,de,7245.0,Germany
+3103,de,7271.0,Germany
+3104,de,7271.0,Germany
+3105,de,7271.0,Germany
+3106,de,7271.0,Germany
+3107,de,7271.0,Germany
+3108,de,7271.0,Germany
+3109,de,7271.0,Germany
+3110,de,7271.0,Germany
+3111,de,7271.0,Germany
+3112,de,7271.0,Germany
+3113,de,7271.0,Germany
+3114,de,7271.0,Germany
+3115,de,7271.0,Germany
+3116,de,7275.0,Germany
+3117,de,7291.0,Germany
+3118,de,7338.0,Germany
+3119,de,7342.0,Germany
+3120,de,7342.0,Germany
+3121,de,7342.0,Germany
+3122,de,7342.0,Germany
+3123,de,7346.0,Germany
+3124,de,7380.0,Germany
+3125,de,7380.0,Germany
+3126,de,7380.0,Germany
+3127,de,7380.0,Germany
+3128,de,7380.0,Germany
+3129,de,7380.0,Germany
+3130,de,7380.0,Germany
+3131,de,7384.0,Germany
+3132,de,7397.0,Germany
+3133,de,7412.0,Germany
+3134,de,7422.0,Germany
+3135,de,7532.0,Germany
+3136,de,7579.0,Germany
+3137,de,7586.0,Germany
+3138,de,7685.0,Germany
+3139,de,7731.0,Germany
+3140,de,7808.0,Germany
+3141,de,7812.0,Germany
+3142,de,7884.0,Germany
+3143,de,7884.0,Germany
+3144,de,7895.0,Germany
+3145,de,8043.0,Germany
+3146,de,8329.0,Germany
+3147,de,8442.0,Germany
+3148,de,8444.0,Germany
+3149,de,8457.0,Germany
+3150,de,8477.0,Germany
+3151,de,8500.0,Germany
+3152,de,8528.0,Germany
+3153,de,8528.0,Germany
+3154,de,8590.0,Germany
+3155,de,8590.0,Germany
+3156,de,8590.0,Germany
+3157,de,8590.0,Germany
+3158,de,8783.0,Germany
+3159,de,8785.0,Germany
+3160,de,8785.0,Germany
+3161,de,8785.0,Germany
+3162,de,8792.0,Germany
+3163,de,8792.0,Germany
+3164,de,8935.0,Germany
+3165,de,8968.0,Germany
+3166,de,8968.0,Germany
+3167,de,8991.0,Germany
+3168,de,8999.0,Germany
+3169,de,8999.0,Germany
+3170,de,9142.0,Germany
+3171,de,9168.0,Germany
+3172,de,9222.0,Germany
+3173,de,9331.0,Germany
+3174,de,9331.0,Germany
+3175,de,9331.0,Germany
+3176,de,9439.0,Germany
+3177,de,9440.0,Germany
+3178,de,9532.0,Germany
+3179,de,9600.0,Germany
+3180,de,9643.0,Germany
+3181,de,9674.0,Germany
+3182,de,9728.0,Germany
+3183,de,9728.0,Germany
+3184,de,9747.0,Germany
+3185,de,9749.0,Germany
+3186,de,9751.0,Germany
+3187,de,9763.0,Germany
+3188,de,9770.0,Germany
+3189,de,9814.0,Germany
+3190,de,9819.0,Germany
+3191,de,9826.0,Germany
+3192,de,9831.0,Germany
+3193,de,9879.0,Germany
+3194,de,9890.0,Germany
+3195,de,9890.0,Germany
+3196,de,9948.0,Germany
+3197,de,10034.0,Germany
+3198,de,10041.0,Germany
+3199,de,10041.0,Germany
+3200,de,10049.0,Germany
+3201,de,10071.0,Germany
+3202,de,10071.0,Germany
+3203,de,10083.0,Germany
+3204,de,10307.0,Germany
+3205,de,10307.0,Germany
+3206,de,10348.0,Germany
+3207,de,10348.0,Germany
+3208,de,10349.0,Germany
+3209,de,10351.0,Germany
+3210,de,10373.0,Germany
+3211,de,10373.0,Germany
+3212,de,10416.0,Germany
+3213,de,10531.0,Germany
+3214,de,10531.0,Germany
+3215,de,10541.0,Germany
+3216,de,10541.0,Germany
+3217,de,10551.0,Germany
+3218,de,10592.0,Germany
+3219,de,10592.0,Germany
+3220,de,10592.0,Germany
+3221,de,10621.0,Germany
+3222,de,10628.0,Germany
+3223,de,10630.0,Germany
+3224,de,10638.0,Germany
+3225,de,10646.0,Germany
+3226,de,10667.0,Germany
+3227,de,10667.0,Germany
+3228,de,10671.0,Germany
+3229,de,10711.0,Germany
+3230,de,10734.0,Germany
+3231,de,10954.0,Germany
+3232,de,11025.0,Germany
+3233,de,11098.0,Germany
+3234,de,11122.0,Germany
+3235,de,11124.0,Germany
+3236,de,11131.0,Germany
+3237,de,11212.0,Germany
+3238,de,11212.0,Germany
+3239,de,11234.0,Germany
+3240,de,11234.0,Germany
+3241,de,11310.0,Germany
+3242,de,11310.0,Germany
+3243,de,11310.0,Germany
+3244,de,11361.0,Germany
+3245,de,11373.0,Germany
+3246,de,11373.0,Germany
+3247,de,11397.0,Germany
+3248,de,11405.0,Germany
+3249,de,11405.0,Germany
+3250,de,11523.0,Germany
+3251,de,11523.0,Germany
+3252,de,11570.0,Germany
+3253,de,11570.0,Germany
+3254,de,11570.0,Germany
+3255,de,11570.0,Germany
+3256,de,11638.0,Germany
+3257,de,11641.0,Germany
+3258,de,11641.0,Germany
+3259,de,11692.0,Germany
+3260,de,11692.0,Germany
+3261,de,11692.0,Germany
+3262,de,11692.0,Germany
+3263,de,11730.0,Germany
+3264,de,11734.0,Germany
+3265,de,11736.0,Germany
+3266,de,11756.0,Germany
+3267,de,11756.0,Germany
+3268,de,11756.0,Germany
+3269,de,11779.0,Germany
+3270,de,11783.0,Germany
+3271,de,11810.0,Germany
+3272,de,11833.0,Germany
+3273,de,11833.0,Germany
+3274,de,11913.0,Germany
+3275,de,11947.0,Germany
+3276,de,12020.0,Germany
+3277,de,12093.0,Germany
+3278,de,12120.0,Germany
+3279,de,12122.0,Germany
+3280,de,12122.0,Germany
+3281,de,12147.0,Germany
+3282,de,12243.0,Germany
+3283,de,12243.0,Germany
+3284,de,12260.0,Germany
+3285,de,12274.0,Germany
+3286,de,12333.0,Germany
+3287,de,12408.0,Germany
+3288,de,12625.0,Germany
+3289,de,12625.0,Germany
+3290,de,12791.0,Germany
+3291,de,12792.0,Germany
+3292,de,12819.0,Germany
+3293,de,12848.0,Germany
+3294,de,12848.0,Germany
+3295,de,12855.0,Germany
+3296,de,12855.0,Germany
+3297,de,12935.0,Germany
+3298,de,13071.0,Germany
+3299,de,13102.0,Germany
+3300,de,13105.0,Germany
+3301,de,13140.0,Germany
+3302,de,13140.0,Germany
+3303,de,13140.0,Germany
+3304,de,13140.0,Germany
+3305,de,13151.0,Germany
+3306,de,13151.0,Germany
+3307,de,13161.0,Germany
+3308,de,13161.0,Germany
+3309,de,13167.0,Germany
+3310,de,13196.0,Germany
+3311,de,13261.0,Germany
+3312,de,13261.0,Germany
+3313,de,13291.0,Germany
+3314,de,13291.0,Germany
+3315,de,13291.0,Germany
+3316,de,13291.0,Germany
+3317,de,13299.0,Germany
+3318,de,13311.0,Germany
+3319,de,13311.0,Germany
+3320,de,13356.0,Germany
+3321,de,13356.0,Germany
+3322,de,13369.0,Germany
+3323,de,13384.0,Germany
+3324,de,13385.0,Germany
+3325,de,13388.0,Germany
+3326,de,13388.0,Germany
+3327,de,13388.0,Germany
+3328,de,13412.0,Germany
+3329,de,13462.0,Germany
+3330,de,13462.0,Germany
+3331,de,13462.0,Germany
+3332,de,13462.0,Germany
+3333,de,13558.0,Germany
+3334,de,13565.0,Germany
+3335,de,13724.0,Germany
+3336,de,13777.0,Germany
+3337,de,13777.0,Germany
+3338,de,13779.0,Germany
+3339,de,13779.0,Germany
+3340,de,13793.0,Germany
+3341,de,13801.0,Germany
+3342,de,13945.0,Germany
+3343,de,13986.0,Germany
+3344,de,13986.0,Germany
+3345,de,13986.0,Germany
+3346,de,13986.0,Germany
+3347,de,14005.0,Germany
+3348,de,14058.0,Germany
+3349,de,14230.0,Germany
+3350,de,14286.0,Germany
+3351,de,14385.0,Germany
+3352,de,14409.0,Germany
+3353,de,14410.0,Germany
+3354,de,14462.0,Germany
+3355,de,14463.0,Germany
+3356,de,14488.0,Germany
+3357,de,14504.0,Germany
+3358,de,14510.0,Germany
+3359,de,14510.0,Germany
+3360,de,14512.0,Germany
+3361,de,14527.0,Germany
+3362,de,14567.0,Germany
+3363,de,14586.0,Germany
+3364,de,14675.0,Germany
+3365,de,14699.0,Germany
+3366,de,14740.0,Germany
+3367,de,14746.0,Germany
+3368,de,14754.0,Germany
+3369,de,14754.0,Germany
+3370,ca,14.0,Canada
+3371,ca,35.0,Canada
+3372,ca,86.0,Canada
+3373,ca,132.0,Canada
+3374,ca,132.0,Canada
+3375,ca,133.0,Canada
+3376,ca,133.0,Canada
+3377,ca,469.0,Canada
+3378,ca,520.0,Canada
+3379,ca,525.0,Canada
+3380,ca,572.0,Canada
+3381,ca,697.0,Canada
+3382,ca,697.0,Canada
+3383,ca,815.0,Canada
+3384,ca,1017.0,Canada
+3385,ca,1238.0,Canada
+3386,ca,1403.0,Canada
+3387,ca,1403.0,Canada
+3388,ca,1403.0,Canada
+3389,ca,1403.0,Canada
+3390,ca,1461.0,Canada
+3391,ca,1512.0,Canada
+3392,ca,1512.0,Canada
+3393,ca,1607.0,Canada
+3394,ca,1880.0,Canada
+3395,ca,1940.0,Canada
+3396,ca,1982.0,Canada
+3397,ca,1982.0,Canada
+3398,ca,2056.0,Canada
+3399,ca,2056.0,Canada
+3400,ca,2057.0,Canada
+3401,ca,2057.0,Canada
+3402,ca,2057.0,Canada
+3403,ca,2057.0,Canada
+3404,ca,2057.0,Canada
+3405,ca,2057.0,Canada
+3406,ca,2062.0,Canada
+3407,ca,2062.0,Canada
+3408,ca,2062.0,Canada
+3409,ca,2303.0,Canada
+3410,ca,2303.0,Canada
+3411,ca,2508.0,Canada
+3412,ca,2508.0,Canada
+3413,ca,2527.0,Canada
+3414,ca,2592.0,Canada
+3415,ca,2844.0,Canada
+3416,ca,2885.0,Canada
+3417,ca,2885.0,Canada
+3418,ca,3111.0,Canada
+3419,ca,3323.0,Canada
+3420,ca,3323.0,Canada
+3421,ca,3323.0,Canada
+3422,ca,3323.0,Canada
+3423,ca,3472.0,Canada
+3424,ca,3488.0,Canada
+3425,ca,3675.0,Canada
+3426,ca,3751.0,Canada
+3427,ca,3940.0,Canada
+3428,ca,3940.0,Canada
+3429,ca,3940.0,Canada
+3430,ca,3940.0,Canada
+3431,ca,4053.0,Canada
+3432,ca,4062.0,Canada
+3433,ca,4100.0,Canada
+3434,ca,4183.0,Canada
+3435,ca,4244.0,Canada
+3436,ca,4279.0,Canada
+3437,ca,4341.0,Canada
+3438,ca,4389.0,Canada
+3439,ca,4389.0,Canada
+3440,ca,4593.0,Canada
+3441,ca,4815.0,Canada
+3442,ca,4815.0,Canada
+3443,ca,4815.0,Canada
+3444,ca,4879.0,Canada
+3445,ca,4879.0,Canada
+3446,ca,4879.0,Canada
+3447,ca,4879.0,Canada
+3448,ca,4881.0,Canada
+3449,ca,4881.0,Canada
+3450,ca,4881.0,Canada
+3451,ca,4881.0,Canada
+3452,ca,4881.0,Canada
+3453,ca,4881.0,Canada
+3454,ca,4998.0,Canada
+3455,ca,5110.0,Canada
+3456,ca,5142.0,Canada
+3457,ca,5142.0,Canada
+3458,ca,5292.0,Canada
+3459,ca,5292.0,Canada
+3460,ca,5311.0,Canada
+3461,ca,5311.0,Canada
+3462,ca,5326.0,Canada
+3463,ca,5347.0,Canada
+3464,ca,5384.0,Canada
+3465,ca,5384.0,Canada
+3466,ca,5412.0,Canada
+3467,ca,5412.0,Canada
+3468,ca,5645.0,Canada
+3469,ca,5727.0,Canada
+3470,ca,5805.0,Canada
+3471,ca,5831.0,Canada
+3472,ca,5831.0,Canada
+3473,ca,5880.0,Canada
+3474,ca,5880.0,Canada
+3475,ca,6060.0,Canada
+3476,ca,6116.0,Canada
+3477,ca,6116.0,Canada
+3478,ca,6123.0,Canada
+3479,ca,6218.0,Canada
+3480,ca,6266.0,Canada
+3481,ca,6298.0,Canada
+3482,ca,6298.0,Canada
+3483,ca,6325.0,Canada
+3484,ca,6358.0,Canada
+3485,ca,6410.0,Canada
+3486,ca,6458.0,Canada
+3487,ca,6598.0,Canada
+3488,ca,6598.0,Canada
+3489,ca,6627.0,Canada
+3490,ca,6627.0,Canada
+3491,ca,6757.0,Canada
+3492,ca,6768.0,Canada
+3493,ca,6808.0,Canada
+3494,ca,7018.0,Canada
+3495,ca,7018.0,Canada
+3496,ca,7311.0,Canada
+3497,ca,7426.0,Canada
+3498,ca,7426.0,Canada
+3499,ca,7426.0,Canada
+3500,ca,7451.0,Canada
+3501,ca,7487.0,Canada
+3502,ca,7490.0,Canada
+3503,ca,7518.0,Canada
+3504,ca,7568.0,Canada
+3505,ca,7609.0,Canada
+3506,ca,7614.0,Canada
+3507,ca,7614.0,Canada
+3508,ca,7644.0,Canada
+3509,ca,7644.0,Canada
+3510,ca,7745.0,Canada
+3511,ca,7746.0,Canada
+3512,ca,7747.0,Canada
+3513,ca,8038.0,Canada
+3514,ca,8181.0,Canada
+3515,ca,8181.0,Canada
+3516,ca,8181.0,Canada
+3517,ca,8181.0,Canada
+3518,ca,8185.0,Canada
+3519,ca,8295.0,Canada
+3520,ca,8491.0,Canada
+3521,ca,8521.0,Canada
+3522,ca,8521.0,Canada
+3523,ca,8527.0,Canada
+3524,ca,8553.0,Canada
+3525,ca,8553.0,Canada
+3526,ca,8643.0,Canada
+3527,ca,8652.0,Canada
+3528,ca,8706.0,Canada
+3529,ca,8706.0,Canada
+3530,ca,8721.0,Canada
+3531,ca,8721.0,Canada
+3532,ca,8723.0,Canada
+3533,ca,9124.0,Canada
+3534,ca,9129.0,Canada
+3535,ca,9145.0,Canada
+3536,ca,9241.0,Canada
+3537,ca,9311.0,Canada
+3538,ca,9311.0,Canada
+3539,ca,9342.0,Canada
+3540,ca,9518.0,Canada
+3541,ca,9594.0,Canada
+3542,ca,9638.0,Canada
+3543,ca,9709.0,Canada
+3544,ca,9894.0,Canada
+3545,ca,9941.0,Canada
+3546,ca,9945.0,Canada
+3547,ca,10197.0,Canada
+3548,ca,10311.0,Canada
+3549,ca,10323.0,Canada
+3550,ca,10467.0,Canada
+3551,ca,10504.0,Canada
+3552,ca,10504.0,Canada
+3553,ca,10587.0,Canada
+3554,ca,10587.0,Canada
+3555,ca,10645.0,Canada
+3556,ca,10651.0,Canada
+3557,ca,10681.0,Canada
+3558,ca,10762.0,Canada
+3559,ca,10795.0,Canada
+3560,ca,10825.0,Canada
+3561,ca,10908.0,Canada
+3562,ca,11130.0,Canada
+3563,ca,11328.0,Canada
+3564,ca,11703.0,Canada
+3565,ca,11816.0,Canada
+3566,ca,11816.0,Canada
+3567,ca,11816.0,Canada
+3568,ca,11991.0,Canada
+3569,ca,11991.0,Canada
+3570,ca,11991.0,Canada
+3571,ca,11996.0,Canada
+3572,ca,11996.0,Canada
+3573,ca,11996.0,Canada
+3574,ca,12029.0,Canada
+3575,ca,12045.0,Canada
+3576,ca,12126.0,Canada
+3577,ca,12488.0,Canada
+3578,ca,12713.0,Canada
+3579,ca,12718.0,Canada
+3580,ca,12737.0,Canada
+3581,ca,12831.0,Canada
+3582,ca,13033.0,Canada
+3583,ca,13196.0,Canada
+3584,ca,13304.0,Canada
+3585,ca,13342.0,Canada
+3586,ca,13370.0,Canada
+3587,ca,13884.0,Canada
+3588,ca,13966.0,Canada
+3589,ca,13966.0,Canada
+3590,ca,14075.0,Canada
+3591,ca,14229.0,Canada
+3592,ca,14252.0,Canada
+3593,ca,14254.0,Canada
+3594,ca,14319.0,Canada
+3595,ca,14319.0,Canada
+3596,ca,14319.0,Canada
+3597,ca,14343.0,Canada
+3598,ca,14585.0,Canada
+3599,ca,14683.0,Canada
+3600,tr,17.0,Turkey
+3601,tr,617.0,Turkey
+3602,tr,1186.0,Turkey
+3603,tr,1842.0,Turkey
+3604,tr,1842.0,Turkey
+3605,tr,1842.0,Turkey
+3606,tr,2296.0,Turkey
+3607,tr,2296.0,Turkey
+3608,tr,2680.0,Turkey
+3609,tr,4479.0,Turkey
+3610,tr,4572.0,Turkey
+3611,tr,5492.0,Turkey
+3612,tr,5598.0,Turkey
+3613,tr,6069.0,Turkey
+3614,tr,6198.0,Turkey
+3615,tr,6548.0,Turkey
+3616,tr,6548.0,Turkey
+3617,tr,6844.0,Turkey
+3618,tr,6955.0,Turkey
+3619,tr,6955.0,Turkey
+3620,tr,6955.0,Turkey
+3621,tr,7421.0,Turkey
+3622,tr,7508.0,Turkey
+3623,tr,7517.0,Turkey
+3624,tr,7675.0,Turkey
+3625,tr,7675.0,Turkey
+3626,tr,7675.0,Turkey
+3627,tr,8083.0,Turkey
+3628,tr,8083.0,Turkey
+3629,tr,8458.0,Turkey
+3630,tr,8796.0,Turkey
+3631,tr,9424.0,Turkey
+3632,tr,9743.0,Turkey
+3633,tr,9743.0,Turkey
+3634,tr,9899.0,Turkey
+3635,tr,9944.0,Turkey
+3636,tr,9944.0,Turkey
+3637,tr,10346.0,Turkey
+3638,tr,10346.0,Turkey
+3639,tr,11557.0,Turkey
+3640,tr,11690.0,Turkey
+3641,tr,11690.0,Turkey
+3642,tr,11690.0,Turkey
+3643,tr,12136.0,Turkey
+3644,tr,12195.0,Turkey
+3645,tr,12345.0,Turkey
+3646,tr,12348.0,Turkey
+3647,tr,12785.0,Turkey
+3648,tr,13707.0,Turkey
+3649,tr,13707.0,Turkey
+3650,tr,14395.0,Turkey
+3651,pl,19.0,Poland
+3652,pl,19.0,Poland
+3653,pl,19.0,Poland
+3654,pl,225.0,Poland
+3655,pl,225.0,Poland
+3656,pl,225.0,Poland
+3657,pl,247.0,Poland
+3658,pl,271.0,Poland
+3659,pl,348.0,Poland
+3660,pl,383.0,Poland
+3661,pl,383.0,Poland
+3662,pl,410.0,Poland
+3663,pl,744.0,Poland
+3664,pl,790.0,Poland
+3665,pl,793.0,Poland
+3666,pl,794.0,Poland
+3667,pl,969.0,Poland
+3668,pl,969.0,Poland
+3669,pl,1224.0,Poland
+3670,pl,1312.0,Poland
+3671,pl,1688.0,Poland
+3672,pl,1704.0,Poland
+3673,pl,1708.0,Poland
+3674,pl,1708.0,Poland
+3675,pl,1829.0,Poland
+3676,pl,2171.0,Poland
+3677,pl,2284.0,Poland
+3678,pl,2309.0,Poland
+3679,pl,2391.0,Poland
+3680,pl,2630.0,Poland
+3681,pl,2630.0,Poland
+3682,pl,2981.0,Poland
+3683,pl,3113.0,Poland
+3684,pl,3113.0,Poland
+3685,pl,3235.0,Poland
+3686,pl,3235.0,Poland
+3687,pl,3264.0,Poland
+3688,pl,3377.0,Poland
+3689,pl,3379.0,Poland
+3690,pl,3431.0,Poland
+3691,pl,3431.0,Poland
+3692,pl,3697.0,Poland
+3693,pl,4066.0,Poland
+3694,pl,4066.0,Poland
+3695,pl,4521.0,Poland
+3696,pl,4698.0,Poland
+3697,pl,4820.0,Poland
+3698,pl,4833.0,Poland
+3699,pl,4833.0,Poland
+3700,pl,4965.0,Poland
+3701,pl,4981.0,Poland
+3702,pl,4981.0,Poland
+3703,pl,4988.0,Poland
+3704,pl,5001.0,Poland
+3705,pl,5008.0,Poland
+3706,pl,5214.0,Poland
+3707,pl,5214.0,Poland
+3708,pl,5277.0,Poland
+3709,pl,5643.0,Poland
+3710,pl,5839.0,Poland
+3711,pl,5973.0,Poland
+3712,pl,6196.0,Poland
+3713,pl,6211.0,Poland
+3714,pl,6211.0,Poland
+3715,pl,6211.0,Poland
+3716,pl,6211.0,Poland
+3717,pl,6280.0,Poland
+3718,pl,6916.0,Poland
+3719,pl,7396.0,Poland
+3720,pl,7646.0,Poland
+3721,pl,8076.0,Poland
+3722,pl,8101.0,Poland
+3723,pl,9247.0,Poland
+3724,pl,9288.0,Poland
+3725,pl,9288.0,Poland
+3726,pl,9322.0,Poland
+3727,pl,9322.0,Poland
+3728,pl,9322.0,Poland
+3729,pl,9376.0,Poland
+3730,pl,9376.0,Poland
+3731,pl,9644.0,Poland
+3732,pl,9758.0,Poland
+3733,pl,9975.0,Poland
+3734,pl,10040.0,Poland
+3735,pl,10040.0,Poland
+3736,pl,10263.0,Poland
+3737,pl,10395.0,Poland
+3738,pl,10528.0,Poland
+3739,pl,10538.0,Poland
+3740,pl,10538.0,Poland
+3741,pl,10995.0,Poland
+3742,pl,11043.0,Poland
+3743,pl,11043.0,Poland
+3744,pl,11055.0,Poland
+3745,pl,11135.0,Poland
+3746,pl,11135.0,Poland
+3747,pl,11146.0,Poland
+3748,pl,11146.0,Poland
+3749,pl,11226.0,Poland
+3750,pl,11226.0,Poland
+3751,pl,11625.0,Poland
+3752,pl,12329.0,Poland
+3753,pl,12490.0,Poland
+3754,pl,12873.0,Poland
+3755,pl,12873.0,Poland
+3756,pl,12925.0,Poland
+3757,pl,13090.0,Poland
+3758,pl,13126.0,Poland
+3759,pl,13186.0,Poland
+3760,pl,13385.0,Poland
+3761,pl,13385.0,Poland
+3762,pl,13723.0,Poland
+3763,pl,13771.0,Poland
+3764,pl,13940.0,Poland
+3765,pl,14049.0,Poland
+3766,pl,14463.0,Poland
+3767,pl,14752.0,Poland
+3768,cl,20.0,Chile
+3769,cl,25.0,Chile
+3770,cl,25.0,Chile
+3771,cl,917.0,Chile
+3772,cl,1606.0,Chile
+3773,cl,1676.0,Chile
+3774,cl,1744.0,Chile
+3775,cl,1744.0,Chile
+3776,cl,3457.0,Chile
+3777,cl,3471.0,Chile
+3778,cl,3471.0,Chile
+3779,cl,4627.0,Chile
+3780,cl,4911.0,Chile
+3781,cl,5179.0,Chile
+3782,cl,5690.0,Chile
+3783,cl,5690.0,Chile
+3784,cl,7142.0,Chile
+3785,cl,7616.0,Chile
+3786,cl,7616.0,Chile
+3787,cl,8176.0,Chile
+3788,cl,8550.0,Chile
+3789,cl,8576.0,Chile
+3790,cl,8803.0,Chile
+3791,cl,10183.0,Chile
+3792,cl,10512.0,Chile
+3793,cl,10512.0,Chile
+3794,cl,10994.0,Chile
+3795,cl,12217.0,Chile
+3796,cl,12256.0,Chile
+3797,cl,12256.0,Chile
+3798,cl,12256.0,Chile
+3799,cl,12607.0,Chile
+3800,cl,12607.0,Chile
+3801,cl,12607.0,Chile
+3802,cl,13309.0,Chile
+3803,cl,13340.0,Chile
+3804,cl,13433.0,Chile
+3805,cl,13433.0,Chile
+3806,cl,13746.0,Chile
+3807,cl,13746.0,Chile
+3808,cl,14085.0,Chile
+3809,fi,21.0,Finland
+3810,fi,21.0,Finland
+3811,fi,1215.0,Finland
+3812,fi,1783.0,Finland
+3813,fi,1893.0,Finland
+3814,fi,2179.0,Finland
+3815,fi,2179.0,Finland
+3816,fi,2179.0,Finland
+3817,fi,2478.0,Finland
+3818,fi,3322.0,Finland
+3819,fi,3853.0,Finland
+3820,fi,3853.0,Finland
+3821,fi,3853.0,Finland
+3822,fi,4184.0,Finland
+3823,fi,4184.0,Finland
+3824,fi,4238.0,Finland
+3825,fi,4243.0,Finland
+3826,fi,4450.0,Finland
+3827,fi,5051.0,Finland
+3828,fi,5051.0,Finland
+3829,fi,5649.0,Finland
+3830,fi,5676.0,Finland
+3831,fi,5676.0,Finland
+3832,fi,6554.0,Finland
+3833,fi,7334.0,Finland
+3834,fi,7334.0,Finland
+3835,fi,10257.0,Finland
+3836,fi,10511.0,Finland
+3837,fi,10511.0,Finland
+3838,fi,10778.0,Finland
+3839,fi,10778.0,Finland
+3840,fi,11132.0,Finland
+3841,fi,11219.0,Finland
+3842,fi,11472.0,Finland
+3843,fi,11936.0,Finland
+3844,fi,11936.0,Finland
+3845,fi,11936.0,Finland
+3846,fi,11936.0,Finland
+3847,fi,11936.0,Finland
+3848,fi,12395.0,Finland
+3849,fi,12924.0,Finland
+3850,fi,13032.0,Finland
+3851,fi,13044.0,Finland
+3852,fi,13076.0,Finland
+3853,fi,13076.0,Finland
+3854,fi,13077.0,Finland
+3855,fi,13077.0,Finland
+3856,fi,13200.0,Finland
+3857,fi,13272.0,Finland
+3858,fi,13288.0,Finland
+3859,fi,13288.0,Finland
+3860,fi,13657.0,Finland
+3861,fi,13693.0,Finland
+3862,fi,13718.0,Finland
+3863,fi,13738.0,Finland
+3864,fi,14313.0,Finland
+3865,fi,14313.0,Finland
+3866,fi,14313.0,Finland
+3867,fi,14313.0,Finland
+3868,sg,21.0,Singapore
+3869,sg,21.0,Singapore
+3870,sg,109.0,Singapore
+3871,sg,109.0,Singapore
+3872,sg,109.0,Singapore
+3873,sg,294.0,Singapore
+3874,sg,294.0,Singapore
+3875,sg,701.0,Singapore
+3876,sg,873.0,Singapore
+3877,sg,873.0,Singapore
+3878,sg,1261.0,Singapore
+3879,sg,1652.0,Singapore
+3880,sg,2665.0,Singapore
+3881,sg,3235.0,Singapore
+3882,sg,3249.0,Singapore
+3883,sg,3926.0,Singapore
+3884,sg,4369.0,Singapore
+3885,sg,4377.0,Singapore
+3886,sg,4377.0,Singapore
+3887,sg,4471.0,Singapore
+3888,sg,5966.0,Singapore
+3889,sg,5966.0,Singapore
+3890,sg,6139.0,Singapore
+3891,sg,6213.0,Singapore
+3892,sg,7072.0,Singapore
+3893,sg,7237.0,Singapore
+3894,sg,7711.0,Singapore
+3895,sg,7711.0,Singapore
+3896,sg,7711.0,Singapore
+3897,sg,8426.0,Singapore
+3898,sg,9713.0,Singapore
+3899,sg,9764.0,Singapore
+3900,sg,11044.0,Singapore
+3901,sg,11045.0,Singapore
+3902,sg,11087.0,Singapore
+3903,sg,11529.0,Singapore
+3904,sg,12851.0,Singapore
+3905,sg,12851.0,Singapore
+3906,sg,12851.0,Singapore
+3907,sg,12987.0,Singapore
+3908,sg,13009.0,Singapore
+3909,sg,13252.0,Singapore
+3910,sg,14022.0,Singapore
+3911,sg,14418.0,Singapore
+3912,se,24.0,Sweden
+3913,se,100.0,Sweden
+3914,se,645.0,Sweden
+3915,se,781.0,Sweden
+3916,se,1008.0,Sweden
+3917,se,1244.0,Sweden
+3918,se,1315.0,Sweden
+3919,se,1571.0,Sweden
+3920,se,1750.0,Sweden
+3921,se,1750.0,Sweden
+3922,se,1750.0,Sweden
+3923,se,1750.0,Sweden
+3924,se,1752.0,Sweden
+3925,se,1860.0,Sweden
+3926,se,1923.0,Sweden
+3927,se,1925.0,Sweden
+3928,se,3236.0,Sweden
+3929,se,3238.0,Sweden
+3930,se,3257.0,Sweden
+3931,se,3319.0,Sweden
+3932,se,3395.0,Sweden
+3933,se,3395.0,Sweden
+3934,se,3403.0,Sweden
+3935,se,3641.0,Sweden
+3936,se,3855.0,Sweden
+3937,se,3996.0,Sweden
+3938,se,4399.0,Sweden
+3939,se,4478.0,Sweden
+3940,se,4478.0,Sweden
+3941,se,4478.0,Sweden
+3942,se,4478.0,Sweden
+3943,se,4854.0,Sweden
+3944,se,4872.0,Sweden
+3945,se,4872.0,Sweden
+3946,se,4941.0,Sweden
+3947,se,5721.0,Sweden
+3948,se,5806.0,Sweden
+3949,se,5831.0,Sweden
+3950,se,5831.0,Sweden
+3951,se,6043.0,Sweden
+3952,se,6253.0,Sweden
+3953,se,6253.0,Sweden
+3954,se,6277.0,Sweden
+3955,se,6433.0,Sweden
+3956,se,6554.0,Sweden
+3957,se,6779.0,Sweden
+3958,se,7197.0,Sweden
+3959,se,7197.0,Sweden
+3960,se,7249.0,Sweden
+3961,se,7886.0,Sweden
+3962,se,7954.0,Sweden
+3963,se,7958.0,Sweden
+3964,se,7969.0,Sweden
+3965,se,7969.0,Sweden
+3966,se,7980.0,Sweden
+3967,se,8481.0,Sweden
+3968,se,8839.0,Sweden
+3969,se,9126.0,Sweden
+3970,se,9126.0,Sweden
+3971,se,9266.0,Sweden
+3972,se,9532.0,Sweden
+3973,se,9769.0,Sweden
+3974,se,10019.0,Sweden
+3975,se,10019.0,Sweden
+3976,se,10457.0,Sweden
+3977,se,10677.0,Sweden
+3978,se,10677.0,Sweden
+3979,se,10678.0,Sweden
+3980,se,10678.0,Sweden
+3981,se,10688.0,Sweden
+3982,se,11088.0,Sweden
+3983,se,11095.0,Sweden
+3984,se,11132.0,Sweden
+3985,se,11267.0,Sweden
+3986,se,11686.0,Sweden
+3987,se,11756.0,Sweden
+3988,se,11817.0,Sweden
+3989,se,11855.0,Sweden
+3990,se,11861.0,Sweden
+3991,se,11861.0,Sweden
+3992,se,11861.0,Sweden
+3993,se,11861.0,Sweden
+3994,se,12098.0,Sweden
+3995,se,12226.0,Sweden
+3996,se,12226.0,Sweden
+3997,se,12272.0,Sweden
+3998,se,12379.0,Sweden
+3999,se,12458.0,Sweden
+4000,se,13090.0,Sweden
+4001,se,13090.0,Sweden
+4002,se,13151.0,Sweden
+4003,se,13290.0,Sweden
+4004,se,13301.0,Sweden
+4005,se,13308.0,Sweden
+4006,se,13308.0,Sweden
+4007,se,13346.0,Sweden
+4008,se,13369.0,Sweden
+4009,se,13695.0,Sweden
+4010,se,13703.0,Sweden
+4011,se,14151.0,Sweden
+4012,se,14151.0,Sweden
+4013,ru,26.0,Russian Federation
+4014,ru,78.0,Russian Federation
+4015,ru,263.0,Russian Federation
+4016,ru,280.0,Russian Federation
+4017,ru,302.0,Russian Federation
+4018,ru,302.0,Russian Federation
+4019,ru,356.0,Russian Federation
+4020,ru,382.0,Russian Federation
+4021,ru,589.0,Russian Federation
+4022,ru,808.0,Russian Federation
+4023,ru,808.0,Russian Federation
+4024,ru,893.0,Russian Federation
+4025,ru,998.0,Russian Federation
+4026,ru,998.0,Russian Federation
+4027,ru,1048.0,Russian Federation
+4028,ru,1240.0,Russian Federation
+4029,ru,1243.0,Russian Federation
+4030,ru,1404.0,Russian Federation
+4031,ru,1732.0,Russian Federation
+4032,ru,1797.0,Russian Federation
+4033,ru,1990.0,Russian Federation
+4034,ru,2364.0,Russian Federation
+4035,ru,2697.0,Russian Federation
+4036,ru,2739.0,Russian Federation
+4037,ru,2739.0,Russian Federation
+4038,ru,2739.0,Russian Federation
+4039,ru,2739.0,Russian Federation
+4040,ru,2739.0,Russian Federation
+4041,ru,2739.0,Russian Federation
+4042,ru,3483.0,Russian Federation
+4043,ru,3907.0,Russian Federation
+4044,ru,4097.0,Russian Federation
+4045,ru,4097.0,Russian Federation
+4046,ru,4255.0,Russian Federation
+4047,ru,4255.0,Russian Federation
+4048,ru,4255.0,Russian Federation
+4049,ru,4357.0,Russian Federation
+4050,ru,4383.0,Russian Federation
+4051,ru,4412.0,Russian Federation
+4052,ru,4500.0,Russian Federation
+4053,ru,4522.0,Russian Federation
+4054,ru,4558.0,Russian Federation
+4055,ru,4558.0,Russian Federation
+4056,ru,4558.0,Russian Federation
+4057,ru,4603.0,Russian Federation
+4058,ru,4603.0,Russian Federation
+4059,ru,4927.0,Russian Federation
+4060,ru,4927.0,Russian Federation
+4061,ru,4927.0,Russian Federation
+4062,ru,4927.0,Russian Federation
+4063,ru,4927.0,Russian Federation
+4064,ru,5003.0,Russian Federation
+4065,ru,5032.0,Russian Federation
+4066,ru,5568.0,Russian Federation
+4067,ru,5583.0,Russian Federation
+4068,ru,5826.0,Russian Federation
+4069,ru,6059.0,Russian Federation
+4070,ru,6102.0,Russian Federation
+4071,ru,6357.0,Russian Federation
+4072,ru,6411.0,Russian Federation
+4073,ru,6632.0,Russian Federation
+4074,ru,6643.0,Russian Federation
+4075,ru,6694.0,Russian Federation
+4076,ru,6830.0,Russian Federation
+4077,ru,6879.0,Russian Federation
+4078,ru,6879.0,Russian Federation
+4079,ru,6994.0,Russian Federation
+4080,ru,7236.0,Russian Federation
+4081,ru,7336.0,Russian Federation
+4082,ru,7405.0,Russian Federation
+4083,ru,7479.0,Russian Federation
+4084,ru,7490.0,Russian Federation
+4085,ru,7519.0,Russian Federation
+4086,ru,7820.0,Russian Federation
+4087,ru,7905.0,Russian Federation
+4088,ru,8034.0,Russian Federation
+4089,ru,8034.0,Russian Federation
+4090,ru,8034.0,Russian Federation
+4091,ru,8034.0,Russian Federation
+4092,ru,8034.0,Russian Federation
+4093,ru,8316.0,Russian Federation
+4094,ru,8468.0,Russian Federation
+4095,ru,8617.0,Russian Federation
+4096,ru,8617.0,Russian Federation
+4097,ru,8758.0,Russian Federation
+4098,ru,8875.0,Russian Federation
+4099,ru,8875.0,Russian Federation
+4100,ru,8875.0,Russian Federation
+4101,ru,8875.0,Russian Federation
+4102,ru,8875.0,Russian Federation
+4103,ru,8875.0,Russian Federation
+4104,ru,9030.0,Russian Federation
+4105,ru,9266.0,Russian Federation
+4106,ru,9266.0,Russian Federation
+4107,ru,9530.0,Russian Federation
+4108,ru,9657.0,Russian Federation
+4109,ru,9659.0,Russian Federation
+4110,ru,9675.0,Russian Federation
+4111,ru,10007.0,Russian Federation
+4112,ru,10009.0,Russian Federation
+4113,ru,10009.0,Russian Federation
+4114,ru,10228.0,Russian Federation
+4115,ru,11018.0,Russian Federation
+4116,ru,11018.0,Russian Federation
+4117,ru,11060.0,Russian Federation
+4118,ru,11412.0,Russian Federation
+4119,ru,11412.0,Russian Federation
+4120,ru,11412.0,Russian Federation
+4121,ru,11435.0,Russian Federation
+4122,ru,11435.0,Russian Federation
+4123,ru,11533.0,Russian Federation
+4124,ru,11825.0,Russian Federation
+4125,ru,11825.0,Russian Federation
+4126,ru,12202.0,Russian Federation
+4127,ru,12316.0,Russian Federation
+4128,ru,12327.0,Russian Federation
+4129,ru,12327.0,Russian Federation
+4130,ru,12338.0,Russian Federation
+4131,ru,12341.0,Russian Federation
+4132,ru,12342.0,Russian Federation
+4133,ru,12342.0,Russian Federation
+4134,ru,12354.0,Russian Federation
+4135,ru,12354.0,Russian Federation
+4136,ru,12477.0,Russian Federation
+4137,ru,12885.0,Russian Federation
+4138,ru,13708.0,Russian Federation
+4139,ru,13727.0,Russian Federation
+4140,ru,13738.0,Russian Federation
+4141,ru,13756.0,Russian Federation
+4142,ru,13881.0,Russian Federation
+4143,ru,13938.0,Russian Federation
+4144,ru,14346.0,Russian Federation
+4145,ru,14423.0,Russian Federation
+4146,ru,14619.0,Russian Federation
+4147,mx,35.0,Mexico
+4148,mx,452.0,Mexico
+4149,mx,1189.0,Mexico
+4150,mx,1606.0,Mexico
+4151,mx,1805.0,Mexico
+4152,mx,2521.0,Mexico
+4153,mx,2787.0,Mexico
+4154,mx,2787.0,Mexico
+4155,mx,3485.0,Mexico
+4156,mx,4341.0,Mexico
+4157,mx,4888.0,Mexico
+4158,mx,5385.0,Mexico
+4159,mx,5906.0,Mexico
+4160,mx,6045.0,Mexico
+4161,mx,6045.0,Mexico
+4162,mx,6045.0,Mexico
+4163,mx,6104.0,Mexico
+4164,mx,6668.0,Mexico
+4165,mx,6861.0,Mexico
+4166,mx,6882.0,Mexico
+4167,mx,7672.0,Mexico
+4168,mx,7684.0,Mexico
+4169,mx,8283.0,Mexico
+4170,mx,8283.0,Mexico
+4171,mx,8348.0,Mexico
+4172,mx,8348.0,Mexico
+4173,mx,8348.0,Mexico
+4174,mx,9266.0,Mexico
+4175,mx,9286.0,Mexico
+4176,mx,9286.0,Mexico
+4177,mx,9385.0,Mexico
+4178,mx,9402.0,Mexico
+4179,mx,9402.0,Mexico
+4180,mx,9402.0,Mexico
+4181,mx,9986.0,Mexico
+4182,mx,10547.0,Mexico
+4183,mx,10660.0,Mexico
+4184,mx,10837.0,Mexico
+4185,mx,10837.0,Mexico
+4186,mx,11555.0,Mexico
+4187,mx,12144.0,Mexico
+4188,mx,12786.0,Mexico
+4189,mx,12786.0,Mexico
+4190,mx,13026.0,Mexico
+4191,mx,13508.0,Mexico
+4192,mx,13511.0,Mexico
+4193,mx,13511.0,Mexico
+4194,mx,13511.0,Mexico
+4195,il,39.0,Israel
+4196,il,39.0,Israel
+4197,il,211.0,Israel
+4198,il,215.0,Israel
+4199,il,298.0,Israel
+4200,il,299.0,Israel
+4201,il,299.0,Israel
+4202,il,401.0,Israel
+4203,il,401.0,Israel
+4204,il,402.0,Israel
+4205,il,485.0,Israel
+4206,il,487.0,Israel
+4207,il,618.0,Israel
+4208,il,666.0,Israel
+4209,il,781.0,Israel
+4210,il,806.0,Israel
+4211,il,1259.0,Israel
+4212,il,1669.0,Israel
+4213,il,1707.0,Israel
+4214,il,1715.0,Israel
+4215,il,1845.0,Israel
+4216,il,1845.0,Israel
+4217,il,1933.0,Israel
+4218,il,2333.0,Israel
+4219,il,2446.0,Israel
+4220,il,2634.0,Israel
+4221,il,2852.0,Israel
+4222,il,2880.0,Israel
+4223,il,2886.0,Israel
+4224,il,2887.0,Israel
+4225,il,2897.0,Israel
+4226,il,3224.0,Israel
+4227,il,3282.0,Israel
+4228,il,3282.0,Israel
+4229,il,3349.0,Israel
+4230,il,3349.0,Israel
+4231,il,3433.0,Israel
+4232,il,3517.0,Israel
+4233,il,3681.0,Israel
+4234,il,3681.0,Israel
+4235,il,3705.0,Israel
+4236,il,3705.0,Israel
+4237,il,3958.0,Israel
+4238,il,4108.0,Israel
+4239,il,4166.0,Israel
+4240,il,4568.0,Israel
+4241,il,4702.0,Israel
+4242,il,4702.0,Israel
+4243,il,5033.0,Israel
+4244,il,5033.0,Israel
+4245,il,5033.0,Israel
+4246,il,5033.0,Israel
+4247,il,5199.0,Israel
+4248,il,5237.0,Israel
+4249,il,5404.0,Israel
+4250,il,5404.0,Israel
+4251,il,5404.0,Israel
+4252,il,5404.0,Israel
+4253,il,6179.0,Israel
+4254,il,6194.0,Israel
+4255,il,6198.0,Israel
+4256,il,6208.0,Israel
+4257,il,6215.0,Israel
+4258,il,6215.0,Israel
+4259,il,6216.0,Israel
+4260,il,6260.0,Israel
+4261,il,6279.0,Israel
+4262,il,6380.0,Israel
+4263,il,6407.0,Israel
+4264,il,6412.0,Israel
+4265,il,6501.0,Israel
+4266,il,7015.0,Israel
+4267,il,7316.0,Israel
+4268,il,7396.0,Israel
+4269,il,7422.0,Israel
+4270,il,7625.0,Israel
+4271,il,7625.0,Israel
+4272,il,7826.0,Israel
+4273,il,7907.0,Israel
+4274,il,7927.0,Israel
+4275,il,8371.0,Israel
+4276,il,8858.0,Israel
+4277,il,9253.0,Israel
+4278,il,9253.0,Israel
+4279,il,9379.0,Israel
+4280,il,9433.0,Israel
+4281,il,9477.0,Israel
+4282,il,9477.0,Israel
+4283,il,9477.0,Israel
+4284,il,9798.0,Israel
+4285,il,9798.0,Israel
+4286,il,9937.0,Israel
+4287,il,10065.0,Israel
+4288,il,10425.0,Israel
+4289,il,10683.0,Israel
+4290,il,10683.0,Israel
+4291,il,10683.0,Israel
+4292,il,11485.0,Israel
+4293,il,11584.0,Israel
+4294,il,11584.0,Israel
+4295,il,11653.0,Israel
+4296,il,11653.0,Israel
+4297,il,12584.0,Israel
+4298,il,12626.0,Israel
+4299,il,12632.0,Israel
+4300,il,12905.0,Israel
+4301,il,13279.0,Israel
+4302,il,13357.0,Israel
+4303,il,13571.0,Israel
+4304,il,13571.0,Israel
+4305,il,13773.0,Israel
+4306,il,13985.0,Israel
+4307,il,14098.0,Israel
+4308,il,14218.0,Israel
+4309,il,14218.0,Israel
+4310,il,14340.0,Israel
+4311,il,14369.0,Israel
+4312,il,14369.0,Israel
+4313,il,14369.0,Israel
+4314,il,14432.0,Israel
+4315,il,14432.0,Israel
+4316,il,14440.0,Israel
+4317,il,14440.0,Israel
+4318,il,14542.0,Israel
+4319,it,42.0,Italy
+4320,it,51.0,Italy
+4321,it,86.0,Italy
+4322,it,228.0,Italy
+4323,it,247.0,Italy
+4324,it,249.0,Italy
+4325,it,249.0,Italy
+4326,it,249.0,Italy
+4327,it,313.0,Italy
+4328,it,317.0,Italy
+4329,it,347.0,Italy
+4330,it,388.0,Italy
+4331,it,658.0,Italy
+4332,it,737.0,Italy
+4333,it,737.0,Italy
+4334,it,837.0,Italy
+4335,it,842.0,Italy
+4336,it,842.0,Italy
+4337,it,899.0,Italy
+4338,it,909.0,Italy
+4339,it,909.0,Italy
+4340,it,958.0,Italy
+4341,it,961.0,Italy
+4342,it,1218.0,Italy
+4343,it,1218.0,Italy
+4344,it,1220.0,Italy
+4345,it,1249.0,Italy
+4346,it,1269.0,Italy
+4347,it,1709.0,Italy
+4348,it,1709.0,Italy
+4349,it,1718.0,Italy
+4350,it,1735.0,Italy
+4351,it,1735.0,Italy
+4352,it,1749.0,Italy
+4353,it,1773.0,Italy
+4354,it,1814.0,Italy
+4355,it,1816.0,Italy
+4356,it,1843.0,Italy
+4357,it,1865.0,Italy
+4358,it,1874.0,Italy
+4359,it,1881.0,Italy
+4360,it,1881.0,Italy
+4361,it,2229.0,Italy
+4362,it,2231.0,Italy
+4363,it,2247.0,Italy
+4364,it,2257.0,Italy
+4365,it,2257.0,Italy
+4366,it,2277.0,Italy
+4367,it,2277.0,Italy
+4368,it,2277.0,Italy
+4369,it,2308.0,Italy
+4370,it,2308.0,Italy
+4371,it,2308.0,Italy
+4372,it,2469.0,Italy
+4373,it,2807.0,Italy
+4374,it,2888.0,Italy
+4375,it,2964.0,Italy
+4376,it,3001.0,Italy
+4377,it,3111.0,Italy
+4378,it,3310.0,Italy
+4379,it,3345.0,Italy
+4380,it,3407.0,Italy
+4381,it,3409.0,Italy
+4382,it,3423.0,Italy
+4383,it,3425.0,Italy
+4384,it,3513.0,Italy
+4385,it,3513.0,Italy
+4386,it,3513.0,Italy
+4387,it,3568.0,Italy
+4388,it,3592.0,Italy
+4389,it,3895.0,Italy
+4390,it,3895.0,Italy
+4391,it,3895.0,Italy
+4392,it,3911.0,Italy
+4393,it,3929.0,Italy
+4394,it,3933.0,Italy
+4395,it,4103.0,Italy
+4396,it,4216.0,Italy
+4397,it,4216.0,Italy
+4398,it,4216.0,Italy
+4399,it,4222.0,Italy
+4400,it,4277.0,Italy
+4401,it,4365.0,Italy
+4402,it,4442.0,Italy
+4403,it,4624.0,Italy
+4404,it,4665.0,Italy
+4405,it,4665.0,Italy
+4406,it,4665.0,Italy
+4407,it,4665.0,Italy
+4408,it,4715.0,Italy
+4409,it,4866.0,Italy
+4410,it,4866.0,Italy
+4411,it,4872.0,Italy
+4412,it,4872.0,Italy
+4413,it,4872.0,Italy
+4414,it,4872.0,Italy
+4415,it,4872.0,Italy
+4416,it,4986.0,Italy
+4417,it,4986.0,Italy
+4418,it,4986.0,Italy
+4419,it,4986.0,Italy
+4420,it,5019.0,Italy
+4421,it,5057.0,Italy
+4422,it,5061.0,Italy
+4423,it,5061.0,Italy
+4424,it,5150.0,Italy
+4425,it,5150.0,Italy
+4426,it,5150.0,Italy
+4427,it,5152.0,Italy
+4428,it,5183.0,Italy
+4429,it,5183.0,Italy
+4430,it,5274.0,Italy
+4431,it,5274.0,Italy
+4432,it,5274.0,Italy
+4433,it,5295.0,Italy
+4434,it,5296.0,Italy
+4435,it,5298.0,Italy
+4436,it,5458.0,Italy
+4437,it,5462.0,Italy
+4438,it,5524.0,Italy
+4439,it,5524.0,Italy
+4440,it,5636.0,Italy
+4441,it,5636.0,Italy
+4442,it,5657.0,Italy
+4443,it,5657.0,Italy
+4444,it,5715.0,Italy
+4445,it,5715.0,Italy
+4446,it,5731.0,Italy
+4447,it,5731.0,Italy
+4448,it,5731.0,Italy
+4449,it,5805.0,Italy
+4450,it,5843.0,Italy
+4451,it,5977.0,Italy
+4452,it,6014.0,Italy
+4453,it,6014.0,Italy
+4454,it,6014.0,Italy
+4455,it,6104.0,Italy
+4456,it,6131.0,Italy
+4457,it,6131.0,Italy
+4458,it,6260.0,Italy
+4459,it,6260.0,Italy
+4460,it,6266.0,Italy
+4461,it,6266.0,Italy
+4462,it,6266.0,Italy
+4463,it,6285.0,Italy
+4464,it,6285.0,Italy
+4465,it,6285.0,Italy
+4466,it,6285.0,Italy
+4467,it,6285.0,Italy
+4468,it,6285.0,Italy
+4469,it,6285.0,Italy
+4470,it,6285.0,Italy
+4471,it,6289.0,Italy
+4472,it,6417.0,Italy
+4473,it,6454.0,Italy
+4474,it,6505.0,Italy
+4475,it,6545.0,Italy
+4476,it,6554.0,Italy
+4477,it,6554.0,Italy
+4478,it,6593.0,Italy
+4479,it,6632.0,Italy
+4480,it,6669.0,Italy
+4481,it,6677.0,Italy
+4482,it,6887.0,Italy
+4483,it,6887.0,Italy
+4484,it,6887.0,Italy
+4485,it,7201.0,Italy
+4486,it,7201.0,Italy
+4487,it,7201.0,Italy
+4488,it,7201.0,Italy
+4489,it,7238.0,Italy
+4490,it,7240.0,Italy
+4491,it,7253.0,Italy
+4492,it,7253.0,Italy
+4493,it,7253.0,Italy
+4494,it,7313.0,Italy
+4495,it,7313.0,Italy
+4496,it,7346.0,Italy
+4497,it,7349.0,Italy
+4498,it,7349.0,Italy
+4499,it,7349.0,Italy
+4500,it,7349.0,Italy
+4501,it,7349.0,Italy
+4502,it,7402.0,Italy
+4503,it,7402.0,Italy
+4504,it,7402.0,Italy
+4505,it,7418.0,Italy
+4506,it,7418.0,Italy
+4507,it,7579.0,Italy
+4508,it,7579.0,Italy
+4509,it,7580.0,Italy
+4510,it,7597.0,Italy
+4511,it,7750.0,Italy
+4512,it,7776.0,Italy
+4513,it,7892.0,Italy
+4514,it,7892.0,Italy
+4515,it,7892.0,Italy
+4516,it,7932.0,Italy
+4517,it,7977.0,Italy
+4518,it,8021.0,Italy
+4519,it,8039.0,Italy
+4520,it,8108.0,Italy
+4521,it,8108.0,Italy
+4522,it,8330.0,Italy
+4523,it,8480.0,Italy
+4524,it,8480.0,Italy
+4525,it,8480.0,Italy
+4526,it,8530.0,Italy
+4527,it,8541.0,Italy
+4528,it,8603.0,Italy
+4529,it,8612.0,Italy
+4530,it,8612.0,Italy
+4531,it,8709.0,Italy
+4532,it,8754.0,Italy
+4533,it,8770.0,Italy
+4534,it,8800.0,Italy
+4535,it,8800.0,Italy
+4536,it,8800.0,Italy
+4537,it,8800.0,Italy
+4538,it,8800.0,Italy
+4539,it,8800.0,Italy
+4540,it,8800.0,Italy
+4541,it,8869.0,Italy
+4542,it,8869.0,Italy
+4543,it,8950.0,Italy
+4544,it,8950.0,Italy
+4545,it,8962.0,Italy
+4546,it,8994.0,Italy
+4547,it,9193.0,Italy
+4548,it,9241.0,Italy
+4549,it,9241.0,Italy
+4550,it,9265.0,Italy
+4551,it,9268.0,Italy
+4552,it,9285.0,Italy
+4553,it,9339.0,Italy
+4554,it,9449.0,Italy
+4555,it,9526.0,Italy
+4556,it,9526.0,Italy
+4557,it,9526.0,Italy
+4558,it,9657.0,Italy
+4559,it,9806.0,Italy
+4560,it,9840.0,Italy
+4561,it,9858.0,Italy
+4562,it,9908.0,Italy
+4563,it,9911.0,Italy
+4564,it,9911.0,Italy
+4565,it,9913.0,Italy
+4566,it,9948.0,Italy
+4567,it,9984.0,Italy
+4568,it,9984.0,Italy
+4569,it,9984.0,Italy
+4570,it,9984.0,Italy
+4571,it,10408.0,Italy
+4572,it,10408.0,Italy
+4573,it,10408.0,Italy
+4574,it,10660.0,Italy
+4575,it,10971.0,Italy
+4576,it,10971.0,Italy
+4577,it,10971.0,Italy
+4578,it,11035.0,Italy
+4579,it,11035.0,Italy
+4580,it,11035.0,Italy
+4581,it,11092.0,Italy
+4582,it,11189.0,Italy
+4583,it,11189.0,Italy
+4584,it,11189.0,Italy
+4585,it,11248.0,Italy
+4586,it,11248.0,Italy
+4587,it,11254.0,Italy
+4588,it,11254.0,Italy
+4589,it,11254.0,Italy
+4590,it,11254.0,Italy
+4591,it,11349.0,Italy
+4592,it,11383.0,Italy
+4593,it,11383.0,Italy
+4594,it,11405.0,Italy
+4595,it,11687.0,Italy
+4596,it,11687.0,Italy
+4597,it,11691.0,Italy
+4598,it,11706.0,Italy
+4599,it,11710.0,Italy
+4600,it,11733.0,Italy
+4601,it,11733.0,Italy
+4602,it,11733.0,Italy
+4603,it,11733.0,Italy
+4604,it,11785.0,Italy
+4605,it,11948.0,Italy
+4606,it,11948.0,Italy
+4607,it,12092.0,Italy
+4608,it,12099.0,Italy
+4609,it,12124.0,Italy
+4610,it,12138.0,Italy
+4611,it,12138.0,Italy
+4612,it,12138.0,Italy
+4613,it,12138.0,Italy
+4614,it,12206.0,Italy
+4615,it,12206.0,Italy
+4616,it,12206.0,Italy
+4617,it,12287.0,Italy
+4618,it,12287.0,Italy
+4619,it,12287.0,Italy
+4620,it,12287.0,Italy
+4621,it,12336.0,Italy
+4622,it,12336.0,Italy
+4623,it,12479.0,Italy
+4624,it,12481.0,Italy
+4625,it,12482.0,Italy
+4626,it,12485.0,Italy
+4627,it,12485.0,Italy
+4628,it,12485.0,Italy
+4629,it,12569.0,Italy
+4630,it,12571.0,Italy
+4631,it,12571.0,Italy
+4632,it,12630.0,Italy
+4633,it,12630.0,Italy
+4634,it,12638.0,Italy
+4635,it,12638.0,Italy
+4636,it,12638.0,Italy
+4637,it,12674.0,Italy
+4638,it,12795.0,Italy
+4639,it,12860.0,Italy
+4640,it,12860.0,Italy
+4641,it,12860.0,Italy
+4642,it,12870.0,Italy
+4643,it,12907.0,Italy
+4644,it,12907.0,Italy
+4645,it,13043.0,Italy
+4646,it,13043.0,Italy
+4647,it,13043.0,Italy
+4648,it,13047.0,Italy
+4649,it,13068.0,Italy
+4650,it,13080.0,Italy
+4651,it,13080.0,Italy
+4652,it,13262.0,Italy
+4653,it,13282.0,Italy
+4654,it,13282.0,Italy
+4655,it,13383.0,Italy
+4656,it,13416.0,Italy
+4657,it,13664.0,Italy
+4658,it,13689.0,Italy
+4659,it,13723.0,Italy
+4660,it,13723.0,Italy
+4661,it,13742.0,Italy
+4662,it,13745.0,Italy
+4663,it,13755.0,Italy
+4664,it,13860.0,Italy
+4665,it,13929.0,Italy
+4666,it,13929.0,Italy
+4667,it,13929.0,Italy
+4668,it,13937.0,Italy
+4669,it,13985.0,Italy
+4670,it,14004.0,Italy
+4671,it,14004.0,Italy
+4672,it,14451.0,Italy
+4673,it,14453.0,Italy
+4674,it,14460.0,Italy
+4675,it,14502.0,Italy
+4676,it,14622.0,Italy
+4677,it,14622.0,Italy
+4678,it,14626.0,Italy
+4679,it,14740.0,Italy
+4680,fr,51.0,France
+4681,fr,60.0,France
+4682,fr,186.0,France
+4683,fr,347.0,France
+4684,fr,347.0,France
+4685,fr,356.0,France
+4686,fr,388.0,France
+4687,fr,431.0,France
+4688,fr,435.0,France
+4689,fr,559.0,France
+4690,fr,559.0,France
+4691,fr,592.0,France
+4692,fr,658.0,France
+4693,fr,703.0,France
+4694,fr,710.0,France
+4695,fr,710.0,France
+4696,fr,710.0,France
+4697,fr,748.0,France
+4698,fr,796.0,France
+4699,fr,1129.0,France
+4700,fr,1132.0,France
+4701,fr,1132.0,France
+4702,fr,1133.0,France
+4703,fr,1133.0,France
+4704,fr,1198.0,France
+4705,fr,1256.0,France
+4706,fr,1256.0,France
+4707,fr,1258.0,France
+4708,fr,1519.0,France
+4709,fr,1576.0,France
+4710,fr,1590.0,France
+4711,fr,1716.0,France
+4712,fr,1744.0,France
+4713,fr,1816.0,France
+4714,fr,1836.0,France
+4715,fr,1881.0,France
+4716,fr,2147.0,France
+4717,fr,2166.0,France
+4718,fr,2166.0,France
+4719,fr,2169.0,France
+4720,fr,2173.0,France
+4721,fr,2206.0,France
+4722,fr,2230.0,France
+4723,fr,2230.0,France
+4724,fr,2274.0,France
+4725,fr,2287.0,France
+4726,fr,2287.0,France
+4727,fr,2305.0,France
+4728,fr,2430.0,France
+4729,fr,2442.0,France
+4730,fr,2447.0,France
+4731,fr,2447.0,France
+4732,fr,2447.0,France
+4733,fr,2682.0,France
+4734,fr,2682.0,France
+4735,fr,2682.0,France
+4736,fr,2687.0,France
+4737,fr,2745.0,France
+4738,fr,2999.0,France
+4739,fr,3126.0,France
+4740,fr,3240.0,France
+4741,fr,3341.0,France
+4742,fr,3366.0,France
+4743,fr,3395.0,France
+4744,fr,3419.0,France
+4745,fr,3518.0,France
+4746,fr,3561.0,France
+4747,fr,3653.0,France
+4748,fr,3679.0,France
+4749,fr,3688.0,France
+4750,fr,3751.0,France
+4751,fr,3751.0,France
+4752,fr,3874.0,France
+4753,fr,3876.0,France
+4754,fr,3926.0,France
+4755,fr,3939.0,France
+4756,fr,3939.0,France
+4757,fr,4012.0,France
+4758,fr,4171.0,France
+4759,fr,4171.0,France
+4760,fr,4171.0,France
+4761,fr,4448.0,France
+4762,fr,4498.0,France
+4763,fr,4617.0,France
+4764,fr,4617.0,France
+4765,fr,4617.0,France
+4766,fr,4617.0,France
+4767,fr,4617.0,France
+4768,fr,4707.0,France
+4769,fr,4778.0,France
+4770,fr,4878.0,France
+4771,fr,5040.0,France
+4772,fr,5040.0,France
+4773,fr,5044.0,France
+4774,fr,5144.0,France
+4775,fr,5144.0,France
+4776,fr,5145.0,France
+4777,fr,5148.0,France
+4778,fr,5148.0,France
+4779,fr,5148.0,France
+4780,fr,5180.0,France
+4781,fr,5190.0,France
+4782,fr,5190.0,France
+4783,fr,5348.0,France
+4784,fr,5461.0,France
+4785,fr,5479.0,France
+4786,fr,5519.0,France
+4787,fr,5519.0,France
+4788,fr,5569.0,France
+4789,fr,5576.0,France
+4790,fr,5576.0,France
+4791,fr,5661.0,France
+4792,fr,5661.0,France
+4793,fr,5661.0,France
+4794,fr,5661.0,France
+4795,fr,5691.0,France
+4796,fr,5845.0,France
+4797,fr,5932.0,France
+4798,fr,5932.0,France
+4799,fr,5932.0,France
+4800,fr,6132.0,France
+4801,fr,6203.0,France
+4802,fr,6370.0,France
+4803,fr,6370.0,France
+4804,fr,6370.0,France
+4805,fr,6370.0,France
+4806,fr,6514.0,France
+4807,fr,6554.0,France
+4808,fr,6619.0,France
+4809,fr,6960.0,France
+4810,fr,6998.0,France
+4811,fr,7158.0,France
+4812,fr,7158.0,France
+4813,fr,7171.0,France
+4814,fr,7171.0,France
+4815,fr,7174.0,France
+4816,fr,7198.0,France
+4817,fr,7199.0,France
+4818,fr,7337.0,France
+4819,fr,7337.0,France
+4820,fr,7370.0,France
+4821,fr,7427.0,France
+4822,fr,7591.0,France
+4823,fr,7591.0,France
+4824,fr,7596.0,France
+4825,fr,7745.0,France
+4826,fr,7746.0,France
+4827,fr,7747.0,France
+4828,fr,7774.0,France
+4829,fr,7841.0,France
+4830,fr,7908.0,France
+4831,fr,7971.0,France
+4832,fr,7983.0,France
+4833,fr,8060.0,France
+4834,fr,8117.0,France
+4835,fr,8159.0,France
+4836,fr,8321.0,France
+4837,fr,8339.0,France
+4838,fr,8359.0,France
+4839,fr,8404.0,France
+4840,fr,8549.0,France
+4841,fr,8605.0,France
+4842,fr,8641.0,France
+4843,fr,8709.0,France
+4844,fr,8771.0,France
+4845,fr,8775.0,France
+4846,fr,8986.0,France
+4847,fr,8986.0,France
+4848,fr,9001.0,France
+4849,fr,9053.0,France
+4850,fr,9167.0,France
+4851,fr,9194.0,France
+4852,fr,9270.0,France
+4853,fr,9476.0,France
+4854,fr,9542.0,France
+4855,fr,9542.0,France
+4856,fr,9542.0,France
+4857,fr,9542.0,France
+4858,fr,9754.0,France
+4859,fr,9755.0,France
+4860,fr,9803.0,France
+4861,fr,9803.0,France
+4862,fr,9838.0,France
+4863,fr,9904.0,France
+4864,fr,10117.0,France
+4865,fr,10118.0,France
+4866,fr,10256.0,France
+4867,fr,10256.0,France
+4868,fr,10256.0,France
+4869,fr,10281.0,France
+4870,fr,10281.0,France
+4871,fr,10323.0,France
+4872,fr,10394.0,France
+4873,fr,10419.0,France
+4874,fr,10633.0,France
+4875,fr,10633.0,France
+4876,fr,10696.0,France
+4877,fr,10716.0,France
+4878,fr,10972.0,France
+4879,fr,10994.0,France
+4880,fr,11011.0,France
+4881,fr,11147.0,France
+4882,fr,11147.0,France
+4883,fr,11147.0,France
+4884,fr,11147.0,France
+4885,fr,11219.0,France
+4886,fr,11221.0,France
+4887,fr,11371.0,France
+4888,fr,11412.0,France
+4889,fr,11483.0,France
+4890,fr,11549.0,France
+4891,fr,11553.0,France
+4892,fr,11555.0,France
+4893,fr,11612.0,France
+4894,fr,11612.0,France
+4895,fr,11620.0,France
+4896,fr,11697.0,France
+4897,fr,11720.0,France
+4898,fr,11728.0,France
+4899,fr,11915.0,France
+4900,fr,11959.0,France
+4901,fr,11969.0,France
+4902,fr,12093.0,France
+4903,fr,12107.0,France
+4904,fr,12144.0,France
+4905,fr,12146.0,France
+4906,fr,12303.0,France
+4907,fr,12303.0,France
+4908,fr,12319.0,France
+4909,fr,12343.0,France
+4910,fr,12359.0,France
+4911,fr,12439.0,France
+4912,fr,12439.0,France
+4913,fr,12617.0,France
+4914,fr,12623.0,France
+4915,fr,12623.0,France
+4916,fr,13058.0,France
+4917,fr,13058.0,France
+4918,fr,13239.0,France
+4919,fr,13242.0,France
+4920,fr,13242.0,France
+4921,fr,13242.0,France
+4922,fr,13287.0,France
+4923,fr,13384.0,France
+4924,fr,13397.0,France
+4925,fr,13412.0,France
+4926,fr,13417.0,France
+4927,fr,13417.0,France
+4928,fr,13417.0,France
+4929,fr,13436.0,France
+4930,fr,13436.0,France
+4931,fr,13436.0,France
+4932,fr,13565.0,France
+4933,fr,13732.0,France
+4934,fr,13763.0,France
+4935,fr,13763.0,France
+4936,fr,14029.0,France
+4937,fr,14048.0,France
+4938,fr,14058.0,France
+4939,fr,14098.0,France
+4940,fr,14224.0,France
+4941,fr,14337.0,France
+4942,fr,14337.0,France
+4943,fr,14358.0,France
+4944,fr,14358.0,France
+4945,fr,14541.0,France
+4946,fr,14541.0,France
+4947,fr,14728.0,France
+4948,co,55.0,Colombia
+4949,co,231.0,Colombia
+4950,co,594.0,Colombia
+4951,co,819.0,Colombia
+4952,co,929.0,Colombia
+4953,co,1107.0,Colombia
+4954,co,1155.0,Colombia
+4955,co,1227.0,Colombia
+4956,co,1731.0,Colombia
+4957,co,2283.0,Colombia
+4958,co,2533.0,Colombia
+4959,co,2728.0,Colombia
+4960,co,2734.0,Colombia
+4961,co,2750.0,Colombia
+4962,co,2916.0,Colombia
+4963,co,2934.0,Colombia
+4964,co,2990.0,Colombia
+4965,co,3464.0,Colombia
+4966,co,3464.0,Colombia
+4967,co,3475.0,Colombia
+4968,co,4753.0,Colombia
+4969,co,5828.0,Colombia
+4970,co,5841.0,Colombia
+4971,co,6350.0,Colombia
+4972,co,6435.0,Colombia
+4973,co,6546.0,Colombia
+4974,co,6882.0,Colombia
+4975,co,7066.0,Colombia
+4976,co,7139.0,Colombia
+4977,co,7319.0,Colombia
+4978,co,7319.0,Colombia
+4979,co,7406.0,Colombia
+4980,co,7413.0,Colombia
+4981,co,7424.0,Colombia
+4982,co,7728.0,Colombia
+4983,co,7819.0,Colombia
+4984,co,7949.0,Colombia
+4985,co,7949.0,Colombia
+4986,co,7970.0,Colombia
+4987,co,8449.0,Colombia
+4988,co,9003.0,Colombia
+4989,co,9155.0,Colombia
+4990,co,9583.0,Colombia
+4991,co,10124.0,Colombia
+4992,co,10455.0,Colombia
+4993,co,10524.0,Colombia
+4994,co,10524.0,Colombia
+4995,co,10662.0,Colombia
+4996,co,10662.0,Colombia
+4997,co,10680.0,Colombia
+4998,co,11126.0,Colombia
+4999,co,11226.0,Colombia
+5000,co,11534.0,Colombia
+5001,co,11735.0,Colombia
+5002,co,12258.0,Colombia
+5003,co,12265.0,Colombia
+5004,co,12321.0,Colombia
+5005,co,13005.0,Colombia
+5006,co,13063.0,Colombia
+5007,co,13063.0,Colombia
+5008,co,13256.0,Colombia
+5009,co,13459.0,Colombia
+5010,co,14496.0,Colombia
+5011,co,14639.0,Colombia
+5012,co,14639.0,Colombia
+5013,co,14748.0,Colombia
+5014,co,14748.0,Colombia
+5015,co,14748.0,Colombia
+5016,co,14748.0,Colombia
+5017,co,14748.0,Colombia
+5018,br,60.0,Brazil
+5019,br,60.0,Brazil
+5020,br,123.0,Brazil
+5021,br,228.0,Brazil
+5022,br,256.0,Brazil
+5023,br,599.0,Brazil
+5024,br,611.0,Brazil
+5025,br,611.0,Brazil
+5026,br,744.0,Brazil
+5027,br,798.0,Brazil
+5028,br,800.0,Brazil
+5029,br,904.0,Brazil
+5030,br,904.0,Brazil
+5031,br,904.0,Brazil
+5032,br,958.0,Brazil
+5033,br,958.0,Brazil
+5034,br,961.0,Brazil
+5035,br,961.0,Brazil
+5036,br,965.0,Brazil
+5037,br,1575.0,Brazil
+5038,br,1742.0,Brazil
+5039,br,1849.0,Brazil
+5040,br,1849.0,Brazil
+5041,br,1849.0,Brazil
+5042,br,1877.0,Brazil
+5043,br,2254.0,Brazil
+5044,br,2334.0,Brazil
+5045,br,2365.0,Brazil
+5046,br,2963.0,Brazil
+5047,br,3608.0,Brazil
+5048,br,3608.0,Brazil
+5049,br,3766.0,Brazil
+5050,br,4171.0,Brazil
+5051,br,4459.0,Brazil
+5052,br,4518.0,Brazil
+5053,br,4518.0,Brazil
+5054,br,4691.0,Brazil
+5055,br,4778.0,Brazil
+5056,br,4778.0,Brazil
+5057,br,4778.0,Brazil
+5058,br,4937.0,Brazil
+5059,br,4942.0,Brazil
+5060,br,4942.0,Brazil
+5061,br,4942.0,Brazil
+5062,br,5059.0,Brazil
+5063,br,5189.0,Brazil
+5064,br,5657.0,Brazil
+5065,br,5676.0,Brazil
+5066,br,5729.0,Brazil
+5067,br,6203.0,Brazil
+5068,br,6203.0,Brazil
+5069,br,6203.0,Brazil
+5070,br,6220.0,Brazil
+5071,br,6279.0,Brazil
+5072,br,6359.0,Brazil
+5073,br,6359.0,Brazil
+5074,br,6377.0,Brazil
+5075,br,7252.0,Brazil
+5076,br,7252.0,Brazil
+5077,br,7428.0,Brazil
+5078,br,7554.0,Brazil
+5079,br,7596.0,Brazil
+5080,br,7678.0,Brazil
+5081,br,7678.0,Brazil
+5082,br,7965.0,Brazil
+5083,br,7965.0,Brazil
+5084,br,7965.0,Brazil
+5085,br,8088.0,Brazil
+5086,br,8088.0,Brazil
+5087,br,8091.0,Brazil
+5088,br,8114.0,Brazil
+5089,br,8119.0,Brazil
+5090,br,8369.0,Brazil
+5091,br,8469.0,Brazil
+5092,br,8469.0,Brazil
+5093,br,8543.0,Brazil
+5094,br,8557.0,Brazil
+5095,br,8557.0,Brazil
+5096,br,8787.0,Brazil
+5097,br,9036.0,Brazil
+5098,br,9036.0,Brazil
+5099,br,9036.0,Brazil
+5100,br,9036.0,Brazil
+5101,br,9158.0,Brazil
+5102,br,9158.0,Brazil
+5103,br,9827.0,Brazil
+5104,br,9871.0,Brazil
+5105,br,10308.0,Brazil
+5106,br,10308.0,Brazil
+5107,br,10308.0,Brazil
+5108,br,10393.0,Brazil
+5109,br,10393.0,Brazil
+5110,br,10393.0,Brazil
+5111,br,10994.0,Brazil
+5112,br,11123.0,Brazil
+5113,br,11123.0,Brazil
+5114,br,11222.0,Brazil
+5115,br,11347.0,Brazil
+5116,br,11642.0,Brazil
+5117,br,11766.0,Brazil
+5118,br,11827.0,Brazil
+5119,br,11942.0,Brazil
+5120,br,11981.0,Brazil
+5121,br,11992.0,Brazil
+5122,br,11992.0,Brazil
+5123,br,12324.0,Brazil
+5124,br,12324.0,Brazil
+5125,br,12420.0,Brazil
+5126,br,12614.0,Brazil
+5127,br,12623.0,Brazil
+5128,br,12711.0,Brazil
+5129,br,12713.0,Brazil
+5130,br,12857.0,Brazil
+5131,br,12904.0,Brazil
+5132,br,12945.0,Brazil
+5133,br,12945.0,Brazil
+5134,br,12945.0,Brazil
+5135,br,12945.0,Brazil
+5136,br,12948.0,Brazil
+5137,br,13182.0,Brazil
+5138,br,13182.0,Brazil
+5139,br,13275.0,Brazil
+5140,br,13283.0,Brazil
+5141,br,13379.0,Brazil
+5142,br,13569.0,Brazil
+5143,br,13762.0,Brazil
+5144,br,14020.0,Brazil
+5145,br,14020.0,Brazil
+5146,br,14508.0,Brazil
+5147,br,14570.0,Brazil
+5148,br,14625.0,Brazil
+5149,jp,61.0,Japan
+5150,jp,64.0,Japan
+5151,jp,75.0,Japan
+5152,jp,87.0,Japan
+5153,jp,135.0,Japan
+5154,jp,206.0,Japan
+5155,jp,206.0,Japan
+5156,jp,300.0,Japan
+5157,jp,314.0,Japan
+5158,jp,314.0,Japan
+5159,jp,333.0,Japan
+5160,jp,333.0,Japan
+5161,jp,352.0,Japan
+5162,jp,541.0,Japan
+5163,jp,552.0,Japan
+5164,jp,552.0,Japan
+5165,jp,624.0,Japan
+5166,jp,624.0,Japan
+5167,jp,624.0,Japan
+5168,jp,624.0,Japan
+5169,jp,659.0,Japan
+5170,jp,664.0,Japan
+5171,jp,694.0,Japan
+5172,jp,744.0,Japan
+5173,jp,744.0,Japan
+5174,jp,802.0,Japan
+5175,jp,1555.0,Japan
+5176,jp,1657.0,Japan
+5177,jp,1711.0,Japan
+5178,jp,1711.0,Japan
+5179,jp,1749.0,Japan
+5180,jp,1819.0,Japan
+5181,jp,1854.0,Japan
+5182,jp,1854.0,Japan
+5183,jp,2089.0,Japan
+5184,jp,2167.0,Japan
+5185,jp,2232.0,Japan
+5186,jp,2232.0,Japan
+5187,jp,2232.0,Japan
+5188,jp,2256.0,Japan
+5189,jp,2257.0,Japan
+5190,jp,2268.0,Japan
+5191,jp,2313.0,Japan
+5192,jp,2313.0,Japan
+5193,jp,2517.0,Japan
+5194,jp,2581.0,Japan
+5195,jp,2589.0,Japan
+5196,jp,2589.0,Japan
+5197,jp,2644.0,Japan
+5198,jp,2668.0,Japan
+5199,jp,2771.0,Japan
+5200,jp,2820.0,Japan
+5201,jp,2878.0,Japan
+5202,jp,2890.0,Japan
+5203,jp,2950.0,Japan
+5204,jp,3156.0,Japan
+5205,jp,3222.0,Japan
+5206,jp,3330.0,Japan
+5207,jp,3404.0,Japan
+5208,jp,3418.0,Japan
+5209,jp,3418.0,Japan
+5210,jp,3425.0,Japan
+5211,jp,3529.0,Japan
+5212,jp,3529.0,Japan
+5213,jp,3724.0,Japan
+5214,jp,3753.0,Japan
+5215,jp,3781.0,Japan
+5216,jp,3787.0,Japan
+5217,jp,3787.0,Japan
+5218,jp,3787.0,Japan
+5219,jp,3787.0,Japan
+5220,jp,3801.0,Japan
+5221,jp,3843.0,Japan
+5222,jp,3852.0,Japan
+5223,jp,3871.0,Japan
+5224,jp,3877.0,Japan
+5225,jp,3924.0,Japan
+5226,jp,3927.0,Japan
+5227,jp,3927.0,Japan
+5228,jp,3949.0,Japan
+5229,jp,4032.0,Japan
+5230,jp,4215.0,Japan
+5231,jp,4262.0,Japan
+5232,jp,4262.0,Japan
+5233,jp,4288.0,Japan
+5234,jp,4365.0,Japan
+5235,jp,4390.0,Japan
+5236,jp,4477.0,Japan
+5237,jp,4477.0,Japan
+5238,jp,4499.0,Japan
+5239,jp,4553.0,Japan
+5240,jp,4795.0,Japan
+5241,jp,4795.0,Japan
+5242,jp,4853.0,Japan
+5243,jp,4853.0,Japan
+5244,jp,4926.0,Japan
+5245,jp,4930.0,Japan
+5246,jp,4984.0,Japan
+5247,jp,5054.0,Japan
+5248,jp,5054.0,Japan
+5249,jp,5054.0,Japan
+5250,jp,5097.0,Japan
+5251,jp,5110.0,Japan
+5252,jp,5190.0,Japan
+5253,jp,5198.0,Japan
+5254,jp,5198.0,Japan
+5255,jp,5198.0,Japan
+5256,jp,5198.0,Japan
+5257,jp,5237.0,Japan
+5258,jp,5271.0,Japan
+5259,jp,5389.0,Japan
+5260,jp,5420.0,Japan
+5261,jp,5420.0,Japan
+5262,jp,5454.0,Japan
+5263,jp,5491.0,Japan
+5264,jp,5583.0,Japan
+5265,jp,5641.0,Japan
+5266,jp,5650.0,Japan
+5267,jp,5659.0,Japan
+5268,jp,5940.0,Japan
+5269,jp,5971.0,Japan
+5270,jp,5971.0,Japan
+5271,jp,5971.0,Japan
+5272,jp,5971.0,Japan
+5273,jp,6044.0,Japan
+5274,jp,6045.0,Japan
+5275,jp,6058.0,Japan
+5276,jp,6058.0,Japan
+5277,jp,6063.0,Japan
+5278,jp,6063.0,Japan
+5279,jp,6063.0,Japan
+5280,jp,6082.0,Japan
+5281,jp,6117.0,Japan
+5282,jp,6356.0,Japan
+5283,jp,6467.0,Japan
+5284,jp,6506.0,Japan
+5285,jp,6530.0,Japan
+5286,jp,6568.0,Japan
+5287,jp,6604.0,Japan
+5288,jp,6832.0,Japan
+5289,jp,6862.0,Japan
+5290,jp,7064.0,Japan
+5291,jp,7064.0,Japan
+5292,jp,7064.0,Japan
+5293,jp,7128.0,Japan
+5294,jp,7143.0,Japan
+5295,jp,7147.0,Japan
+5296,jp,7222.0,Japan
+5297,jp,7222.0,Japan
+5298,jp,7237.0,Japan
+5299,jp,7287.0,Japan
+5300,jp,7411.0,Japan
+5301,jp,7473.0,Japan
+5302,jp,7473.0,Japan
+5303,jp,7493.0,Japan
+5304,jp,7493.0,Japan
+5305,jp,7575.0,Japan
+5306,jp,7676.0,Japan
+5307,jp,7680.0,Japan
+5308,jp,7680.0,Japan
+5309,jp,7710.0,Japan
+5310,jp,7762.0,Japan
+5311,jp,7762.0,Japan
+5312,jp,7771.0,Japan
+5313,jp,8024.0,Japan
+5314,jp,8024.0,Japan
+5315,jp,8084.0,Japan
+5316,jp,8294.0,Japan
+5317,jp,8303.0,Japan
+5318,jp,8304.0,Japan
+5319,jp,8304.0,Japan
+5320,jp,8310.0,Japan
+5321,jp,8331.0,Japan
+5322,jp,8331.0,Japan
+5323,jp,8334.0,Japan
+5324,jp,8348.0,Japan
+5325,jp,8362.0,Japan
+5326,jp,8375.0,Japan
+5327,jp,8546.0,Japan
+5328,jp,8546.0,Japan
+5329,jp,8591.0,Japan
+5330,jp,8717.0,Japan
+5331,jp,8741.0,Japan
+5332,jp,8744.0,Japan
+5333,jp,8755.0,Japan
+5334,jp,8755.0,Japan
+5335,jp,8768.0,Japan
+5336,jp,8814.0,Japan
+5337,jp,9063.0,Japan
+5338,jp,9147.0,Japan
+5339,jp,9159.0,Japan
+5340,jp,9246.0,Japan
+5341,jp,9274.0,Japan
+5342,jp,9373.0,Japan
+5343,jp,9373.0,Japan
+5344,jp,9374.0,Japan
+5345,jp,9374.0,Japan
+5346,jp,9408.0,Japan
+5347,jp,9408.0,Japan
+5348,jp,9434.0,Japan
+5349,jp,9436.0,Japan
+5350,jp,9436.0,Japan
+5351,jp,9436.0,Japan
+5352,jp,9642.0,Japan
+5353,jp,9678.0,Japan
+5354,jp,9683.0,Japan
+5355,jp,9811.0,Japan
+5356,jp,9826.0,Japan
+5357,jp,9826.0,Japan
+5358,jp,9826.0,Japan
+5359,jp,9835.0,Japan
+5360,jp,10203.0,Japan
+5361,jp,10221.0,Japan
+5362,jp,10221.0,Japan
+5363,jp,10265.0,Japan
+5364,jp,10269.0,Japan
+5365,jp,10377.0,Japan
+5366,jp,10377.0,Japan
+5367,jp,10532.0,Japan
+5368,jp,10532.0,Japan
+5369,jp,10532.0,Japan
+5370,jp,10532.0,Japan
+5371,jp,10532.0,Japan
+5372,jp,10627.0,Japan
+5373,jp,10627.0,Japan
+5374,jp,10930.0,Japan
+5375,jp,10930.0,Japan
+5376,jp,10952.0,Japan
+5377,jp,10964.0,Japan
+5378,jp,11042.0,Japan
+5379,jp,11099.0,Japan
+5380,jp,11364.0,Japan
+5381,jp,11490.0,Japan
+5382,jp,11494.0,Japan
+5383,jp,11495.0,Japan
+5384,jp,11533.0,Japan
+5385,jp,11542.0,Japan
+5386,jp,11550.0,Japan
+5387,jp,11550.0,Japan
+5388,jp,11550.0,Japan
+5389,jp,11583.0,Japan
+5390,jp,11682.0,Japan
+5391,jp,11722.0,Japan
+5392,jp,11727.0,Japan
+5393,jp,11727.0,Japan
+5394,jp,11727.0,Japan
+5395,jp,12106.0,Japan
+5396,jp,12123.0,Japan
+5397,jp,12123.0,Japan
+5398,jp,12149.0,Japan
+5399,jp,12200.0,Japan
+5400,jp,12219.0,Japan
+5401,jp,12668.0,Japan
+5402,jp,12716.0,Japan
+5403,jp,12784.0,Japan
+5404,jp,12808.0,Japan
+5405,jp,12808.0,Japan
+5406,jp,12984.0,Japan
+5407,jp,13031.0,Japan
+5408,jp,13041.0,Japan
+5409,jp,13041.0,Japan
+5410,jp,13041.0,Japan
+5411,jp,13100.0,Japan
+5412,jp,13103.0,Japan
+5413,jp,13109.0,Japan
+5414,jp,13408.0,Japan
+5415,jp,13408.0,Japan
+5416,jp,13410.0,Japan
+5417,jp,13657.0,Japan
+5418,jp,13683.0,Japan
+5419,jp,13685.0,Japan
+5420,jp,13685.0,Japan
+5421,jp,13685.0,Japan
+5422,jp,13689.0,Japan
+5423,jp,13689.0,Japan
+5424,jp,13739.0,Japan
+5425,jp,13753.0,Japan
+5426,jp,13854.0,Japan
+5427,jp,13938.0,Japan
+5428,jp,13975.0,Japan
+5429,jp,14056.0,Japan
+5430,jp,14070.0,Japan
+5431,jp,14230.0,Japan
+5432,jp,14234.0,Japan
+5433,jp,14235.0,Japan
+5434,jp,14236.0,Japan
+5435,jp,14258.0,Japan
+5436,jp,14286.0,Japan
+5437,jp,14286.0,Japan
+5438,jp,14317.0,Japan
+5439,jp,14326.0,Japan
+5440,jp,14326.0,Japan
+5441,jp,14336.0,Japan
+5442,jp,14338.0,Japan
+5443,jp,14342.0,Japan
+5444,jp,14345.0,Japan
+5445,jp,14414.0,Japan
+5446,jp,14414.0,Japan
+5447,jp,14430.0,Japan
+5448,jp,14471.0,Japan
+5449,jp,14491.0,Japan
+5450,jp,14498.0,Japan
+5451,jp,14629.0,Japan
+5452,jp,14629.0,Japan
+5453,jp,14634.0,Japan
+5454,kr,68.0,"Korea, Republic of"
+5455,kr,357.0,"Korea, Republic of"
+5456,kr,357.0,"Korea, Republic of"
+5457,kr,548.0,"Korea, Republic of"
+5458,kr,692.0,"Korea, Republic of"
+5459,kr,692.0,"Korea, Republic of"
+5460,kr,692.0,"Korea, Republic of"
+5461,kr,710.0,"Korea, Republic of"
+5462,kr,826.0,"Korea, Republic of"
+5463,kr,826.0,"Korea, Republic of"
+5464,kr,1009.0,"Korea, Republic of"
+5465,kr,1183.0,"Korea, Republic of"
+5466,kr,1664.0,"Korea, Republic of"
+5467,kr,1664.0,"Korea, Republic of"
+5468,kr,1696.0,"Korea, Republic of"
+5469,kr,1696.0,"Korea, Republic of"
+5470,kr,1696.0,"Korea, Republic of"
+5471,kr,1696.0,"Korea, Republic of"
+5472,kr,1732.0,"Korea, Republic of"
+5473,kr,1732.0,"Korea, Republic of"
+5474,kr,1775.0,"Korea, Republic of"
+5475,kr,1775.0,"Korea, Republic of"
+5476,kr,2226.0,"Korea, Republic of"
+5477,kr,2299.0,"Korea, Republic of"
+5478,kr,2299.0,"Korea, Republic of"
+5479,kr,2299.0,"Korea, Republic of"
+5480,kr,2299.0,"Korea, Republic of"
+5481,kr,2318.0,"Korea, Republic of"
+5482,kr,2318.0,"Korea, Republic of"
+5483,kr,2657.0,"Korea, Republic of"
+5484,kr,3164.0,"Korea, Republic of"
+5485,kr,3244.0,"Korea, Republic of"
+5486,kr,3259.0,"Korea, Republic of"
+5487,kr,3416.0,"Korea, Republic of"
+5488,kr,3420.0,"Korea, Republic of"
+5489,kr,3778.0,"Korea, Republic of"
+5490,kr,3778.0,"Korea, Republic of"
+5491,kr,3830.0,"Korea, Republic of"
+5492,kr,3951.0,"Korea, Republic of"
+5493,kr,4376.0,"Korea, Republic of"
+5494,kr,4552.0,"Korea, Republic of"
+5495,kr,4552.0,"Korea, Republic of"
+5496,kr,4652.0,"Korea, Republic of"
+5497,kr,4911.0,"Korea, Republic of"
+5498,kr,5237.0,"Korea, Republic of"
+5499,kr,5268.0,"Korea, Republic of"
+5500,kr,5425.0,"Korea, Republic of"
+5501,kr,5453.0,"Korea, Republic of"
+5502,kr,5453.0,"Korea, Republic of"
+5503,kr,6352.0,"Korea, Republic of"
+5504,kr,6415.0,"Korea, Republic of"
+5505,kr,6491.0,"Korea, Republic of"
+5506,kr,6491.0,"Korea, Republic of"
+5507,kr,6663.0,"Korea, Republic of"
+5508,kr,6663.0,"Korea, Republic of"
+5509,kr,6795.0,"Korea, Republic of"
+5510,kr,6832.0,"Korea, Republic of"
+5511,kr,6832.0,"Korea, Republic of"
+5512,kr,6832.0,"Korea, Republic of"
+5513,kr,6832.0,"Korea, Republic of"
+5514,kr,7053.0,"Korea, Republic of"
+5515,kr,7079.0,"Korea, Republic of"
+5516,kr,7147.0,"Korea, Republic of"
+5517,kr,7385.0,"Korea, Republic of"
+5518,kr,7606.0,"Korea, Republic of"
+5519,kr,7606.0,"Korea, Republic of"
+5520,kr,7606.0,"Korea, Republic of"
+5521,kr,7689.0,"Korea, Republic of"
+5522,kr,7689.0,"Korea, Republic of"
+5523,kr,7725.0,"Korea, Republic of"
+5524,kr,7725.0,"Korea, Republic of"
+5525,kr,8260.0,"Korea, Republic of"
+5526,kr,8331.0,"Korea, Republic of"
+5527,kr,8761.0,"Korea, Republic of"
+5528,kr,8761.0,"Korea, Republic of"
+5529,kr,8799.0,"Korea, Republic of"
+5530,kr,8799.0,"Korea, Republic of"
+5531,kr,9220.0,"Korea, Republic of"
+5532,kr,9243.0,"Korea, Republic of"
+5533,kr,9243.0,"Korea, Republic of"
+5534,kr,9407.0,"Korea, Republic of"
+5535,kr,9899.0,"Korea, Republic of"
+5536,kr,10532.0,"Korea, Republic of"
+5537,kr,10713.0,"Korea, Republic of"
+5538,kr,10713.0,"Korea, Republic of"
+5539,kr,10713.0,"Korea, Republic of"
+5540,kr,11103.0,"Korea, Republic of"
+5541,kr,11210.0,"Korea, Republic of"
+5542,kr,11530.0,"Korea, Republic of"
+5543,kr,11535.0,"Korea, Republic of"
+5544,kr,11540.0,"Korea, Republic of"
+5545,kr,11550.0,"Korea, Republic of"
+5546,kr,11550.0,"Korea, Republic of"
+5547,kr,12300.0,"Korea, Republic of"
+5548,kr,12422.0,"Korea, Republic of"
+5549,kr,12422.0,"Korea, Republic of"
+5550,kr,12940.0,"Korea, Republic of"
+5551,kr,12940.0,"Korea, Republic of"
+5552,kr,13029.0,"Korea, Republic of"
+5553,kr,13038.0,"Korea, Republic of"
+5554,kr,13057.0,"Korea, Republic of"
+5555,kr,13057.0,"Korea, Republic of"
+5556,kr,13192.0,"Korea, Republic of"
+5557,kr,13661.0,"Korea, Republic of"
+5558,kr,13700.0,"Korea, Republic of"
+5559,kr,14045.0,"Korea, Republic of"
+5560,kr,14344.0,"Korea, Republic of"
+5561,kr,14344.0,"Korea, Republic of"
+5562,kr,14344.0,"Korea, Republic of"
+5563,kr,14368.0,"Korea, Republic of"
+5564,kr,14368.0,"Korea, Republic of"
+5565,kr,14368.0,"Korea, Republic of"
+5566,kr,14740.0,"Korea, Republic of"
+5567,au,75.0,Australia
+5568,au,227.0,Australia
+5569,au,265.0,Australia
+5570,au,301.0,Australia
+5571,au,469.0,Australia
+5572,au,548.0,Australia
+5573,au,548.0,Australia
+5574,au,548.0,Australia
+5575,au,657.0,Australia
+5576,au,658.0,Australia
+5577,au,915.0,Australia
+5578,au,1028.0,Australia
+5579,au,1051.0,Australia
+5580,au,1249.0,Australia
+5581,au,1498.0,Australia
+5582,au,1648.0,Australia
+5583,au,1649.0,Australia
+5584,au,1689.0,Australia
+5585,au,1689.0,Australia
+5586,au,1730.0,Australia
+5587,au,1734.0,Australia
+5588,au,1734.0,Australia
+5589,au,2088.0,Australia
+5590,au,2241.0,Australia
+5591,au,2241.0,Australia
+5592,au,2281.0,Australia
+5593,au,2281.0,Australia
+5594,au,3158.0,Australia
+5595,au,3176.0,Australia
+5596,au,3270.0,Australia
+5597,au,3701.0,Australia
+5598,au,4005.0,Australia
+5599,au,4596.0,Australia
+5600,au,4891.0,Australia
+5601,au,5035.0,Australia
+5602,au,5159.0,Australia
+5603,au,5185.0,Australia
+5604,au,5185.0,Australia
+5605,au,5549.0,Australia
+5606,au,5550.0,Australia
+5607,au,5580.0,Australia
+5608,au,5849.0,Australia
+5609,au,5878.0,Australia
+5610,au,6038.0,Australia
+5611,au,6038.0,Australia
+5612,au,6038.0,Australia
+5613,au,6038.0,Australia
+5614,au,6327.0,Australia
+5615,au,6379.0,Australia
+5616,au,6434.0,Australia
+5617,au,6562.0,Australia
+5618,au,6823.0,Australia
+5619,au,6863.0,Australia
+5620,au,6878.0,Australia
+5621,au,7112.0,Australia
+5622,au,7140.0,Australia
+5623,au,7233.0,Australia
+5624,au,7722.0,Australia
+5625,au,7743.0,Australia
+5626,au,8078.0,Australia
+5627,au,8106.0,Australia
+5628,au,8354.0,Australia
+5629,au,8708.0,Australia
+5630,au,8708.0,Australia
+5631,au,8725.0,Australia
+5632,au,9279.0,Australia
+5633,au,9371.0,Australia
+5634,au,9375.0,Australia
+5635,au,9375.0,Australia
+5636,au,9375.0,Australia
+5637,au,9549.0,Australia
+5638,au,9672.0,Australia
+5639,au,10202.0,Australia
+5640,au,10527.0,Australia
+5641,au,10527.0,Australia
+5642,au,10870.0,Australia
+5643,au,10966.0,Australia
+5644,au,11455.0,Australia
+5645,au,11495.0,Australia
+5646,au,11498.0,Australia
+5647,au,11656.0,Australia
+5648,au,12054.0,Australia
+5649,au,12121.0,Australia
+5650,au,12219.0,Australia
+5651,au,12306.0,Australia
+5652,au,12383.0,Australia
+5653,au,12491.0,Australia
+5654,au,12491.0,Australia
+5655,au,12492.0,Australia
+5656,au,12585.0,Australia
+5657,au,12603.0,Australia
+5658,au,12736.0,Australia
+5659,au,12736.0,Australia
+5660,au,12736.0,Australia
+5661,au,12736.0,Australia
+5662,au,12798.0,Australia
+5663,au,12798.0,Australia
+5664,au,12933.0,Australia
+5665,au,12993.0,Australia
+5666,au,13005.0,Australia
+5667,au,13005.0,Australia
+5668,au,13008.0,Australia
+5669,au,13369.0,Australia
+5670,au,13563.0,Australia
+5671,au,13563.0,Australia
+5672,au,13634.0,Australia
+5673,au,13709.0,Australia
+5674,au,13922.0,Australia
+5675,au,14247.0,Australia
+5676,au,14267.0,Australia
+5677,au,14283.0,Australia
+5678,au,14313.0,Australia
+5679,au,14313.0,Australia
+5680,au,14313.0,Australia
+5681,au,14313.0,Australia
+5682,au,14313.0,Australia
+5683,au,14313.0,Australia
+5684,au,14313.0,Australia
+5685,hu,115.0,Hungary
+5686,hu,115.0,Hungary
+5687,hu,115.0,Hungary
+5688,hu,913.0,Hungary
+5689,hu,913.0,Hungary
+5690,hu,1262.0,Hungary
+5691,hu,1371.0,Hungary
+5692,hu,1522.0,Hungary
+5693,hu,2204.0,Hungary
+5694,hu,2252.0,Hungary
+5695,hu,4223.0,Hungary
+5696,hu,4547.0,Hungary
+5697,hu,4693.0,Hungary
+5698,hu,5159.0,Hungary
+5699,hu,5863.0,Hungary
+5700,hu,5863.0,Hungary
+5701,hu,6461.0,Hungary
+5702,hu,7759.0,Hungary
+5703,hu,7911.0,Hungary
+5704,hu,8400.0,Hungary
+5705,hu,8602.0,Hungary
+5706,hu,8816.0,Hungary
+5707,hu,9430.0,Hungary
+5708,hu,9863.0,Hungary
+5709,hu,11409.0,Hungary
+5710,hu,11409.0,Hungary
+5711,hu,11647.0,Hungary
+5712,hu,12140.0,Hungary
+5713,hu,12286.0,Hungary
+5714,hu,12315.0,Hungary
+5715,hu,12665.0,Hungary
+5716,hu,12882.0,Hungary
+5717,hu,13075.0,Hungary
+5718,hu,13145.0,Hungary
+5719,hu,13145.0,Hungary
+5720,hu,13748.0,Hungary
+5721,hu,14473.0,Hungary
+5722,hk,116.0,Hong Kong
+5723,hk,116.0,Hong Kong
+5724,hk,270.0,Hong Kong
+5725,hk,658.0,Hong Kong
+5726,hk,801.0,Hong Kong
+5727,hk,997.0,Hong Kong
+5728,hk,1160.0,Hong Kong
+5729,hk,1214.0,Hong Kong
+5730,hk,1492.0,Hong Kong
+5731,hk,1622.0,Hong Kong
+5732,hk,1622.0,Hong Kong
+5733,hk,2279.0,Hong Kong
+5734,hk,2554.0,Hong Kong
+5735,hk,2554.0,Hong Kong
+5736,hk,2666.0,Hong Kong
+5737,hk,2918.0,Hong Kong
+5738,hk,3314.0,Hong Kong
+5739,hk,3314.0,Hong Kong
+5740,hk,3314.0,Hong Kong
+5741,hk,3314.0,Hong Kong
+5742,hk,3673.0,Hong Kong
+5743,hk,3686.0,Hong Kong
+5744,hk,4441.0,Hong Kong
+5745,hk,4448.0,Hong Kong
+5746,hk,4448.0,Hong Kong
+5747,hk,4944.0,Hong Kong
+5748,hk,4963.0,Hong Kong
+5749,hk,4963.0,Hong Kong
+5750,hk,5127.0,Hong Kong
+5751,hk,5520.0,Hong Kong
+5752,hk,5520.0,Hong Kong
+5753,hk,5520.0,Hong Kong
+5754,hk,5840.0,Hong Kong
+5755,hk,6436.0,Hong Kong
+5756,hk,6501.0,Hong Kong
+5757,hk,6501.0,Hong Kong
+5758,hk,7685.0,Hong Kong
+5759,hk,7913.0,Hong Kong
+5760,hk,7913.0,Hong Kong
+5761,hk,8290.0,Hong Kong
+5762,hk,8290.0,Hong Kong
+5763,hk,9803.0,Hong Kong
+5764,hk,10535.0,Hong Kong
+5765,hk,10535.0,Hong Kong
+5766,hk,10535.0,Hong Kong
+5767,hk,10924.0,Hong Kong
+5768,hk,10924.0,Hong Kong
+5769,hk,11537.0,Hong Kong
+5770,hk,11626.0,Hong Kong
+5771,hk,11626.0,Hong Kong
+5772,hk,12495.0,Hong Kong
+5773,hk,12734.0,Hong Kong
+5774,hk,12983.0,Hong Kong
+5775,hk,13033.0,Hong Kong
+5776,hk,13042.0,Hong Kong
+5777,hk,13731.0,Hong Kong
+5778,hk,13974.0,Hong Kong
+5779,hk,14494.0,Hong Kong
+5780,hk,14494.0,Hong Kong
+5781,be,124.0,Belgium
+5782,be,434.0,Belgium
+5783,be,625.0,Belgium
+5784,be,824.0,Belgium
+5785,be,967.0,Belgium
+5786,be,970.0,Belgium
+5787,be,1295.0,Belgium
+5788,be,1697.0,Belgium
+5789,be,1697.0,Belgium
+5790,be,1928.0,Belgium
+5791,be,1938.0,Belgium
+5792,be,2274.0,Belgium
+5793,be,2274.0,Belgium
+5794,be,2297.0,Belgium
+5795,be,2297.0,Belgium
+5796,be,2297.0,Belgium
+5797,be,2391.0,Belgium
+5798,be,3267.0,Belgium
+5799,be,3724.0,Belgium
+5800,be,3975.0,Belgium
+5801,be,4236.0,Belgium
+5802,be,4473.0,Belgium
+5803,be,4473.0,Belgium
+5804,be,4473.0,Belgium
+5805,be,4726.0,Belgium
+5806,be,4726.0,Belgium
+5807,be,5478.0,Belgium
+5808,be,5545.0,Belgium
+5809,be,5581.0,Belgium
+5810,be,5670.0,Belgium
+5811,be,6043.0,Belgium
+5812,be,6043.0,Belgium
+5813,be,6203.0,Belgium
+5814,be,7196.0,Belgium
+5815,be,7894.0,Belgium
+5816,be,7932.0,Belgium
+5817,be,7932.0,Belgium
+5818,be,8325.0,Belgium
+5819,be,8782.0,Belgium
+5820,be,8826.0,Belgium
+5821,be,9453.0,Belgium
+5822,be,9719.0,Belgium
+5823,be,10374.0,Belgium
+5824,be,10578.0,Belgium
+5825,be,10578.0,Belgium
+5826,be,10591.0,Belgium
+5827,be,10634.0,Belgium
+5828,be,11091.0,Belgium
+5829,be,11236.0,Belgium
+5830,be,11236.0,Belgium
+5831,be,11352.0,Belgium
+5832,be,12145.0,Belgium
+5833,be,12156.0,Belgium
+5834,be,12301.0,Belgium
+5835,be,12339.0,Belgium
+5836,be,12889.0,Belgium
+5837,be,12889.0,Belgium
+5838,be,12914.0,Belgium
+5839,be,13071.0,Belgium
+5840,be,13727.0,Belgium
+5841,be,13727.0,Belgium
+5842,be,13727.0,Belgium
+5843,be,13857.0,Belgium
+5844,be,13962.0,Belgium
+5845,be,13977.0,Belgium
+5846,be,14398.0,Belgium
+5847,be,14398.0,Belgium
+5848,at,127.0,Austria
+5849,at,315.0,Austria
+5850,at,315.0,Austria
+5851,at,707.0,Austria
+5852,at,959.0,Austria
+5853,at,959.0,Austria
+5854,at,1332.0,Austria
+5855,at,1377.0,Austria
+5856,at,1588.0,Austria
+5857,at,2240.0,Austria
+5858,at,2240.0,Austria
+5859,at,2415.0,Austria
+5860,at,3304.0,Austria
+5861,at,4071.0,Austria
+5862,at,4071.0,Austria
+5863,at,4280.0,Austria
+5864,at,4978.0,Austria
+5865,at,5037.0,Austria
+5866,at,5165.0,Austria
+5867,at,5303.0,Austria
+5868,at,5303.0,Austria
+5869,at,5926.0,Austria
+5870,at,6096.0,Austria
+5871,at,6122.0,Austria
+5872,at,6324.0,Austria
+5873,at,6511.0,Austria
+5874,at,6652.0,Austria
+5875,at,6887.0,Austria
+5876,at,7334.0,Austria
+5877,at,7334.0,Austria
+5878,at,7617.0,Austria
+5879,at,7617.0,Austria
+5880,at,7861.0,Austria
+5881,at,7861.0,Austria
+5882,at,7861.0,Austria
+5883,at,8401.0,Austria
+5884,at,8401.0,Austria
+5885,at,8579.0,Austria
+5886,at,8579.0,Austria
+5887,at,8804.0,Austria
+5888,at,9265.0,Austria
+5889,at,9265.0,Austria
+5890,at,9297.0,Austria
+5891,at,9747.0,Austria
+5892,at,9747.0,Austria
+5893,at,9747.0,Austria
+5894,at,9751.0,Austria
+5895,at,9751.0,Austria
+5896,at,9751.0,Austria
+5897,at,9873.0,Austria
+5898,at,10075.0,Austria
+5899,at,10075.0,Austria
+5900,at,10075.0,Austria
+5901,at,10266.0,Austria
+5902,at,10266.0,Austria
+5903,at,10882.0,Austria
+5904,at,10882.0,Austria
+5905,at,11585.0,Austria
+5906,at,11625.0,Austria
+5907,at,11883.0,Austria
+5908,at,11959.0,Austria
+5909,at,13045.0,Austria
+5910,at,13058.0,Austria
+5911,at,13058.0,Austria
+5912,at,13090.0,Austria
+5913,at,13124.0,Austria
+5914,at,13149.0,Austria
+5915,at,13225.0,Austria
+5916,at,13266.0,Austria
+5917,at,13747.0,Austria
+5918,at,13883.0,Austria
+5919,at,13976.0,Austria
+5920,at,13983.0,Austria
+5921,at,14166.0,Austria
+5922,at,14166.0,Austria
+5923,at,14170.0,Austria
+5924,at,14450.0,Austria
+5925,at,14450.0,Austria
+5926,tw,144.0,"Taiwan, Province of China"
+5927,tw,278.0,"Taiwan, Province of China"
+5928,tw,526.0,"Taiwan, Province of China"
+5929,tw,730.0,"Taiwan, Province of China"
+5930,tw,730.0,"Taiwan, Province of China"
+5931,tw,732.0,"Taiwan, Province of China"
+5932,tw,733.0,"Taiwan, Province of China"
+5933,tw,733.0,"Taiwan, Province of China"
+5934,tw,1151.0,"Taiwan, Province of China"
+5935,tw,1158.0,"Taiwan, Province of China"
+5936,tw,2174.0,"Taiwan, Province of China"
+5937,tw,3218.0,"Taiwan, Province of China"
+5938,tw,3714.0,"Taiwan, Province of China"
+5939,tw,3865.0,"Taiwan, Province of China"
+5940,tw,4101.0,"Taiwan, Province of China"
+5941,tw,4288.0,"Taiwan, Province of China"
+5942,tw,4439.0,"Taiwan, Province of China"
+5943,tw,4633.0,"Taiwan, Province of China"
+5944,tw,4652.0,"Taiwan, Province of China"
+5945,tw,4699.0,"Taiwan, Province of China"
+5946,tw,4911.0,"Taiwan, Province of China"
+5947,tw,4928.0,"Taiwan, Province of China"
+5948,tw,4933.0,"Taiwan, Province of China"
+5949,tw,4933.0,"Taiwan, Province of China"
+5950,tw,5065.0,"Taiwan, Province of China"
+5951,tw,5092.0,"Taiwan, Province of China"
+5952,tw,5097.0,"Taiwan, Province of China"
+5953,tw,5104.0,"Taiwan, Province of China"
+5954,tw,5105.0,"Taiwan, Province of China"
+5955,tw,6064.0,"Taiwan, Province of China"
+5956,tw,6192.0,"Taiwan, Province of China"
+5957,tw,6491.0,"Taiwan, Province of China"
+5958,tw,8281.0,"Taiwan, Province of China"
+5959,tw,9274.0,"Taiwan, Province of China"
+5960,tw,9814.0,"Taiwan, Province of China"
+5961,tw,10023.0,"Taiwan, Province of China"
+5962,tw,10260.0,"Taiwan, Province of China"
+5963,tw,10302.0,"Taiwan, Province of China"
+5964,tw,11517.0,"Taiwan, Province of China"
+5965,tw,11520.0,"Taiwan, Province of China"
+5966,tw,11520.0,"Taiwan, Province of China"
+5967,tw,11709.0,"Taiwan, Province of China"
+5968,tw,12313.0,"Taiwan, Province of China"
+5969,tw,13022.0,"Taiwan, Province of China"
+5970,tw,13022.0,"Taiwan, Province of China"
+5971,tw,13022.0,"Taiwan, Province of China"
+5972,tw,13022.0,"Taiwan, Province of China"
+5973,tw,13022.0,"Taiwan, Province of China"
+5974,tw,13399.0,"Taiwan, Province of China"
+5975,tw,13942.0,"Taiwan, Province of China"
+5976,tw,13942.0,"Taiwan, Province of China"
+5977,tw,14050.0,"Taiwan, Province of China"
+5978,tw,14498.0,"Taiwan, Province of China"
+5979,nl,148.0,Netherlands
+5980,nl,151.0,Netherlands
+5981,nl,253.0,Netherlands
+5982,nl,265.0,Netherlands
+5983,nl,610.0,Netherlands
+5984,nl,631.0,Netherlands
+5985,nl,1266.0,Netherlands
+5986,nl,1375.0,Netherlands
+5987,nl,1525.0,Netherlands
+5988,nl,1569.0,Netherlands
+5989,nl,1583.0,Netherlands
+5990,nl,1622.0,Netherlands
+5991,nl,1695.0,Netherlands
+5992,nl,1902.0,Netherlands
+5993,nl,2224.0,Netherlands
+5994,nl,2236.0,Netherlands
+5995,nl,2913.0,Netherlands
+5996,nl,2913.0,Netherlands
+5997,nl,2913.0,Netherlands
+5998,nl,2978.0,Netherlands
+5999,nl,3270.0,Netherlands
+6000,nl,3346.0,Netherlands
+6001,nl,3346.0,Netherlands
+6002,nl,3432.0,Netherlands
+6003,nl,3487.0,Netherlands
+6004,nl,3487.0,Netherlands
+6005,nl,3578.0,Netherlands
+6006,nl,3932.0,Netherlands
+6007,nl,3976.0,Netherlands
+6008,nl,3976.0,Netherlands
+6009,nl,4102.0,Netherlands
+6010,nl,4102.0,Netherlands
+6011,nl,4102.0,Netherlands
+6012,nl,4250.0,Netherlands
+6013,nl,4478.0,Netherlands
+6014,nl,4481.0,Netherlands
+6015,nl,4495.0,Netherlands
+6016,nl,4500.0,Netherlands
+6017,nl,4650.0,Netherlands
+6018,nl,4940.0,Netherlands
+6019,nl,4970.0,Netherlands
+6020,nl,5302.0,Netherlands
+6021,nl,5660.0,Netherlands
+6022,nl,5753.0,Netherlands
+6023,nl,6108.0,Netherlands
+6024,nl,6256.0,Netherlands
+6025,nl,6256.0,Netherlands
+6026,nl,6400.0,Netherlands
+6027,nl,6454.0,Netherlands
+6028,nl,6653.0,Netherlands
+6029,nl,6653.0,Netherlands
+6030,nl,6670.0,Netherlands
+6031,nl,6806.0,Netherlands
+6032,nl,6806.0,Netherlands
+6033,nl,6857.0,Netherlands
+6034,nl,6972.0,Netherlands
+6035,nl,7176.0,Netherlands
+6036,nl,7176.0,Netherlands
+6037,nl,7342.0,Netherlands
+6038,nl,7342.0,Netherlands
+6039,nl,7342.0,Netherlands
+6040,nl,7376.0,Netherlands
+6041,nl,7520.0,Netherlands
+6042,nl,7754.0,Netherlands
+6043,nl,7810.0,Netherlands
+6044,nl,7885.0,Netherlands
+6045,nl,8058.0,Netherlands
+6046,nl,8058.0,Netherlands
+6047,nl,8347.0,Netherlands
+6048,nl,8350.0,Netherlands
+6049,nl,8350.0,Netherlands
+6050,nl,8350.0,Netherlands
+6051,nl,8354.0,Netherlands
+6052,nl,8602.0,Netherlands
+6053,nl,9157.0,Netherlands
+6054,nl,9285.0,Netherlands
+6055,nl,9484.0,Netherlands
+6056,nl,9875.0,Netherlands
+6057,nl,9875.0,Netherlands
+6058,nl,10397.0,Netherlands
+6059,nl,10411.0,Netherlands
+6060,nl,10422.0,Netherlands
+6061,nl,11036.0,Netherlands
+6062,nl,11036.0,Netherlands
+6063,nl,11370.0,Netherlands
+6064,nl,12160.0,Netherlands
+6065,nl,12160.0,Netherlands
+6066,nl,12322.0,Netherlands
+6067,nl,12322.0,Netherlands
+6068,nl,12330.0,Netherlands
+6069,nl,12619.0,Netherlands
+6070,nl,12906.0,Netherlands
+6071,nl,12917.0,Netherlands
+6072,nl,12919.0,Netherlands
+6073,nl,13069.0,Netherlands
+6074,nl,13080.0,Netherlands
+6075,nl,13468.0,Netherlands
+6076,nl,13529.0,Netherlands
+6077,nl,13702.0,Netherlands
+6078,nl,13710.0,Netherlands
+6079,nl,13721.0,Netherlands
+6080,nl,13726.0,Netherlands
+6081,nl,13726.0,Netherlands
+6082,nl,13770.0,Netherlands
+6083,nl,13770.0,Netherlands
+6084,nl,13770.0,Netherlands
+6085,nl,13770.0,Netherlands
+6086,nl,13793.0,Netherlands
+6087,nl,13801.0,Netherlands
+6088,nl,14057.0,Netherlands
+6089,nl,14468.0,Netherlands
+6090,nl,14492.0,Netherlands
+6091,nl,14492.0,Netherlands
+6092,nl,14492.0,Netherlands
+6093,nl,14532.0,Netherlands
+6094,cz,150.0,Czech Republic
+6095,cz,231.0,Czech Republic
+6096,cz,1016.0,Czech Republic
+6097,cz,1016.0,Czech Republic
+6098,cz,1113.0,Czech Republic
+6099,cz,1113.0,Czech Republic
+6100,cz,1377.0,Czech Republic
+6101,cz,1399.0,Czech Republic
+6102,cz,1538.0,Czech Republic
+6103,cz,1538.0,Czech Republic
+6104,cz,1753.0,Czech Republic
+6105,cz,2017.0,Czech Republic
+6106,cz,3132.0,Czech Republic
+6107,cz,3252.0,Czech Republic
+6108,cz,3252.0,Czech Republic
+6109,cz,3313.0,Czech Republic
+6110,cz,3325.0,Czech Republic
+6111,cz,3332.0,Czech Republic
+6112,cz,3461.0,Czech Republic
+6113,cz,3473.0,Czech Republic
+6114,cz,4049.0,Czech Republic
+6115,cz,4091.0,Czech Republic
+6116,cz,4145.0,Czech Republic
+6117,cz,4216.0,Czech Republic
+6118,cz,4626.0,Czech Republic
+6119,cz,4626.0,Czech Republic
+6120,cz,7256.0,Czech Republic
+6121,cz,7308.0,Czech Republic
+6122,cz,7308.0,Czech Republic
+6123,cz,7338.0,Czech Republic
+6124,cz,7487.0,Czech Republic
+6125,cz,7773.0,Czech Republic
+6126,cz,7775.0,Czech Republic
+6127,cz,7892.0,Czech Republic
+6128,cz,8408.0,Czech Republic
+6129,cz,8796.0,Czech Republic
+6130,cz,8796.0,Czech Republic
+6131,cz,8802.0,Czech Republic
+6132,cz,8802.0,Czech Republic
+6133,cz,8887.0,Czech Republic
+6134,cz,8887.0,Czech Republic
+6135,cz,8887.0,Czech Republic
+6136,cz,8887.0,Czech Republic
+6137,cz,9249.0,Czech Republic
+6138,cz,9264.0,Czech Republic
+6139,cz,9475.0,Czech Republic
+6140,cz,9475.0,Czech Republic
+6141,cz,9475.0,Czech Republic
+6142,cz,9530.0,Czech Republic
+6143,cz,9530.0,Czech Republic
+6144,cz,10040.0,Czech Republic
+6145,cz,10040.0,Czech Republic
+6146,cz,11040.0,Czech Republic
+6147,cz,11040.0,Czech Republic
+6148,cz,11546.0,Czech Republic
+6149,cz,11546.0,Czech Republic
+6150,cz,11805.0,Czech Republic
+6151,cz,11815.0,Czech Republic
+6152,cz,12480.0,Czech Republic
+6153,cz,12480.0,Czech Republic
+6154,cz,13573.0,Czech Republic
+6155,cz,14150.0,Czech Republic
+6156,cz,14413.0,Czech Republic
+6157,cz,14509.0,Czech Republic
+6158,hr,181.0,Croatia
+6159,hr,1840.0,Croatia
+6160,hr,4809.0,Croatia
+6161,hr,9966.0,Croatia
+6162,hr,10398.0,Croatia
+6163,hr,10398.0,Croatia
+6164,hr,10590.0,Croatia
+6165,hr,11405.0,Croatia
+6166,hr,11712.0,Croatia
+6167,hr,12923.0,Croatia
+6168,hr,13072.0,Croatia
+6169,ro,183.0,Romania
+6170,ro,265.0,Romania
+6171,ro,5197.0,Romania
+6172,ro,7815.0,Romania
+6173,ro,9368.0,Romania
+6174,ro,12667.0,Romania
+6175,ro,12667.0,Romania
+6176,ro,12870.0,Romania
+6177,rs,185.0,Serbia
+6178,rs,1938.0,Serbia
+6179,rs,2770.0,Serbia
+6180,rs,5426.0,Serbia
+6181,rs,6411.0,Serbia
+6182,rs,8351.0,Serbia
+6183,rs,8468.0,Serbia
+6184,rs,10398.0,Serbia
+6185,rs,10398.0,Serbia
+6186,rs,10398.0,Serbia
+6187,rs,10398.0,Serbia
+6188,rs,11056.0,Serbia
+6189,rs,12215.0,Serbia
+6190,rs,12312.0,Serbia
+6191,rs,13164.0,Serbia
+6192,rs,14466.0,Serbia
+6193,ir,222.0,"Iran, Islamic Republic of"
+6194,ir,296.0,"Iran, Islamic Republic of"
+6195,ir,296.0,"Iran, Islamic Republic of"
+6196,ir,328.0,"Iran, Islamic Republic of"
+6197,ir,572.0,"Iran, Islamic Republic of"
+6198,ir,572.0,"Iran, Islamic Republic of"
+6199,ir,607.0,"Iran, Islamic Republic of"
+6200,ir,607.0,"Iran, Islamic Republic of"
+6201,ir,615.0,"Iran, Islamic Republic of"
+6202,ir,1530.0,"Iran, Islamic Republic of"
+6203,ir,1530.0,"Iran, Islamic Republic of"
+6204,ir,2324.0,"Iran, Islamic Republic of"
+6205,ir,2324.0,"Iran, Islamic Republic of"
+6206,ir,2509.0,"Iran, Islamic Republic of"
+6207,ir,2509.0,"Iran, Islamic Republic of"
+6208,ir,2509.0,"Iran, Islamic Republic of"
+6209,ir,2882.0,"Iran, Islamic Republic of"
+6210,ir,2882.0,"Iran, Islamic Republic of"
+6211,ir,2888.0,"Iran, Islamic Republic of"
+6212,ir,2966.0,"Iran, Islamic Republic of"
+6213,ir,2966.0,"Iran, Islamic Republic of"
+6214,ir,2966.0,"Iran, Islamic Republic of"
+6215,ir,2984.0,"Iran, Islamic Republic of"
+6216,ir,4041.0,"Iran, Islamic Republic of"
+6217,ir,4041.0,"Iran, Islamic Republic of"
+6218,ir,4053.0,"Iran, Islamic Republic of"
+6219,ir,4053.0,"Iran, Islamic Republic of"
+6220,ir,4053.0,"Iran, Islamic Republic of"
+6221,ir,4057.0,"Iran, Islamic Republic of"
+6222,ir,4057.0,"Iran, Islamic Republic of"
+6223,ir,4573.0,"Iran, Islamic Republic of"
+6224,ir,4573.0,"Iran, Islamic Republic of"
+6225,ir,4573.0,"Iran, Islamic Republic of"
+6226,ir,4577.0,"Iran, Islamic Republic of"
+6227,ir,4577.0,"Iran, Islamic Republic of"
+6228,ir,4577.0,"Iran, Islamic Republic of"
+6229,ir,4580.0,"Iran, Islamic Republic of"
+6230,ir,4580.0,"Iran, Islamic Republic of"
+6231,ir,4580.0,"Iran, Islamic Republic of"
+6232,ir,4722.0,"Iran, Islamic Republic of"
+6233,ir,4925.0,"Iran, Islamic Republic of"
+6234,ir,4925.0,"Iran, Islamic Republic of"
+6235,ir,5140.0,"Iran, Islamic Republic of"
+6236,ir,5307.0,"Iran, Islamic Republic of"
+6237,ir,5307.0,"Iran, Islamic Republic of"
+6238,ir,6114.0,"Iran, Islamic Republic of"
+6239,ir,6114.0,"Iran, Islamic Republic of"
+6240,ir,6114.0,"Iran, Islamic Republic of"
+6241,ir,6121.0,"Iran, Islamic Republic of"
+6242,ir,6177.0,"Iran, Islamic Republic of"
+6243,ir,6262.0,"Iran, Islamic Republic of"
+6244,ir,6860.0,"Iran, Islamic Republic of"
+6245,ir,7374.0,"Iran, Islamic Republic of"
+6246,ir,7952.0,"Iran, Islamic Republic of"
+6247,ir,9144.0,"Iran, Islamic Republic of"
+6248,ir,9238.0,"Iran, Islamic Republic of"
+6249,ir,9238.0,"Iran, Islamic Republic of"
+6250,ir,9424.0,"Iran, Islamic Republic of"
+6251,ir,10592.0,"Iran, Islamic Republic of"
+6252,ir,10767.0,"Iran, Islamic Republic of"
+6253,ir,10767.0,"Iran, Islamic Republic of"
+6254,ir,10767.0,"Iran, Islamic Republic of"
+6255,ir,10779.0,"Iran, Islamic Republic of"
+6256,ir,10784.0,"Iran, Islamic Republic of"
+6257,ir,10784.0,"Iran, Islamic Republic of"
+6258,ir,11008.0,"Iran, Islamic Republic of"
+6259,ir,11008.0,"Iran, Islamic Republic of"
+6260,ir,11214.0,"Iran, Islamic Republic of"
+6261,ir,12372.0,"Iran, Islamic Republic of"
+6262,ir,12670.0,"Iran, Islamic Republic of"
+6263,ir,12794.0,"Iran, Islamic Republic of"
+6264,ir,13273.0,"Iran, Islamic Republic of"
+6265,ir,13273.0,"Iran, Islamic Republic of"
+6266,ir,13859.0,"Iran, Islamic Republic of"
+6267,ir,14430.0,"Iran, Islamic Republic of"
+6268,ir,14452.0,"Iran, Islamic Republic of"
+6269,ir,14452.0,"Iran, Islamic Republic of"
+6270,ir,14615.0,"Iran, Islamic Republic of"
+6271,sa,225.0,Saudi Arabia
+6272,sa,4012.0,Saudi Arabia
+6273,sa,9248.0,Saudi Arabia
+6274,sa,9412.0,Saudi Arabia
+6275,sa,10149.0,Saudi Arabia
+6276,ch,226.0,Switzerland
+6277,ch,309.0,Switzerland
+6278,ch,327.0,Switzerland
+6279,ch,346.0,Switzerland
+6280,ch,583.0,Switzerland
+6281,ch,809.0,Switzerland
+6282,ch,1840.0,Switzerland
+6283,ch,1888.0,Switzerland
+6284,ch,1889.0,Switzerland
+6285,ch,1910.0,Switzerland
+6286,ch,1930.0,Switzerland
+6287,ch,1979.0,Switzerland
+6288,ch,2166.0,Switzerland
+6289,ch,2232.0,Switzerland
+6290,ch,2232.0,Switzerland
+6291,ch,2232.0,Switzerland
+6292,ch,2280.0,Switzerland
+6293,ch,2326.0,Switzerland
+6294,ch,2417.0,Switzerland
+6295,ch,2450.0,Switzerland
+6296,ch,2595.0,Switzerland
+6297,ch,2595.0,Switzerland
+6298,ch,2595.0,Switzerland
+6299,ch,2657.0,Switzerland
+6300,ch,2657.0,Switzerland
+6301,ch,2657.0,Switzerland
+6302,ch,2701.0,Switzerland
+6303,ch,2701.0,Switzerland
+6304,ch,2768.0,Switzerland
+6305,ch,2876.0,Switzerland
+6306,ch,2877.0,Switzerland
+6307,ch,2922.0,Switzerland
+6308,ch,3164.0,Switzerland
+6309,ch,3164.0,Switzerland
+6310,ch,3164.0,Switzerland
+6311,ch,3297.0,Switzerland
+6312,ch,3377.0,Switzerland
+6313,ch,3377.0,Switzerland
+6314,ch,3377.0,Switzerland
+6315,ch,3379.0,Switzerland
+6316,ch,3404.0,Switzerland
+6317,ch,3404.0,Switzerland
+6318,ch,3404.0,Switzerland
+6319,ch,3422.0,Switzerland
+6320,ch,3422.0,Switzerland
+6321,ch,3422.0,Switzerland
+6322,ch,3427.0,Switzerland
+6323,ch,3704.0,Switzerland
+6324,ch,3704.0,Switzerland
+6325,ch,3704.0,Switzerland
+6326,ch,3832.0,Switzerland
+6327,ch,3832.0,Switzerland
+6328,ch,3832.0,Switzerland
+6329,ch,3872.0,Switzerland
+6330,ch,3939.0,Switzerland
+6331,ch,3939.0,Switzerland
+6332,ch,4012.0,Switzerland
+6333,ch,4050.0,Switzerland
+6334,ch,4053.0,Switzerland
+6335,ch,4053.0,Switzerland
+6336,ch,4053.0,Switzerland
+6337,ch,4104.0,Switzerland
+6338,ch,4117.0,Switzerland
+6339,ch,4259.0,Switzerland
+6340,ch,4259.0,Switzerland
+6341,ch,4260.0,Switzerland
+6342,ch,4295.0,Switzerland
+6343,ch,4399.0,Switzerland
+6344,ch,4399.0,Switzerland
+6345,ch,4438.0,Switzerland
+6346,ch,4497.0,Switzerland
+6347,ch,4497.0,Switzerland
+6348,ch,4499.0,Switzerland
+6349,ch,4499.0,Switzerland
+6350,ch,4499.0,Switzerland
+6351,ch,4592.0,Switzerland
+6352,ch,4704.0,Switzerland
+6353,ch,4834.0,Switzerland
+6354,ch,4834.0,Switzerland
+6355,ch,4850.0,Switzerland
+6356,ch,4850.0,Switzerland
+6357,ch,4939.0,Switzerland
+6358,ch,4939.0,Switzerland
+6359,ch,4939.0,Switzerland
+6360,ch,4939.0,Switzerland
+6361,ch,4997.0,Switzerland
+6362,ch,4997.0,Switzerland
+6363,ch,4997.0,Switzerland
+6364,ch,5039.0,Switzerland
+6365,ch,5064.0,Switzerland
+6366,ch,5064.0,Switzerland
+6367,ch,5064.0,Switzerland
+6368,ch,5274.0,Switzerland
+6369,ch,5410.0,Switzerland
+6370,ch,5410.0,Switzerland
+6371,ch,5410.0,Switzerland
+6372,ch,5446.0,Switzerland
+6373,ch,5446.0,Switzerland
+6374,ch,5446.0,Switzerland
+6375,ch,5447.0,Switzerland
+6376,ch,5447.0,Switzerland
+6377,ch,5447.0,Switzerland
+6378,ch,5552.0,Switzerland
+6379,ch,5552.0,Switzerland
+6380,ch,5598.0,Switzerland
+6381,ch,5646.0,Switzerland
+6382,ch,5710.0,Switzerland
+6383,ch,5710.0,Switzerland
+6384,ch,5710.0,Switzerland
+6385,ch,5749.0,Switzerland
+6386,ch,5749.0,Switzerland
+6387,ch,5749.0,Switzerland
+6388,ch,5749.0,Switzerland
+6389,ch,5749.0,Switzerland
+6390,ch,5802.0,Switzerland
+6391,ch,6111.0,Switzerland
+6392,ch,6206.0,Switzerland
+6393,ch,6206.0,Switzerland
+6394,ch,6206.0,Switzerland
+6395,ch,6272.0,Switzerland
+6396,ch,6272.0,Switzerland
+6397,ch,6272.0,Switzerland
+6398,ch,6272.0,Switzerland
+6399,ch,6280.0,Switzerland
+6400,ch,6355.0,Switzerland
+6401,ch,6671.0,Switzerland
+6402,ch,6671.0,Switzerland
+6403,ch,6692.0,Switzerland
+6404,ch,6802.0,Switzerland
+6405,ch,6941.0,Switzerland
+6406,ch,6958.0,Switzerland
+6407,ch,7242.0,Switzerland
+6408,ch,7243.0,Switzerland
+6409,ch,7245.0,Switzerland
+6410,ch,7257.0,Switzerland
+6411,ch,7289.0,Switzerland
+6412,ch,7301.0,Switzerland
+6413,ch,7301.0,Switzerland
+6414,ch,7301.0,Switzerland
+6415,ch,7301.0,Switzerland
+6416,ch,7403.0,Switzerland
+6417,ch,7782.0,Switzerland
+6418,ch,7782.0,Switzerland
+6419,ch,7816.0,Switzerland
+6420,ch,7932.0,Switzerland
+6421,ch,7999.0,Switzerland
+6422,ch,8023.0,Switzerland
+6423,ch,8023.0,Switzerland
+6424,ch,8023.0,Switzerland
+6425,ch,8077.0,Switzerland
+6426,ch,8110.0,Switzerland
+6427,ch,8110.0,Switzerland
+6428,ch,8110.0,Switzerland
+6429,ch,8455.0,Switzerland
+6430,ch,8457.0,Switzerland
+6431,ch,8465.0,Switzerland
+6432,ch,8495.0,Switzerland
+6433,ch,8495.0,Switzerland
+6434,ch,8544.0,Switzerland
+6435,ch,8566.0,Switzerland
+6436,ch,8566.0,Switzerland
+6437,ch,8603.0,Switzerland
+6438,ch,8769.0,Switzerland
+6439,ch,8769.0,Switzerland
+6440,ch,8769.0,Switzerland
+6441,ch,8770.0,Switzerland
+6442,ch,8989.0,Switzerland
+6443,ch,9217.0,Switzerland
+6444,ch,9217.0,Switzerland
+6445,ch,9217.0,Switzerland
+6446,ch,9295.0,Switzerland
+6447,ch,9486.0,Switzerland
+6448,ch,9522.0,Switzerland
+6449,ch,9700.0,Switzerland
+6450,ch,9704.0,Switzerland
+6451,ch,9777.0,Switzerland
+6452,ch,9887.0,Switzerland
+6453,ch,10014.0,Switzerland
+6454,ch,10023.0,Switzerland
+6455,ch,10038.0,Switzerland
+6456,ch,10316.0,Switzerland
+6457,ch,10371.0,Switzerland
+6458,ch,10535.0,Switzerland
+6459,ch,10535.0,Switzerland
+6460,ch,10545.0,Switzerland
+6461,ch,10545.0,Switzerland
+6462,ch,10545.0,Switzerland
+6463,ch,10545.0,Switzerland
+6464,ch,10545.0,Switzerland
+6465,ch,10660.0,Switzerland
+6466,ch,10667.0,Switzerland
+6467,ch,10720.0,Switzerland
+6468,ch,10720.0,Switzerland
+6469,ch,10720.0,Switzerland
+6470,ch,10722.0,Switzerland
+6471,ch,10722.0,Switzerland
+6472,ch,10722.0,Switzerland
+6473,ch,10749.0,Switzerland
+6474,ch,10856.0,Switzerland
+6475,ch,10856.0,Switzerland
+6476,ch,10870.0,Switzerland
+6477,ch,10870.0,Switzerland
+6478,ch,10870.0,Switzerland
+6479,ch,10902.0,Switzerland
+6480,ch,11020.0,Switzerland
+6481,ch,11027.0,Switzerland
+6482,ch,11248.0,Switzerland
+6483,ch,11248.0,Switzerland
+6484,ch,11248.0,Switzerland
+6485,ch,11355.0,Switzerland
+6486,ch,11370.0,Switzerland
+6487,ch,11383.0,Switzerland
+6488,ch,11638.0,Switzerland
+6489,ch,11638.0,Switzerland
+6490,ch,11638.0,Switzerland
+6491,ch,11638.0,Switzerland
+6492,ch,11638.0,Switzerland
+6493,ch,11651.0,Switzerland
+6494,ch,11651.0,Switzerland
+6495,ch,11651.0,Switzerland
+6496,ch,11685.0,Switzerland
+6497,ch,11816.0,Switzerland
+6498,ch,11824.0,Switzerland
+6499,ch,11841.0,Switzerland
+6500,ch,11883.0,Switzerland
+6501,ch,11945.0,Switzerland
+6502,ch,11994.0,Switzerland
+6503,ch,12240.0,Switzerland
+6504,ch,12335.0,Switzerland
+6505,ch,12409.0,Switzerland
+6506,ch,12492.0,Switzerland
+6507,ch,12588.0,Switzerland
+6508,ch,12588.0,Switzerland
+6509,ch,12588.0,Switzerland
+6510,ch,12588.0,Switzerland
+6511,ch,12588.0,Switzerland
+6512,ch,12588.0,Switzerland
+6513,ch,12588.0,Switzerland
+6514,ch,12588.0,Switzerland
+6515,ch,12654.0,Switzerland
+6516,ch,12654.0,Switzerland
+6517,ch,12654.0,Switzerland
+6518,ch,12654.0,Switzerland
+6519,ch,12935.0,Switzerland
+6520,ch,12935.0,Switzerland
+6521,ch,12935.0,Switzerland
+6522,ch,12938.0,Switzerland
+6523,ch,13064.0,Switzerland
+6524,ch,13064.0,Switzerland
+6525,ch,13298.0,Switzerland
+6526,ch,13298.0,Switzerland
+6527,ch,13562.0,Switzerland
+6528,ch,13564.0,Switzerland
+6529,ch,13855.0,Switzerland
+6530,ch,13879.0,Switzerland
+6531,ch,13883.0,Switzerland
+6532,ch,13976.0,Switzerland
+6533,ch,14069.0,Switzerland
+6534,ch,14127.0,Switzerland
+6535,ch,14220.0,Switzerland
+6536,ch,14226.0,Switzerland
+6537,ch,14443.0,Switzerland
+6538,ch,14460.0,Switzerland
+6539,ch,14488.0,Switzerland
+6540,ch,14493.0,Switzerland
+6541,ch,14493.0,Switzerland
+6542,ch,14682.0,Switzerland
+6543,ch,14682.0,Switzerland
+6544,ch,14727.0,Switzerland
+6545,ch,14727.0,Switzerland
+6546,ch,14752.0,Switzerland
+6547,ch,14752.0,Switzerland
+6548,ch,14752.0,Switzerland
+6549,es,254.0,Spain
+6550,es,254.0,Spain
+6551,es,527.0,Spain
+6552,es,912.0,Spain
+6553,es,927.0,Spain
+6554,es,927.0,Spain
+6555,es,927.0,Spain
+6556,es,1122.0,Spain
+6557,es,1201.0,Spain
+6558,es,1610.0,Spain
+6559,es,1690.0,Spain
+6560,es,2028.0,Spain
+6561,es,2028.0,Spain
+6562,es,2028.0,Spain
+6563,es,2028.0,Spain
+6564,es,2028.0,Spain
+6565,es,2237.0,Spain
+6566,es,2237.0,Spain
+6567,es,2259.0,Spain
+6568,es,2259.0,Spain
+6569,es,2731.0,Spain
+6570,es,2731.0,Spain
+6571,es,3178.0,Spain
+6572,es,3380.0,Spain
+6573,es,3464.0,Spain
+6574,es,3467.0,Spain
+6575,es,3707.0,Spain
+6576,es,3707.0,Spain
+6577,es,3714.0,Spain
+6578,es,3912.0,Spain
+6579,es,4016.0,Spain
+6580,es,4084.0,Spain
+6581,es,4125.0,Spain
+6582,es,4544.0,Spain
+6583,es,4544.0,Spain
+6584,es,4544.0,Spain
+6585,es,4739.0,Spain
+6586,es,4739.0,Spain
+6587,es,4739.0,Spain
+6588,es,4922.0,Spain
+6589,es,5266.0,Spain
+6590,es,5266.0,Spain
+6591,es,5730.0,Spain
+6592,es,5973.0,Spain
+6593,es,6020.0,Spain
+6594,es,6020.0,Spain
+6595,es,6020.0,Spain
+6596,es,6020.0,Spain
+6597,es,6020.0,Spain
+6598,es,6020.0,Spain
+6599,es,6257.0,Spain
+6600,es,6265.0,Spain
+6601,es,6471.0,Spain
+6602,es,6563.0,Spain
+6603,es,6649.0,Spain
+6604,es,6649.0,Spain
+6605,es,6649.0,Spain
+6606,es,6828.0,Spain
+6607,es,6828.0,Spain
+6608,es,6828.0,Spain
+6609,es,6828.0,Spain
+6610,es,6828.0,Spain
+6611,es,7250.0,Spain
+6612,es,7250.0,Spain
+6613,es,7421.0,Spain
+6614,es,7421.0,Spain
+6615,es,7434.0,Spain
+6616,es,7579.0,Spain
+6617,es,7969.0,Spain
+6618,es,8309.0,Spain
+6619,es,8426.0,Spain
+6620,es,8504.0,Spain
+6621,es,8781.0,Spain
+6622,es,8784.0,Spain
+6623,es,8968.0,Spain
+6624,es,8968.0,Spain
+6625,es,9250.0,Spain
+6626,es,9250.0,Spain
+6627,es,9250.0,Spain
+6628,es,9250.0,Spain
+6629,es,9272.0,Spain
+6630,es,9272.0,Spain
+6631,es,9272.0,Spain
+6632,es,9272.0,Spain
+6633,es,9273.0,Spain
+6634,es,9432.0,Spain
+6635,es,9535.0,Spain
+6636,es,9726.0,Spain
+6637,es,9758.0,Spain
+6638,es,9758.0,Spain
+6639,es,9772.0,Spain
+6640,es,9772.0,Spain
+6641,es,9772.0,Spain
+6642,es,9827.0,Spain
+6643,es,9883.0,Spain
+6644,es,10010.0,Spain
+6645,es,10272.0,Spain
+6646,es,10660.0,Spain
+6647,es,10855.0,Spain
+6648,es,11054.0,Spain
+6649,es,11255.0,Spain
+6650,es,11255.0,Spain
+6651,es,11255.0,Spain
+6652,es,11307.0,Spain
+6653,es,11325.0,Spain
+6654,es,11434.0,Spain
+6655,es,11453.0,Spain
+6656,es,11454.0,Spain
+6657,es,11547.0,Spain
+6658,es,11547.0,Spain
+6659,es,11547.0,Spain
+6660,es,11624.0,Spain
+6661,es,11746.0,Spain
+6662,es,11828.0,Spain
+6663,es,11861.0,Spain
+6664,es,11869.0,Spain
+6665,es,11946.0,Spain
+6666,es,12147.0,Spain
+6667,es,12256.0,Spain
+6668,es,12256.0,Spain
+6669,es,12256.0,Spain
+6670,es,12347.0,Spain
+6671,es,12435.0,Spain
+6672,es,12582.0,Spain
+6673,es,12582.0,Spain
+6674,es,12582.0,Spain
+6675,es,12583.0,Spain
+6676,es,12670.0,Spain
+6677,es,13071.0,Spain
+6678,es,13129.0,Spain
+6679,es,13142.0,Spain
+6680,es,13165.0,Spain
+6681,es,13254.0,Spain
+6682,es,13283.0,Spain
+6683,es,13283.0,Spain
+6684,es,13358.0,Spain
+6685,es,13365.0,Spain
+6686,es,13392.0,Spain
+6687,es,13775.0,Spain
+6688,es,14006.0,Spain
+6689,es,14058.0,Spain
+6690,es,14058.0,Spain
+6691,es,14071.0,Spain
+6692,es,14148.0,Spain
+6693,es,14383.0,Spain
+6694,pt,363.0,Portugal
+6695,pt,363.0,Portugal
+6696,pt,363.0,Portugal
+6697,pt,363.0,Portugal
+6698,pt,363.0,Portugal
+6699,pt,645.0,Portugal
+6700,pt,1119.0,Portugal
+6701,pt,2731.0,Portugal
+6702,pt,2744.0,Portugal
+6703,pt,3316.0,Portugal
+6704,pt,3316.0,Portugal
+6705,pt,3641.0,Portugal
+6706,pt,4594.0,Portugal
+6707,pt,4594.0,Portugal
+6708,pt,5059.0,Portugal
+6709,pt,5059.0,Portugal
+6710,pt,5128.0,Portugal
+6711,pt,5419.0,Portugal
+6712,pt,5829.0,Portugal
+6713,pt,6055.0,Portugal
+6714,pt,6949.0,Portugal
+6715,pt,6949.0,Portugal
+6716,pt,7629.0,Portugal
+6717,pt,7760.0,Portugal
+6718,pt,7760.0,Portugal
+6719,pt,7760.0,Portugal
+6720,pt,8654.0,Portugal
+6721,pt,9156.0,Portugal
+6722,pt,9797.0,Portugal
+6723,pt,9797.0,Portugal
+6724,pt,10008.0,Portugal
+6725,pt,11267.0,Portugal
+6726,pt,11267.0,Portugal
+6727,pt,11267.0,Portugal
+6728,pt,11267.0,Portugal
+6729,pt,11374.0,Portugal
+6730,pt,11403.0,Portugal
+6731,pt,11869.0,Portugal
+6732,pt,11869.0,Portugal
+6733,pt,12340.0,Portugal
+6734,pt,13360.0,Portugal
+6735,pt,13468.0,Portugal
+6736,pt,13754.0,Portugal
+6737,pt,13925.0,Portugal
+6738,pt,14152.0,Portugal
+6739,ph,397.0,Philippines
+6740,ph,13078.0,Philippines
+6741,bd,455.0,Bangladesh
+6742,bd,1179.0,Bangladesh
+6743,bd,1179.0,Bangladesh
+6744,bd,9939.0,Bangladesh
+6745,pk,548.0,Pakistan
+6746,pk,4648.0,Pakistan
+6747,pk,4648.0,Pakistan
+6748,pk,6940.0,Pakistan
+6749,pk,13021.0,Pakistan
+6750,pk,13021.0,Pakistan
+6751,pk,13021.0,Pakistan
+6752,pk,13021.0,Pakistan
+6753,eg,599.0,Egypt
+6754,eg,1262.0,Egypt
+6755,eg,7451.0,Egypt
+6756,eg,12920.0,Egypt
+6757,eg,12920.0,Egypt
+6758,eg,14225.0,Egypt
+6759,no,654.0,Norway
+6760,no,773.0,Norway
+6761,no,773.0,Norway
+6762,no,860.0,Norway
+6763,no,1159.0,Norway
+6764,no,1232.0,Norway
+6765,no,1571.0,Norway
+6766,no,1571.0,Norway
+6767,no,1571.0,Norway
+6768,no,1571.0,Norway
+6769,no,1945.0,Norway
+6770,no,2698.0,Norway
+6771,no,3378.0,Norway
+6772,no,4044.0,Norway
+6773,no,4044.0,Norway
+6774,no,4120.0,Norway
+6775,no,4546.0,Norway
+6776,no,5014.0,Norway
+6777,no,5730.0,Norway
+6778,no,6468.0,Norway
+6779,no,6468.0,Norway
+6780,no,7749.0,Norway
+6781,no,7749.0,Norway
+6782,no,7823.0,Norway
+6783,no,7823.0,Norway
+6784,no,7823.0,Norway
+6785,no,8887.0,Norway
+6786,no,9799.0,Norway
+6787,no,9799.0,Norway
+6788,no,9883.0,Norway
+6789,no,9883.0,Norway
+6790,no,9883.0,Norway
+6791,no,10392.0,Norway
+6792,no,10392.0,Norway
+6793,no,10610.0,Norway
+6794,no,11122.0,Norway
+6795,no,11122.0,Norway
+6796,no,11615.0,Norway
+6797,no,11984.0,Norway
+6798,no,12042.0,Norway
+6799,no,12189.0,Norway
+6800,no,13279.0,Norway
+6801,no,13301.0,Norway
+6802,no,13301.0,Norway
+6803,no,13301.0,Norway
+6804,no,13605.0,Norway
+6805,no,13765.0,Norway
+6806,no,13848.0,Norway
+6807,no,14169.0,Norway
+6808,no,14169.0,Norway
+6809,no,14557.0,Norway
+6810,no,14557.0,Norway
+6811,no,14557.0,Norway
+6812,no,14664.0,Norway
+6813,ar,812.0,Argentina
+6814,ar,813.0,Argentina
+6815,ar,841.0,Argentina
+6816,ar,2087.0,Argentina
+6817,ar,2087.0,Argentina
+6818,ar,3401.0,Argentina
+6819,ar,5748.0,Argentina
+6820,ar,9983.0,Argentina
+6821,ar,10057.0,Argentina
+6822,ar,10116.0,Argentina
+6823,ar,10512.0,Argentina
+6824,ar,11946.0,Argentina
+6825,ar,13249.0,Argentina
+6826,ar,14249.0,Argentina
+6827,ar,14249.0,Argentina
+6828,gr,817.0,Greece
+6829,gr,902.0,Greece
+6830,gr,1425.0,Greece
+6831,gr,1530.0,Greece
+6832,gr,1590.0,Greece
+6833,gr,1676.0,Greece
+6834,gr,1676.0,Greece
+6835,gr,1687.0,Greece
+6836,gr,1687.0,Greece
+6837,gr,1687.0,Greece
+6838,gr,1771.0,Greece
+6839,gr,2242.0,Greece
+6840,gr,2737.0,Greece
+6841,gr,2748.0,Greece
+6842,gr,3983.0,Greece
+6843,gr,4274.0,Greece
+6844,gr,4590.0,Greece
+6845,gr,6060.0,Greece
+6846,gr,6547.0,Greece
+6847,gr,6978.0,Greece
+6848,gr,7196.0,Greece
+6849,gr,7345.0,Greece
+6850,gr,7777.0,Greece
+6851,gr,7777.0,Greece
+6852,gr,7777.0,Greece
+6853,gr,7809.0,Greece
+6854,gr,7809.0,Greece
+6855,gr,7815.0,Greece
+6856,gr,7977.0,Greece
+6857,gr,7977.0,Greece
+6858,gr,9895.0,Greece
+6859,gr,9946.0,Greece
+6860,gr,10264.0,Greece
+6861,gr,11473.0,Greece
+6862,gr,11590.0,Greece
+6863,gr,13130.0,Greece
+6864,gr,13261.0,Greece
+6865,gr,13798.0,Greece
+6866,gr,14041.0,Greece
+6867,gr,14041.0,Greece
+6868,gr,14559.0,Greece
+6869,dk,860.0,Denmark
+6870,dk,860.0,Denmark
+6871,dk,860.0,Denmark
+6872,dk,1295.0,Denmark
+6873,dk,1707.0,Denmark
+6874,dk,2314.0,Denmark
+6875,dk,2478.0,Denmark
+6876,dk,2478.0,Denmark
+6877,dk,2478.0,Denmark
+6878,dk,2698.0,Denmark
+6879,dk,3000.0,Denmark
+6880,dk,3469.0,Denmark
+6881,dk,3470.0,Denmark
+6882,dk,3587.0,Denmark
+6883,dk,3587.0,Denmark
+6884,dk,3912.0,Denmark
+6885,dk,3912.0,Denmark
+6886,dk,4971.0,Denmark
+6887,dk,5070.0,Denmark
+6888,dk,5099.0,Denmark
+6889,dk,6536.0,Denmark
+6890,dk,6674.0,Denmark
+6891,dk,6674.0,Denmark
+6892,dk,6674.0,Denmark
+6893,dk,6905.0,Denmark
+6894,dk,6905.0,Denmark
+6895,dk,7331.0,Denmark
+6896,dk,7591.0,Denmark
+6897,dk,8363.0,Denmark
+6898,dk,8577.0,Denmark
+6899,dk,8587.0,Denmark
+6900,dk,9246.0,Denmark
+6901,dk,9581.0,Denmark
+6902,dk,9729.0,Denmark
+6903,dk,11017.0,Denmark
+6904,dk,11085.0,Denmark
+6905,dk,11130.0,Denmark
+6906,dk,11436.0,Denmark
+6907,dk,11484.0,Denmark
+6908,dk,12310.0,Denmark
+6909,dk,12619.0,Denmark
+6910,dk,12672.0,Denmark
+6911,dk,14504.0,Denmark
+6912,dk,14504.0,Denmark
+6913,dk,14504.0,Denmark
+6914,dk,14669.0,Denmark
+6915,lt,1329.0,Lithuania
+6916,lt,1646.0,Lithuania
+6917,lt,1927.0,Lithuania
+6918,lt,3992.0,Lithuania
+6919,lt,9910.0,Lithuania
+6920,si,1461.0,Slovenia
+6921,si,4948.0,Slovenia
+6922,si,6324.0,Slovenia
+6923,si,6545.0,Slovenia
+6924,si,6550.0,Slovenia
+6925,si,7017.0,Slovenia
+6926,si,7815.0,Slovenia
+6927,si,10276.0,Slovenia
+6928,si,10610.0,Slovenia
+6929,si,11217.0,Slovenia
+6930,si,11217.0,Slovenia
+6931,si,12238.0,Slovenia
+6932,si,12333.0,Slovenia
+6933,ke,1590.0,Kenya
+6934,vn,1674.0,Viet Nam
+6935,vn,1674.0,Viet Nam
+6936,vn,1674.0,Viet Nam
+6937,vn,6646.0,Viet Nam
+6938,vn,8353.0,Viet Nam
+6939,vn,8353.0,Viet Nam
+6940,vn,12561.0,Viet Nam
+6941,vn,12561.0,Viet Nam
+6942,vn,12561.0,Viet Nam
+6943,qa,1687.0,Qatar
+6944,qa,7778.0,Qatar
+6945,qa,7778.0,Qatar
+6946,qa,13076.0,Qatar
+6947,qa,13077.0,Qatar
+6948,nz,1720.0,New Zealand
+6949,nz,1720.0,New Zealand
+6950,nz,2536.0,New Zealand
+6951,nz,2785.0,New Zealand
+6952,nz,4344.0,New Zealand
+6953,nz,6238.0,New Zealand
+6954,nz,6351.0,New Zealand
+6955,nz,6829.0,New Zealand
+6956,nz,8386.0,New Zealand
+6957,nz,14039.0,New Zealand
+6958,nz,14039.0,New Zealand
+6959,nz,14292.0,New Zealand
+6960,ua,1729.0,Ukraine
+6961,ua,1729.0,Ukraine
+6962,ua,1829.0,Ukraine
+6963,ua,5093.0,Ukraine
+6964,ua,5481.0,Ukraine
+6965,ua,6314.0,Ukraine
+6966,ua,8508.0,Ukraine
+6967,ua,9674.0,Ukraine
+6968,ua,9674.0,Ukraine
+6969,ua,9674.0,Ukraine
+6970,ua,9674.0,Ukraine
+6971,ua,9684.0,Ukraine
+6972,ua,9872.0,Ukraine
+6973,ua,12329.0,Ukraine
+6974,ua,12384.0,Ukraine
+6975,ua,13133.0,Ukraine
+6976,am,1770.0,Armenia
+6977,am,4009.0,Armenia
+6978,am,4603.0,Armenia
+6979,am,7223.0,Armenia
+6980,ng,1774.0,Nigeria
+6981,om,1802.0,Oman
+6982,om,4600.0,Oman
+6983,om,4600.0,Oman
+6984,om,9360.0,Oman
+6985,th,2091.0,Thailand
+6986,th,3786.0,Thailand
+6987,th,4077.0,Thailand
+6988,th,6326.0,Thailand
+6989,th,10324.0,Thailand
+6990,th,12297.0,Thailand
+6991,bg,2626.0,Bulgaria
+6992,bg,6533.0,Bulgaria
+6993,bg,9874.0,Bulgaria
+6994,bg,9874.0,Bulgaria
+6995,bg,10123.0,Bulgaria
+6996,bg,10123.0,Bulgaria
+6997,bg,13939.0,Bulgaria
+6998,ae,2702.0,United Arab Emirates
+6999,ae,4529.0,United Arab Emirates
+7000,ae,4931.0,United Arab Emirates
+7001,ae,8869.0,United Arab Emirates
+7002,ae,9939.0,United Arab Emirates
+7003,sk,2732.0,Slovakia
+7004,sk,3114.0,Slovakia
+7005,sk,3952.0,Slovakia
+7006,sk,5061.0,Slovakia
+7007,sk,6695.0,Slovakia
+7008,sk,6879.0,Slovakia
+7009,sk,13074.0,Slovakia
+7010,sk,13767.0,Slovakia
+7011,ma,2738.0,Morocco
+7012,ma,2738.0,Morocco
+7013,ma,9077.0,Morocco
+7014,ma,13527.0,Morocco
+7015,ma,13527.0,Morocco
+7016,ee,2977.0,Estonia
+7017,ee,8046.0,Estonia
+7018,ee,8046.0,Estonia
+7019,ee,8046.0,Estonia
+7020,ee,8566.0,Estonia
+7021,ee,9073.0,Estonia
+7022,ee,9075.0,Estonia
+7023,ee,9080.0,Estonia
+7024,ee,9080.0,Estonia
+7025,ee,10711.0,Estonia
+7026,ee,11453.0,Estonia
+7027,ee,11453.0,Estonia
+7028,ee,12257.0,Estonia
+7029,ee,12317.0,Estonia
+7030,ie,3225.0,Ireland
+7031,ie,3271.0,Ireland
+7032,ie,4436.0,Ireland
+7033,ie,4436.0,Ireland
+7034,ie,4436.0,Ireland
+7035,ie,5215.0,Ireland
+7036,ie,5603.0,Ireland
+7037,ie,6166.0,Ireland
+7038,ie,6554.0,Ireland
+7039,ie,6554.0,Ireland
+7040,ie,6756.0,Ireland
+7041,ie,6857.0,Ireland
+7042,ie,7666.0,Ireland
+7043,ie,7977.0,Ireland
+7044,ie,7977.0,Ireland
+7045,ie,9016.0,Ireland
+7046,ie,9524.0,Ireland
+7047,ie,9763.0,Ireland
+7048,ie,10399.0,Ireland
+7049,ie,11407.0,Ireland
+7050,ie,11407.0,Ireland
+7051,ie,11407.0,Ireland
+7052,ie,11407.0,Ireland
+7053,ie,11407.0,Ireland
+7054,ie,11487.0,Ireland
+7055,ie,11659.0,Ireland
+7056,ie,12317.0,Ireland
+7057,ie,12630.0,Ireland
+7058,za,3366.0,South Africa
+7059,za,4029.0,South Africa
+7060,za,4040.0,South Africa
+7061,za,4071.0,South Africa
+7062,za,4525.0,South Africa
+7063,za,4734.0,South Africa
+7064,za,6547.0,South Africa
+7065,za,7289.0,South Africa
+7066,za,7410.0,South Africa
+7067,za,9249.0,South Africa
+7068,za,9249.0,South Africa
+7069,za,9249.0,South Africa
+7070,za,9264.0,South Africa
+7071,za,9264.0,South Africa
+7072,za,9264.0,South Africa
+7073,za,9774.0,South Africa
+7074,za,10274.0,South Africa
+7075,za,10762.0,South Africa
+7076,za,11138.0,South Africa
+7077,za,11422.0,South Africa
+7078,za,13747.0,South Africa
+7079,za,14648.0,South Africa
+7080,mk,3457.0,"Macedonia, the Former Yugoslav Republic of"
+7081,mk,6912.0,"Macedonia, the Former Yugoslav Republic of"
+7082,mk,13309.0,"Macedonia, the Former Yugoslav Republic of"
+7083,my,4127.0,Malaysia
+7084,my,13897.0,Malaysia
+7085,is,4366.0,Iceland
+7086,is,9812.0,Iceland
+7087,sz,4526.0,Swaziland
+7088,ve,4550.0,"Venezuela, Bolivarian Republic of"
+7089,ve,13932.0,"Venezuela, Bolivarian Republic of"
+7090,lu,4576.0,Luxembourg
+7091,lu,12814.0,Luxembourg
+7092,ai,4723.0,Anguilla
+7093,ai,4723.0,Anguilla
+7094,ai,4723.0,Anguilla
+7095,ai,8523.0,Anguilla
+7096,cy,4852.0,Cyprus
+7097,cy,6547.0,Cyprus
+7098,cy,7809.0,Cyprus
+7099,cy,12228.0,Cyprus
+7100,cy,12228.0,Cyprus
+7101,cy,12228.0,Cyprus
+7102,cy,12228.0,Cyprus
+7103,cy,14058.0,Cyprus
+7104,io,5902.0,British Indian Ocean Territory
+7105,io,8523.0,British Indian Ocean Territory
+7106,tn,6514.0,Tunisia
+7107,id,7718.0,Indonesia
+7108,lb,7739.0,Lebanon
+7109,lb,7739.0,Lebanon
+7110,uy,8771.0,Uruguay
+7111,uy,8771.0,Uruguay
+7112,uy,8771.0,Uruguay
+7113,uy,11738.0,Uruguay
+7114,uy,11749.0,Uruguay
+7115,uy,12218.0,Uruguay
+7116,uy,12249.0,Uruguay
+7117,sn,8858.0,Senegal
+7118,bj,9097.0,Benin
+7119,kz,9946.0,Kazakhstan
+7120,kz,14559.0,Kazakhstan
+7121,mo,10871.0,Macao
+7122,mo,10903.0,Macao
+7123,mo,11626.0,Macao
+7124,pe,11923.0,Peru
