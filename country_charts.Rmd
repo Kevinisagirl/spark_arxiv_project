@@ -7,24 +7,51 @@ output: html_document
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
+library("ggplot2")
+library("dplyr")
 ```
 
-## R Markdown
-
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
-
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
 
 ```{r cars}
-summary(cars)
+country_data <- read.csv(file = "emails.country.csv", header= TRUE, sep=",")
 ```
 
-## Including Plots
+## Plots to show distribution of authors throughout different countries
 
 You can also embed plots, for example:
 
 ```{r pressure, echo=FALSE}
-plot(pressure)
+
+country_data$Serial <- rep(1,nrow(country_data))
+
+#aggregate by country to get a count 
+count_country <- aggregate(country_data$Serial,by=list(Name=country_data$Name), FUN=sum)
+#count_country <- count_country[order(-count_country$x),]
+colnames(count_country) <- c("Country", "count")
+
+#filter for countries with counts of at least 1000
+
+count_country <- count_country %>% filter(count > 50)
+
+a <- ggplot(count_country, aes(x = reorder(Country, -count), y = count, fill=count)) + geom_bar(stat= "identity")+ theme(axis.text.x = element_text(angle = 90, hjust = 1)) + scale_fill_gradient(low = "green", high = "red") + ggtitle("Country counts for article contributors") + xlab(label = "Countries (count > 50)")
++ ylab(label = "Count")
+a 
+
+#count unique countries (80 unique countries)
+
+
+
+
+
+
 ```
 
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+```{r}
+
+
+a <- ggplot(country_data, aes(x = reorder(Name, -Count), y = Count)) + geom_histogram(stat = "count") + theme(axis.text.x = element_text(angle = 90, hjust = 1))
+a
+
+
+```
+
