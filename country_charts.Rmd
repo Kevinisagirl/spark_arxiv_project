@@ -30,7 +30,9 @@ You can also embed plots, for example:
 
 country_data$Serial <- rep(1,nrow(country_data))
 
-#country_data$Name[country_data$Name == "Russian Federation"] <- "Russia"
+#country_data[country_data == "Russian Federation"] <- "Russia"
+
+#ifelse(country_data$Name == "Russian Federation", "Russia", NA)
 
 #aggregate by country to get a count 
 count_country <- aggregate(country_data$Serial,by=list(Name=country_data$Name), FUN=sum)
@@ -65,7 +67,7 @@ centroids <- gCentroid(wmap, byid=TRUE)
 country_locations <- as.data.frame(centroids,row.names = NULL)
 
 setDT(df, keep.rownames = TRUE)
-colnames(df) <- c("Country","lat","long")
+colnames(df) <- c("Name","lat","long")
 
 
 
@@ -74,9 +76,22 @@ colnames(df) <- c("Country","lat","long")
 df holds location information, country_data has article information
 ```{r}
 
-#filter out articles that only have 1 author
+#join data
 
+article_locations <- merge(x=country_data,y=df, by = "Name", all=TRUE)
 
+#remove values that are unique (articles with only 1 autho)
+change <- subset(article_locations,duplicated(article) | duplicated(article, fromLast=TRUE))
+
+#remove articles where everyone is from the same country group things by article and see if each name is the same, if it is then remove that article from the data frame 
+
+store <- change[change$article == 21, "Name"]
+
+store <- store[!is.na(store)]
+
+store
+#returning false means that different countries collaborated on something :) 
+length(unique(store)) == 1
 
 ```
 
