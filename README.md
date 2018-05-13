@@ -11,7 +11,7 @@ https://docs.google.com/document/d/1eQYC07gCoQyK2N9DdYO_776xgFLv6erXfFruoBFOaSU/
 
 
 ### bash command used to fix the \n problem
-sed ':a;N;/\narxive-id/!s/\n/ /;ta;P;D' infile > outfile
+sed ':a;N;/\narxive-id/!s/\n/ /;ta;P;D' infile > outfile  
 https://stackoverflow.com/questions/37950170/how-to-join-lines-not-starting-with-specific-pattern-to-the-previous-line-in-uni
 
 
