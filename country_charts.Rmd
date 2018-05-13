@@ -9,6 +9,12 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 library("ggplot2")
 library("dplyr")
+library(tidyverse)
+library(maps)
+library(geosphere)
+library(rgeos)
+library(rworldmap)
+library("data.table")
 ```
 
 
@@ -24,6 +30,8 @@ You can also embed plots, for example:
 
 country_data$Serial <- rep(1,nrow(country_data))
 
+#country_data$Name[country_data$Name == "Russian Federation"] <- "Russia"
+
 #aggregate by country to get a count 
 count_country <- aggregate(country_data$Serial,by=list(Name=country_data$Name), FUN=sum)
 #count_country <- count_country[order(-count_country$x),]
@@ -33,8 +41,7 @@ colnames(count_country) <- c("Country", "count")
 
 count_country <- count_country %>% filter(count > 50)
 
-a <- ggplot(count_country, aes(x = reorder(Country, -count), y = count, fill=count)) + geom_bar(stat= "identity")+ theme(axis.text.x = element_text(angle = 90, hjust = 1)) + scale_fill_gradient(low = "green", high = "red") + ggtitle("Country counts for article contributors") + xlab(label = "Countries (count > 50)")
-+ ylab(label = "Count")
+a <- ggplot(count_country, aes(x = reorder(Country, count), y = count, fill=count)) + geom_bar(stat= "identity")+ theme(axis.text.x = element_text(angle = 90, hjust = 1)) + scale_fill_gradient(low = "green", high = "red") + ggtitle("Country counts for article contributors") + xlab(label = "Countries (count > 50)") + ylab(label = "Count") + coord_flip() 
 a 
 
 #count unique countries (80 unique countries)
@@ -46,11 +53,29 @@ a
 
 ```
 
+
+
+```{r}
+par(mar=c(0,0,0,0))
+map('world',col="#f2f2f2", fill=TRUE, bg="white", lwd=0.05,mar=rep(0,4),border=0, ylim=c(-80,80) )
+
+
+wmap <- getMap(resolution="high")
+centroids <- gCentroid(wmap, byid=TRUE)
+country_locations <- as.data.frame(centroids,row.names = NULL)
+
+setDT(df, keep.rownames = TRUE)
+colnames(df) <- c("Country","lat","long")
+
+
+
+```
+
+df holds location information, country_data has article information
 ```{r}
 
+#filter out articles that only have 1 author
 
-a <- ggplot(country_data, aes(x = reorder(Name, -Count), y = Count)) + geom_histogram(stat = "count") + theme(axis.text.x = element_text(angle = 90, hjust = 1))
-a
 
 
 ```
