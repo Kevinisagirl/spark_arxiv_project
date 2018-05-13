@@ -1,0 +1,117 @@
+---
+title: "arxiv_article_data"
+author: "Kevin Hunt"
+date: "May 13, 2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(plyr)
+library(dplyr)
+library(tidyr)
+library(ggplot2)
+library(ggthemes)
+```
+
+```{r}
+articledata <- do.call(rbind,strsplit(readLines("removed_newlines_all_article_data.txt"), "@@@",fixed=T))
+str(as.data.frame(articledata, stringsAsFactors = FALSE))
+
+articles_processed <- 
+  setNames(
+    as.data.frame(lapply(1:ncol(articledata), function (i) {
+      type.convert(articledata[,i], as.is = TRUE)
+    }), stringsAsFactors = FALSE),
+    c("arxiv-id", "title", "Authors", "Affiliations", "Journal Reference", "Comments", "Primary Category", "Categories", "Abstract")
+  )
+
+articles_processed$`arxiv-id` <- gsub("arxiv-id: ", "", articles_processed$`arxiv-id`)
+articles_processed$title <- gsub("Title:  ", "", articles_processed$title)
+articles_processed$Authors <- gsub("Authors:  ", "", articles_processed$Authors)
+articles_processed$Affiliations <- gsub("Affiliations: ", "", articles_processed$Affiliations)
+articles_processed$`Journal Reference` <- gsub("Journal reference: ", "", articles_processed$`Journal Reference`)
+articles_processed$Comments <- gsub("Comments: ", "", articles_processed$Comments)
+articles_processed$`Primary Category` <- gsub("Primary Category: ", "", articles_processed$`Primary Category`)
+articles_processed$Categories <- gsub("All Categories: ", "", articles_processed$Categories)
+articles_processed$Abstract <- gsub("Abstract: ", "", articles_processed$Abstract)
+
+head(articles_processed)
+```
+
+## Update Categories
+
+Load in all the category tags
+```{r}
+physics <- do.call(rbind,strsplit(readLines("categories/physics.txt"), ": ",fixed=T))
+physics <- as.data.frame(physics)
+physics <- setNames(physics, c("catcode", "category"))
+
+cs <- do.call(rbind,strsplit(readLines("categories/computer\ science.txt"), ": ",fixed=T))
+cs <- as.data.frame(cs)
+cs <- setNames(cs, c("catcode", "category"))
+
+mathematics <- do.call(rbind,strsplit(readLines("categories/mathematics.txt"), ": ",fixed=T))
+mathematics <- as.data.frame(mathematics)
+mathematics <- setNames(mathematics, c("catcode", "category"))
+
+quantBio <- do.call(rbind,strsplit(readLines("categories/quantitative\ biology.txt"), ": ",fixed=T))
+quantBio <- as.data.frame(quantBio)
+quantBio <- setNames(quantBio, c("catcode", "category"))
+
+quantFin <- do.call(rbind,strsplit(readLines("categories/quantitative\ finance.txt"), ": ",fixed=T))
+quantFin <- as.data.frame(quantFin)
+quantFin <- setNames(quantFin, c("catcode", "category"))
+
+statistics <- do.call(rbind,strsplit(readLines("categories/statistics.txt"), ": ",fixed=T))
+statistics <- as.data.frame(statistics)
+statistics <- setNames(statistics, c("catcode", "category"))
+```
+
+Combine all the tags into one df with the major category
+```{r}
+cat_tags <- physics
+cat_tags$category <- "Physics"
+adj.cat <- cs
+adj.cat$category <- "Computer Science"
+cat_tags <- rbind(cat_tags, adj.cat)
+adj.cat <- mathematics
+adj.cat$category <- "Mathematics"
+cat_tags <- rbind(cat_tags, adj.cat)
+adj.cat <- quantBio
+adj.cat$category <- "Quantitative Biology"
+cat_tags <- rbind(cat_tags, adj.cat)
+adj.cat <- quantFin
+adj.cat$category <- "Quantitative Finance"
+cat_tags <- rbind(cat_tags, adj.cat)
+adj.cat <- statistics
+adj.cat$category <- "Statistics"
+cat_tags <- rbind(cat_tags, adj.cat)
+
+# manually add some tags
+cat_tags <- rbind(cat_tags, data.frame(catcode="econ.EM", category="Econometrics"))
+cat_tags <- rbind(cat_tags, data.frame(catcode="eess.AS", category="Electrical Engineering\nand Systems Science"))
+cat_tags <- rbind(cat_tags, data.frame(catcode="eess.IV", category="Electrical Engineering\nand Systems Science"))
+cat_tags <- rbind(cat_tags, data.frame(catcode="eess.SP", category="Electrical Engineering\nand Systems Science"))
+
+# add categories that we have no articles for (I did not include all catcodes for these)
+cat_tags <- rbind(cat_tags, data.frame(catcode="cond-mat.dis-nn", category="Condensed Matter"))
+cat_tags <- rbind(cat_tags, data.frame(catcode="nlin.AO", category="Nonlinear Sciences"))
+
+# update astro-ph. to astrophysics
+cat_tags[grep("astro-ph.", cat_tags$catcode), "category"] <- "Astrophysics"
+
+cat_tags$category <- factor(cat_tags$category)
+unique(cat_tags$category)
+```
+
+Using major categories
+
+```{r}
+articles_major_cats <- merge(articles_processed, cat_tags, by.x = "Primary Category", by.y = "catcode", all.x = TRUE)
+articles_major_cats$category <- factor(articles_major_cats$category)
+
+my_theme <- theme_tufte()
+ggplot(articles_major_cats, aes(x=category)) + geom_bar(fill='lightgreen') + coord_flip() + xlab(NULL) + my_theme + ylab("Article Counts")
+```
+

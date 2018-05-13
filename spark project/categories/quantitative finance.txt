@@ -1,0 +1,9 @@
+q-fin.PR: Pricing of Securities
+q-fin.RM: Risk Management
+q-fin.PM: Portfolio Management
+q-fin.TR: Trading and Microstructure
+q-fin.MF: Mathematical Finance
+q-fin.CP: Computational Finance
+q-fin.ST: Statistical Finance
+q-fin.GN: General Finance
+q-fin.EC: Economics

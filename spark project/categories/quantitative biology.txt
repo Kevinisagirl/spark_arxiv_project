@@ -1,0 +1,10 @@
+q-bio.BM: Biomolecules
+q-bio.GN: Genomics
+q-bio.MN: Molecular Networks
+q-bio.SC: Subcellular Processes
+q-bio.CB: Cell Behavior
+q-bio.NC: Neurons and Cognition
+q-bio.TO: Tissues and Organs
+q-bio.PE: Populations and Evolution
+q-bio.QM: Quantitative Methods
+q-bio.OT: Other
