@@ -28,14 +28,17 @@ world = world.drop(columns = 'Code')
 world2 = pd.concat([world, world1], axis=1)
 
 
-world2.loc[-1] = ['United States', 'edu']
+world2.loc[-1] = ['USA', 'edu']
 world2.index = world2.index + 1
 world2.sort_index(inplace=True) 
 
 df1.rename(columns={'email':'Code'}, inplace=True)
 
+world2.loc[world2['Name'] == "Russian Federation", 'Name'] = "Russia"
+world2.loc[world2['Name'] == "Korea, Republic of", 'Name'] = "South Korea"
+world2.loc[world2['Name'] == "Viet Nam", 'Name'] = "Vietnam"
 
 
 df4 = pd.merge(df1,world2, on = "Code")
-df4.to_csv("emails.country")
+df4.to_csv("emails.country.csv")
 
