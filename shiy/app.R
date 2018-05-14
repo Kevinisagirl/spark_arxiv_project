@@ -32,8 +32,7 @@ data <- subset(data, select = -c(X))
 # Define UI for application that draws a histogram
 ui <- fluidPage( theme =shinytheme("cerulean"),
                  navbarPage("Article Relationships",
-     
-   
+                            
    tabPanel("Collaboration",
             titlePanel("Collaborating Countries"),
    # Sidebar with a slider input for number of bins 
@@ -89,6 +88,18 @@ ui <- fluidPage( theme =shinytheme("cerulean"),
           
             
 ),
+
+tabPanel("Bar Diagram",
+         sidebarLayout(
+           sidebarPanel(
+             h3("Bar Diagram"),
+             hr(),
+             helpText("blah blah")
+           ),
+           mainPanel(
+             plotOutput('countries_barchart')
+           )
+         )),
 
 tabPanel("Bar Diagram",
          sidebarLayout(
@@ -229,6 +240,31 @@ server <- function(input, output) {
      a 
      
    })
+   
+   output$countries_barchart <- renderPlot({
+     country_data <- read.csv(file = "emails.country.csv", header= TRUE, sep=",")
+     
+     country_data$Serial <- rep(1,nrow(country_data))
+     
+     #country_data[country_data == "Russian Federation"] <- "Russia"
+     
+     #ifelse(country_data$Name == "Russian Federation", "Russia", NA)
+     
+     #aggregate by country to get a count 
+     count_country <- aggregate(country_data$Serial,by=list(Name=country_data$Name), FUN=sum)
+     #count_country <- count_country[order(-count_country$x),]
+     colnames(count_country) <- c("Country", "count")
+     
+     #filter for countries with counts of at least 1000
+     
+     count_country <- count_country %>% filter(count > 50)
+     
+     a <- ggplot(count_country, aes(x = reorder(Country, count), y = count, fill=count)) + geom_bar(stat= "identity")+ theme(axis.text.x = element_text(angle = 90, hjust = 1)) + scale_fill_gradient(low = "red", high = "green") + ggtitle("Country Counts for Article Contributors") + xlab(label = "Countries (count > 50)") + ylab(label = "Count") + coord_flip() 
+     a 
+   }
+   )
+   
+   
    
  
    
