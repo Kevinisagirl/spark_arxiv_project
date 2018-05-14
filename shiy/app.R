@@ -108,7 +108,9 @@ tabPanel('Authors',
              hr(),
              helpText('Write some text')
            ),
-           mainPanel(plotlyOutput('graph1'))
+           mainPanel(plotlyOutput('graph1'),
+                     plotlyOutput('graph2'),
+                     plotlyOutput('graph3'))
          ))
    )
 )
@@ -311,13 +313,38 @@ server <- function(input, output) {
      df$bins <- cut(df$X1, breaks=c(0,4,10,15,20,500), labels=c("1-4","5-10","10-15","15-20","20+"))
      setnames(df, "X1", "Number_of_Authors")
      p <- ggplot(df, aes(bins)) + 
-       geom_bar(fill = "Green") + 
+       geom_bar(fill = "lightgreen") + 
        xlab("Number of Authors") + ggtitle("Total authors binned")
      p <- ggplotly(p)
      p
    })
-
+  
+   output$graph2 <- renderPlotly({
+     data44 <- read.csv("numbers.csv")
+     df <- subset(data44, select = "X1")
+     df$bins <- cut(df$X1, breaks=c(0,4,10,15,20,500), labels=c("1-4","5-10","10-15","15-20","20+"))
+     setnames(df, "X1", "Number_of_Authors")
+     a <- ggplot(df, aes(Number_of_Authors)) +
+       geom_histogram(binwidth = 1,fill="lightgreen") + 
+       labs(title = "Total authors per article")
+     a <- ggplotly(a)
+     a
+   })
+   
+   output$graph3 <- renderPlotly({
+     data44 <- read.csv("numbers.csv")
+     df <- subset(data44, select = "X1")
+     df$bins <- cut(df$X1, breaks=c(0,4,10,15,20,500), labels=c("1-4","5-10","10-15","15-20","20+"))
+     setnames(df, "X1", "Number_of_Authors")
+     smaller <- df[which(df[,1]<20),]
+     a <- ggplot(smaller, aes(Number_of_Authors)) +
+       geom_histogram(binwidth = 1,fill="lightgreen",color = 'black') + 
+       labs(title = "Total authors per article (Less than 20 Authors)")
+     a <- ggplotly(a)
+     a
+   })
 }
+
 
 # Run the application 
 shinyApp(ui = ui, server = server)
