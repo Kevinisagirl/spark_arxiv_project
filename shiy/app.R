@@ -1,4 +1,4 @@
-i#
+#
 # This is a Shiny web application. You can run the application by clicking
 # the 'Run App' button above.
 #
@@ -85,6 +85,7 @@ ui <- fluidPage( theme =shinytheme("cerulean"),
               ),
               mainPanel(plotlyOutput("three")) 
             )
+          
             
 ),
 tabPanel("Chord Diagram",
@@ -99,6 +100,15 @@ tabPanel("Chord Diagram",
            mainPanel(
              plotOutput('chord')
            )
+         )),
+tabPanel('Authors',
+         sidebarLayout(
+           sidebarPanel(
+             h3('Authors per Article'),
+             hr(),
+             helpText('Write some text')
+           ),
+           mainPanel(plotlyOutput('graph1'))
          ))
    )
 )
@@ -183,10 +193,8 @@ server <- function(input, output) {
      p <- ggplotly(p, tooltip = "text")
      p
    })
-
+   
    output$chord <- renderPlot({
-     
-     ### Make data
      m <- data.frame(order = 1:6,
                      country = c("United States", "China", "Switzerland", "Germany", "Italy", "Japan"),
                      V3 = c(1, 101, 123, 87, 32, 32),
@@ -277,7 +285,7 @@ server <- function(input, output) {
      df2 <- subset(df2, m > quantile(m,0.6))
      
      ### Plot links
-     p <-for(k in 1:nrow(df2)){
+     p <- for(k in 1:nrow(df2)){
        #i,j reference of flow matrix
        i<-match(df2$orig[k],df1$country)
        j<-match(df2$dest[k],df1$country)
@@ -291,6 +299,21 @@ server <- function(input, output) {
        df1$sum1[i] = df1$sum1[i] + abs(m[i, j])
        df1$sum2[j] = df1$sum2[j] + abs(m[i, j])
      }
+     p
+   }
+   )
+   
+   output$graph1 <- renderPlotly({
+     
+     data44 <- read.csv("numbers.csv")
+     df <- subset(data44, select = "X1")
+     
+     df$bins <- cut(df$X1, breaks=c(0,4,10,15,20,500), labels=c("1-4","5-10","10-15","15-20","20+"))
+     setnames(df, "X1", "Number_of_Authors")
+     p <- ggplot(df, aes(bins)) + 
+       geom_bar(fill = "Green") + 
+       xlab("Number of Authors") + ggtitle("Total authors binned")
+     p <- ggplotly(p)
      p
    })
 
