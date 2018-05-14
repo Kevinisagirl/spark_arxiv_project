@@ -1,4 +1,4 @@
-#
+i#
 # This is a Shiny web application. You can run the application by clicking
 # the 'Run App' button above.
 #
@@ -92,7 +92,7 @@ tabPanel("Chord Diagram",
            sidebarPanel(
              h3("Chord Diagram"),
              hr(),
-             helpText("Tis graph represents the interactions between
+             helpText("This graph represents the interactions between
                       the countries with the highest count of authors 
                       from these countries")
            ),
