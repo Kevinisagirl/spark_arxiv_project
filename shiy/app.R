@@ -138,7 +138,77 @@ ui <- fluidPage( theme =shinytheme("cerulean"),
                 plotlyOutput("two")
               )
                 )
+
 )
+),
+   tabPanel("Overall View",
+            titlePanel("Academic Emails"),
+            sidebarLayout(
+              sidebarPanel(
+                h3("Geographic Representation of all Academic Emails"),
+                hr(),
+                helpText('This is a geographical representation of all
+                         academic emails associated with Academic papers 
+                         in our dataset.  We filtered by academic addresses by 
+                         identifying the ending of an address, cross-referencing it
+                         with a third party dataset in order to identify country
+                         of origin for an address. ')
+              ),
+              mainPanel(plotlyOutput("three")) 
+            )
+          
+            
+),
+
+tabPanel("Bar Diagram",
+         sidebarLayout(
+           sidebarPanel(
+             h3("Bar Diagram"),
+             hr(),
+             helpText("This bar shows the count for the top country collaborations given author emails.")
+           ),
+           mainPanel(
+             plotOutput('barchart')
+           )
+         )),
+
+tabPanel("Chord Diagram",
+         sidebarLayout(
+           sidebarPanel(
+             h3("Chord Diagram"),
+             hr(),
+             helpText("This graph represents the interactions between
+                      the countries with the highest count of authors 
+                      from these countries")
+           ),
+           mainPanel(
+             plotOutput('chord')
+           )
+         )),
+tabPanel('Authors',
+         sidebarLayout(
+           sidebarPanel(
+             h3('Authors per Article'),
+             hr(),
+             helpText('The following visuals display the total number
+                      of authors per article in different formats.  The first
+                      graph displays authors per article in terms of binned data.'),
+             hr(),
+             helpText(' The second visual demonstrates the whole distribution of 
+                      authors.  We thought it prudent to include this to show
+                      that there is a wide range of number of authors per article
+                      with the largest article having more than 400 authors.  '),
+             hr(),
+             helpText('The
+                      third graph displays the distribution of articles with less than
+                      20 authors.  Its interesting to note that it is most common to have
+                      an article with 2 authors.')
+             
+           ),
+           mainPanel(plotlyOutput('graph1'),
+                     plotlyOutput('graph2'),
+                     plotlyOutput('graph3'))
+         ))
    )
 )
 
@@ -389,13 +459,38 @@ server <- function(input, output) {
      df$bins <- cut(df$X1, breaks=c(0,4,10,15,20,500), labels=c("1-4","5-10","10-15","15-20","20+"))
      setnames(df, "X1", "Number_of_Authors")
      p <- ggplot(df, aes(bins)) + 
-       geom_bar(fill = "Green") + 
+       geom_bar(fill = "lightgreen") + 
        xlab("Number of Authors") + ggtitle("Total authors binned")
      p <- ggplotly(p)
      p
    })
-
+  
+   output$graph2 <- renderPlotly({
+     data44 <- read.csv("numbers.csv")
+     df <- subset(data44, select = "X1")
+     df$bins <- cut(df$X1, breaks=c(0,4,10,15,20,500), labels=c("1-4","5-10","10-15","15-20","20+"))
+     setnames(df, "X1", "Number_of_Authors")
+     a <- ggplot(df, aes(Number_of_Authors)) +
+       geom_histogram(binwidth = 1,fill="lightgreen") + 
+       labs(title = "Total authors per article")
+     a <- ggplotly(a)
+     a
+   })
+   
+   output$graph3 <- renderPlotly({
+     data44 <- read.csv("numbers.csv")
+     df <- subset(data44, select = "X1")
+     df$bins <- cut(df$X1, breaks=c(0,4,10,15,20,500), labels=c("1-4","5-10","10-15","15-20","20+"))
+     setnames(df, "X1", "Number_of_Authors")
+     smaller <- df[which(df[,1]<20),]
+     a <- ggplot(smaller, aes(Number_of_Authors)) +
+       geom_histogram(binwidth = 1,fill="lightgreen",color = 'black') + 
+       labs(title = "Total authors per article (Less than 20 Authors)")
+     a <- ggplotly(a)
+     a
+   })
 }
+
 
 # Run the application 
 shinyApp(ui = ui, server = server)

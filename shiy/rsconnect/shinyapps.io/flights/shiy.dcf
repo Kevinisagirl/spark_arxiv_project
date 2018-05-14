@@ -5,8 +5,8 @@ account: flights
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 342325
-bundleId: 1373432
+bundleId: 1373710
 url: https://flights.shinyapps.io/shiy/
-when: 1526322546.59595
+when: 1526331936.72064
 asMultiple: FALSE
 asStatic: FALSE
