@@ -1,0 +1,42 @@
+---
+title: "network countries"
+author: "Stephanie Rivera"
+date: "5/14/2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+
+```{r cars}
+counts_country <- read.csv(file ="countries_pairs_counts.csv",header= TRUE, sep=",",stringsAsFactors = FALSE)
+
+#filter for unique pairs
+
+counts_country$country2 <- trimws(counts_country$country2)
+new <- counts_country[which(counts_country$country1!=counts_country$country2),]
+
+new$combo <- paste(new$country1,new$country2)
+
+new <- new %>% filter(count >10)
+
+new <- new[-c(26,21),]
+
+```
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+
+a <- ggplot(new, aes(x = reorder(combo, count), y = count, fill=count)) + geom_bar(stat= "identity")+ theme(axis.text.x = element_text(angle = 90, hjust = 1)) + scale_fill_gradient(low = "red", high = "green") + ggtitle("Country counts for article contributors") + xlab(label = "Countries (count > 10)") + ylab(label = "Count") + coord_flip() 
+a 
+
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
