@@ -95,7 +95,7 @@ tabPanel("Bar Diagram",
            sidebarPanel(
              h3("Bar Diagram"),
              hr(),
-             helpText("blah blah")
+             helpText("This bar shows the count for the top country collaborations given author emails.")
            ),
            mainPanel(
              plotOutput('barchart')
