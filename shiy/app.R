@@ -30,8 +30,8 @@ ui <- fluidPage( theme =shinytheme("cerulean"),
                  navbarPage("Article Relationships",
      
    
-   tabPanel("Association",
-            titlePanel("Associated Countries"),
+   tabPanel("Collaboration",
+            titlePanel("Collaborating Countries"),
    # Sidebar with a slider input for number of bins 
    sidebarLayout(
       sidebarPanel(
@@ -117,7 +117,7 @@ server <- function(input, output) {
      p <- ggplot() 
      p <- p + geom_polygon(data=map1, aes(x=long, y=lat, group = group, text = paste("Country: ",region,"\n","Count: ",freq) ,fill=log(freq)),colour="white"
      ) + scale_fill_continuous(low = "lightgreen", high = "darkgreen", guide="colorbar") +
-       labs(title= paste("Countries Associated with", input$country))
+       labs(title= paste("Countries Collaborating with", input$country))
      
      p <- ggplotly(p, tooltip = "text")
      p
@@ -162,7 +162,7 @@ server <- function(input, output) {
      p <- ggplot() 
      p <- p + geom_polygon(data=map2, aes(x=long, y=lat, group = group, text = paste("Country: ",region,"\n","Count: ",fake) ,fill=log(freq)),colour="white"
      ) + scale_fill_continuous(low = "lightgreen", high = "darkgreen", guide="colorbar") +
-       labs(title= "Emails Associated with Publications") + theme_minimal()
+       labs(title= "Email Locations of Publications") + theme_minimal()
      
      p <- ggplotly(p, tooltip = "text")
      p
