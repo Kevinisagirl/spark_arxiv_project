@@ -115,3 +115,59 @@ my_theme <- theme_tufte()
 ggplot(articles_major_cats, aes(x=category)) + geom_bar(fill='lightgreen') + coord_flip() + xlab(NULL) + my_theme + ylab("Article Counts")
 ```
 
+Trim the data down so only authors that appear on more than 1 journal are used as sources
+Here we will get a list of the authors that appear on more than 1 article
+```{r}
+all_authors <- vector('character')
+
+for(i in 1:nrow(articles_major_cats)){
+  authors <- articles_major_cats[i, "Authors"]
+  authorlist <- strsplit(authors, split=", ")[[1]]
+  if(length(authorlist) > 1){
+    all_authors <- c(all_authors, authorlist)
+  }
+}
+
+# results in 35480 unique authors that have published with others
+
+duplicate_authors <- unique(all_authors[duplicated(all_authors)])
+# 5107 unique authors that are present on more than 1 article
+```
+
+```{r}
+# WARNING: This code takes a while to run
+authors.df <- data.frame(Source=character(),
+                         Target=character())
+
+src.target <- function(x){
+  combos <- subset(expand.grid(rep(list(x),2)), Var1 != Var2)
+  return(combos)
+}
+
+for(i in 1:nrow(articles_major_cats)){
+  authors <- articles_major_cats[i, "Authors"]
+  authorlist <- strsplit(authors, split=", ")[[1]]
+  if(length(authorlist) > 1 & any(authorlist %in% duplicate_authors)){
+    authors.df <- rbind(as.matrix(authors.df), as.matrix(src.target(authorlist)))
+  }
+}
+
+authors.df <- data.frame(authors.df)
+```
+
+remove rows where source is not one of the duplicated authors
+```{r}
+subsetted.authors.src.target <- subset(authors.df, authors.df$Source %in% duplicate_authors)
+subsetted.authors.src.target<- unique(subsetted.authors.src.target)
+```
+
+try a network graph
+```{r}
+library(networkD3)
+
+simpleNetwork(subsetted.authors.src.target[1:5000,], height=700, width=700, zoom = TRUE)
+```
+
+### How many solo authors are there?
+
+
