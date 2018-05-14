@@ -31,7 +31,8 @@ data <- subset(data, select = -c(X))
 
 # Define UI for application that draws a histogram
 ui <- fluidPage( theme =shinytheme("cerulean"),
-                 navbarPage("Article Relationships",
+                 
+                 navbar("Article Relationships",
               tabPanel("Overall View",
                 titlePanel("Academic Emails"),
               sidebarLayout(
@@ -210,7 +211,7 @@ tabPanel('Authors',
                      plotlyOutput('graph3'))
          ))
    )
-)
+
 
 # Define server logic required to draw a histogram
 server <- function(input, output) {
