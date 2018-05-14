@@ -22,6 +22,7 @@ library(circlize)
 library(migest)
 
 
+
 data <- read.csv("emails.country.csv")
 generic <- read.csv("generic_email.csv")
 genz <- read.csv("gen.and.org.csv")
@@ -88,6 +89,19 @@ ui <- fluidPage( theme =shinytheme("cerulean"),
           
             
 ),
+
+tabPanel("Bar Diagram",
+         sidebarLayout(
+           sidebarPanel(
+             h3("Bar Diagram"),
+             hr(),
+             helpText("This bar shows the count for the top country collaborations given author emails.")
+           ),
+           mainPanel(
+             plotOutput('barchart')
+           )
+         )),
+
 tabPanel("Chord Diagram",
          sidebarLayout(
            sidebarPanel(
@@ -208,6 +222,30 @@ server <- function(input, output) {
      p <- ggplotly(p, tooltip = "text")
      p
    })
+  
+
+   output$barchart <- renderPlot({
+     
+
+     counts_country <- read.csv(file ="countries_pairs_counts.csv",header= TRUE, sep=",",stringsAsFactors = FALSE)
+     
+     #filter for unique pairs
+     
+     counts_country$country2 <- trimws(counts_country$country2)
+     new <- counts_country[which(counts_country$country1!=counts_country$country2),]
+     
+     new$combo <- paste(new$country1,new$country2)
+     
+     new <- new %>% filter(count >10)
+     
+     new <- new[-c(26,21),]
+     
+     a <- ggplot(new, aes(x = reorder(combo, count), y = count, fill=count)) + geom_bar(stat= "identity")+ theme(axis.text.x = element_text(angle = 90, hjust = 1)) + scale_fill_gradient(low = "red", high = "green") + ggtitle("Country counts for article contributors") + xlab(label = "Countries (count > 10)") + ylab(label = "Count") + coord_flip() 
+     a 
+     
+   })
+   
+ 
    
    output$chord <- renderPlot({
      m <- data.frame(order = 1:6,
