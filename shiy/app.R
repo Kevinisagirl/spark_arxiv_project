@@ -106,7 +106,20 @@ tabPanel('Authors',
            sidebarPanel(
              h3('Authors per Article'),
              hr(),
-             helpText('Write some text')
+             helpText('The following visuals display the total number
+                      of authors per article in different formats.  The first
+                      graph displays authors per article in terms of binned data.'),
+             hr(),
+             helpText(' The second visual demonstrates the whole distribution of 
+                      authors.  We thought it prudent to include this to show
+                      that there is a wide range of number of authors per article
+                      with the largest article having more than 400 authors.  '),
+             hr(),
+             helpText('The
+                      third graph displays the distribution of articles with less than
+                      20 authors.  Its interesting to note that it is most common to have
+                      an article with 2 authors.')
+             
            ),
            mainPanel(plotlyOutput('graph1'),
                      plotlyOutput('graph2'),
