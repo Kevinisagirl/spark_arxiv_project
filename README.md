@@ -1,5 +1,7 @@
 # spark_arxiv_project
 
+## Check out our cool Shiny App!
+https://flights.shinyapps.io/shiy/
 
 #### google slides
 https://docs.google.com/presentation/d/1xhFVs5D9IPWXD1l-HwGituCQ1zfEXlnROen9VGMU-vE/edit?ts=5af864e2#slide=id.g35f391192_04
